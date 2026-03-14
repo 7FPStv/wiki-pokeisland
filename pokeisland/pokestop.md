@@ -1,0 +1,6 @@
+---
+icon: map-pin
+---
+
+# PokéStop
+

@@ -1,0 +1,6 @@
+---
+icon: boxing-glove
+---
+
+# Duel
+

@@ -1,0 +1,6 @@
+---
+icon: bags-shopping
+---
+
+# Boutique
+
