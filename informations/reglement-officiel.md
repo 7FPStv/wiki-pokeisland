@@ -74,9 +74,7 @@ Il est interdit de :
 * provoquer volontairement des conflits
 * envoyer des messages nuisibles à la communauté
 
-
-
-#### publicité
+#### Publicittttttt
 
 La publicité est interdite, notamment pour :
 
