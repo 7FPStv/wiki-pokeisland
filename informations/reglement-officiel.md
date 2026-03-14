@@ -4,13 +4,9 @@ icon: scale-balanced
 
 # Règlement officiel
 
-Ce règlement a pour objectif d'assurer une expérience de jeu agréable et équitable pour tous les joueurs. En rejoignant le serveur, vous acceptez automatiquement l'ensemble des règles décrites ci-dessous.
-
-Le non-respect de ces règles peut entraîner des sanctions.
+Ce règlement a pour objectif d'assurer une expérience de jeu agréable et équitable pour tous les joueurs. En rejoignant le serveur, vous acceptez automatiquement l'ensemble des règles décrites ci-dessous. Le non-respect de ces règles peut entraîner des sanctions.
 
 ***
-
-## Règles générales
 
 {% hint style="danger" icon="scale-balanced" %}
 **Acceptation du règlement**\
@@ -29,7 +25,16 @@ Toute contestation doit être effectuée calmement via les moyens prévus (ticke
 Le staff se réserve le droit d'appliquer une sanction pour tout comportement jugé nuisible au serveur, même si celui-ci n'est pas explicitement mentionné dans ce règlement.
 {% endhint %}
 
+{% hint style="danger" %}
+**Modification du règlement**\
+Le staff se réserve le droit de modifier ou compléter ce règlement à tout moment afin de garantir le bon fonctionnement du serveur. Les joueurs seront informés des modifications importantes.
+{% endhint %}
+
+<p align="right"><em><mark style="color:$info;">Mis à jour le : 15/03/2026</mark></em></p>
+
 ***
+
+## Règles générales
 
 ### <mark style="color:red;">Comportement</mark>
 
@@ -86,13 +91,13 @@ Cela inclut également les messages privés.
 
 ***
 
-## 4. Pseudos et skins
+### <mark style="color:red;">Pseudos et skins</mark>
 
-### 4.1 Contenu autorisé
+#### Contenu autorisé
 
 Les pseudos et skins doivent rester appropriés et respectueux.
 
-### 4.2 Contenu interdit
+#### Contenu interdit
 
 Les pseudos ou skins contenant les éléments suivants sont interdits :
 
@@ -101,7 +106,7 @@ Les pseudos ou skins contenant les éléments suivants sont interdits :
 * contenu sexuel
 * références extrémistes
 
-### 4.3 Usurpation d'identité
+#### Usurpation d'identité
 
 Il est interdit d'imiter ou d'usurper l'identité :
 
@@ -110,9 +115,9 @@ Il est interdit d'imiter ou d'usurper l'identité :
 
 ***
 
-## 5. Triche et modifications du jeu
+### <mark style="color:red;">Triche et modifications du jeu</mark>
 
-### 5.1 Triche
+#### Triche
 
 Toute forme de triche est strictement interdite.
 
@@ -125,7 +130,7 @@ Cela inclut notamment :
 * scripts automatisés
 * logiciels donnant un avantage injuste
 
-### 5.2 Mods autorisés
+#### Mods autorisés
 
 Les mods purement :
 
@@ -135,17 +140,16 @@ Les mods purement :
 
 peuvent être autorisés tant qu’ils ne donnent aucun avantage en jeu.
 
-### 5.3 Vérifications
+#### Vérifications
 
-Le staff se réserve le droit d'effectuer des vérifications afin de détecter toute triche.
-
+Le staff se réserve le droit d'effectuer des vérifications afin de détecter toute triche.\
 Refuser une vérification peut entraîner une sanction.
 
 ***
 
-## 6. Bugs et exploit
+### <mark style="color:red;">Bugs et exploit</mark>
 
-### 6.1 Exploitation de bugs
+#### Exploitation de bugs
 
 L'exploitation de bugs est strictement interdite.
 
@@ -155,99 +159,98 @@ Cela inclut notamment :
 * duplication de Pokémon
 * exploitation de failles du serveur
 
-### 6.2 Signalement
+#### Signalement
 
-Tout bug découvert doit être signalé au staff dès que possible.
-
+Tout bug découvert doit être signalé au staff dès que possible.\
 Ne pas signaler un bug volontairement peut entraîner une sanction.
 
 ***
 
-## 7. Constructions et bases
+### <mark style="color:red;">Constructions et bases</mark>
 
-### 7.1 Respect des constructions
+#### Respect des constructions
 
 Les constructions des autres joueurs doivent être respectées.
 
-### 7.2 Interdictions
+#### Interdictions
 
 Il est interdit de :
 
 * grief une construction
 * voler dans les coffres
 * modifier une base sans autorisation
-* construire des structures offensantes
+* construire des structures offensantes / discriminantes
 
-### 7.3 Lag serveur
+#### Lag serveur
 
 Les constructions ou machines causant des problèmes de performance peuvent être supprimées par le staff.
 
 ***
 
-## 8. Pokémon et gameplay
+### <mark style="color:red;">Pokémon et gameplay</mark>
 
-### 8.1 Exploits Pokémon
+#### Exploits Pokémon
 
 L’utilisation de bugs liés aux Pokémon est interdite.
 
-### 8.2 Pokémon illégitimes
+#### Pokémon illégitimes
 
 Les Pokémon obtenus par triche ou par exploitation de bugs sont interdits.
 
-### 8.3 Fair-play
+#### Fair-play
 
 Les joueurs doivent adopter un comportement fair-play dans leurs interactions.
 
 ***
 
-## 9. Économie et échanges
+### <mark style="color:red;">Économie et échanges</mark>
 
-### 9.1 Commerce
+#### Commerce
 
 Les échanges entre joueurs doivent être honnêtes.
 
-### 9.2 Arnaques
+#### Arnaques
 
 Les arnaques sont interdites.
 
-### 9.3 Commerce externe
+#### Commerce externe
 
 Il est interdit de :
 
 * vendre des objets ou Pokémon contre de l’argent réel
 * effectuer des échanges inter-serveurs
 
-### 9.4 Responsabilité
+#### Responsabilité
 
 Les joueurs restent responsables des échanges qu'ils effectuent.
 
 ***
 
-## 10. Comptes et sécurité
+### <mark style="color:red;">Comptes et sécurité</mark>
 
-### 10.1 Responsabilité du compte
+#### Responsabilité du compte
 
-Chaque joueur est responsable de son compte.
-
+Chaque joueur est responsable de son compte.\
 Toute action effectuée sur celui-ci lui est attribuée.
 
-### 10.2 Multi-comptes
+#### Multi-comptes
 
-L'utilisation de plusieurs comptes pour obtenir un avantage est interdite.
+L'utilisation de plusieurs comptes est interdite.\
+L'utilisation d'un compte qui n'est pas le sien est aussi interdit.
 
-### 10.3 Contournement de sanction
+#### Contournement de sanction
 
 Contourner une sanction à l'aide d'un autre compte est strictement interdit.
 
 ***
 
-## 11. Staff et sanctions
+### <mark style="color:red;">Staff et sanctions</mark>
 
-### 11.1 Rôle du staff
+#### Rôle du staff
 
 Le staff est chargé d'assurer le bon fonctionnement du serveur et l'application du règlement.
 
-### 11.2 Sanctions possibles
+#### Sanctions possibles
 
 Les sanctions peuvent inclure :
 
@@ -257,7 +260,7 @@ Les sanctions peuvent inclure :
 * bannissement temporaire
 * bannissement permanent
 
-### 11.3 Application des sanctions
+#### Application des sanctions
 
 Les sanctions sont appliquées selon :
 
@@ -267,42 +270,18 @@ Les sanctions sont appliquées selon :
 
 ***
 
-## 12. Support et signalements
+### <mark style="color:red;">Support et signalements</mark>
 
-### 12.1 Contacter le staff
+#### Contacter le staff
 
 Si vous rencontrez un problème, vous pouvez contacter le staff via :
 
-* le Discord du serveur
-* le système de ticket
-* les moyens de support officiels
+* le système de ticket sur le Discord du serveur
 
-### 12.2 Preuves
+#### Preuves
 
 Toute plainte doit être accompagnée de preuves lorsque cela est possible.
 
-### 12.3 Fausses accusations
+#### Fausses accusations
 
 Les fausses accusations peuvent être sanctionnées.
-
-***
-
-## 13. Modification du règlement
-
-Le staff se réserve le droit de modifier ou compléter ce règlement à tout moment afin de garantir le bon fonctionnement du serveur.
-
-Les joueurs seront informés des modifications importantes.
-
-***
-
-✅ **En jouant sur PokeIsland, vous acceptez l'intégralité de ce règlement.**
-
-***
-
-Si tu veux, je peux aussi te faire **3 améliorations que presque tous les gros serveurs Cobblemon ont dans leur règlement** :
-
-* une section **"règles staff / abus de pouvoir"** (très pro sur les GitBook)
-* une section **"règles Discord"**
-* une section **"règlement Pokémon avancé (légendaires, reproduction, shiny, etc.)"**
-
-et ça rendra ton **GitBook vraiment au niveau des gros serveurs Cobblemon**.
