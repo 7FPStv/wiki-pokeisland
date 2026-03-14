@@ -58,13 +58,13 @@ Tout comportement jugé toxique ou perturbant pour la communauté peut être san
 
 ***
 
-## <mark style="color:red;">Chat et communication</mark>
+### <mark style="color:red;">Chat et communication</mark>
 
 ### Utilisation du chat
 
 Le chat doit rester lisible et respectueux. Les joueurs doivent éviter de perturber les conversations.
 
-### 3.2 Interdictions
+#### Interdictions
 
 Il est interdit de :
 
@@ -74,7 +74,9 @@ Il est interdit de :
 * provoquer volontairement des conflits
 * envoyer des messages nuisibles à la communauté
 
-### Publicité
+
+
+#### publicité
 
 La publicité est interdite, notamment pour :
 
