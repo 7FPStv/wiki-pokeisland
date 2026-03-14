@@ -6,16 +6,16 @@
 ## Informations
 
 * [Téléchargement](informations/telechargement.md)
-* [Règlements](informations/reglements.md)
-* [Participer au wiki](informations/participer-au-wiki.md)
+* [Règlement officiel](informations/reglement-officiel.md)
 * [Notre équipe](informations/notre-equipe.md)
+* [Liens utiles](informations/liens-utiles.md)
+* [Contribuer](informations/contribuer.md)
 * [FAQ](informations/faq.md)
 
 ## Tutoriel
 
 * [Premier pas](tutoriel/premier-pas.md)
 * [Vote & gagne](tutoriel/vote-and-gagne.md)
-* [Page 1](tutoriel/page-1.md)
 
 ## PokeIsland
 

@@ -1,4 +1,5 @@
 ---
+icon: hand-wave
 layout:
   width: wide
   title:
@@ -20,8 +21,6 @@ layout:
 # Bienvenue
 
 <h2 align="center">Bienvenue sur PokeIsland</h2>
-
-<figure><img src=".gitbook/assets/PokeWorld_watermark.jpg" alt=""><figcaption></figcaption></figure>
 
 <p align="center">Découvre les sections du wiki pour t'aider durant ton aventure sur le serveur !</p>
 
