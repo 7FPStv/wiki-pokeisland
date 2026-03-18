@@ -12,7 +12,7 @@ icon: web-awesome
 
 ## Modération
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/rank_moderateur.png" alt="" data-size="original"></td><td>Lutze</td><td>Modératrice</td></tr><tr><td><img src="../.gitbook/assets/rank_mj.png" alt="" data-size="original"></td><td><strong>Kiru_</strong></td><td><sup>Modérateur-Joueur</sup></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/rank_moderateur.png" alt="" data-size="original"></td><td><strong>Lutze</strong></td><td><sup>Modératrice</sup></td></tr><tr><td><img src="../.gitbook/assets/rank_mj.png" alt="" data-size="original"></td><td><strong>Kiru_</strong></td><td><sup>Modérateur-Joueur</sup></td></tr></tbody></table>
 
 ***
 
