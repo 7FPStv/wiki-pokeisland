@@ -20,6 +20,7 @@
 ## PokeIsland
 
 * [Dresseur](pokeisland/dresseur.md)
+* [Page 1](pokeisland/page-1.md)
 * [Rangs](pokeisland/rangs.md)
 * [PokéWorld](pokeisland/pokeworld/README.md)
   * [Arènes](pokeisland/pokeworld/arenes.md)
