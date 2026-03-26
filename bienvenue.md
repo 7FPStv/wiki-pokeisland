@@ -20,8 +20,8 @@ layout:
 
 # Bienvenue
 
-<h2 align="center">Bienvenue sur PokeIsland</h2>
+## Bienvenue sur PokeIsland
 
-<p align="center">Découvre les sections du wiki pour t'aider durant ton aventure sur le serveur !</p>
+<mark style="color:$info;">Retrouve toutes les informations clés pour progresser et découvrir PokeIsland</mark>
 
-<table data-view="cards"><thead><tr><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td data-object-fit="fill"><a href=".gitbook/assets/PokeWorld_watermark.jpg">PokeWorld_watermark.jpg</a></td></tr><tr><td><a href=".gitbook/assets/PokeWorld_watermark.jpg">PokeWorld_watermark.jpg</a></td></tr><tr><td><a href=".gitbook/assets/PokeWorld_watermark.jpg">PokeWorld_watermark.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h3>Découvrir le jeu</h3></td><td><sup><mark style="color:$info;">En savoir plus</mark></sup> </td><td data-object-fit="fill"><a href=".gitbook/assets/PokeWorld_watermark.jpg">PokeWorld_watermark.jpg</a></td></tr><tr><td></td><td></td><td><a href=".gitbook/assets/PokeWorld_watermark.jpg">PokeWorld_watermark.jpg</a></td></tr><tr><td></td><td></td><td><a href=".gitbook/assets/PokeWorld_watermark.jpg">PokeWorld_watermark.jpg</a></td></tr></tbody></table>

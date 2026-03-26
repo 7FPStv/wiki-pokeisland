@@ -23,7 +23,6 @@
 * [Rangs](pokeisland/rangs.md)
 * [PokéWorld](pokeisland/pokeworld/README.md)
   * [Arènes](pokeisland/pokeworld/arenes.md)
-  * [Arènes cachées](pokeisland/pokeworld/arenes-cachees.md)
   * [Safari](pokeisland/pokeworld/safari.md)
 * [Ressources](pokeisland/ressources/README.md)
   * [Nether](pokeisland/ressources/nether.md)
