@@ -30,7 +30,7 @@ Pour augmenter ton niveau de dresseur tu peux effectuer plusieurs actions, pour 
 
 <details>
 
-<summary>🎁 Récompenses par niveau</summary>
+<summary><strong>Récompenses par niveau 🎁</strong></summary>
 
 À chaque niveau franchi, tu reçois automatiquement des récompenses. Elles sont divisées en deux colonnes : **gratuit** (tout le monde) et **premium** (joueurs avec l'abonnement Premium).
 

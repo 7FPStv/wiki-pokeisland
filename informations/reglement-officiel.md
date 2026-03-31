@@ -42,9 +42,7 @@ Le staff se réserve le droit de modifier ou compléter ce règlement à tout mo
 
 Chaque joueur doit adopter un comportement respectueux envers :
 
-* les autres joueurs
-* les membres du staff
-* la communauté du serveur
+* les autres joueurs, la communauté du serveur, les membres du staff
 
 #### Comportements interdits
 
@@ -136,7 +134,6 @@ Les mods purement :
 
 * visuels
 * cosmétiques
-* d’optimisation
 
 peuvent être autorisés tant qu’ils ne donnent aucun avantage en jeu.
 

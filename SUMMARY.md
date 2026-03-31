@@ -5,7 +5,8 @@
 
 ## Informations
 
-* [Téléchargement](informations/telechargement.md)
+* [Téléchargement](informations/telechargement/README.md)
+  * [Résolution de téléchargement](informations/telechargement/resolution-de-telechargement.md)
 * [Règlement officiel](informations/reglement-officiel.md)
 * [Notre équipe](informations/notre-equipe.md)
 * [Liens utiles](informations/liens-utiles.md)

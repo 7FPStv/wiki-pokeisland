@@ -1,6 +1,0 @@
----
-icon: gamepad-modern
----
-
-# Téléchargement
-

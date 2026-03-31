@@ -18,7 +18,7 @@ Ton aventure commence  sur l'île principal du Spawn, en plus de l'île du spawn
 
 <details>
 
-<summary>Découvrir comment débloquer l'île Water.</summary>
+<summary><strong>Comment débloquer la première île ?</strong> 🏝️</summary>
 
 * À ton arrivée sur l’île principale du **Spawn**, avance droit devant toi jusqu’au panneau « Saute » et crée ton île.
 * Puis, prends la route vers la droite en direction du dôme de l’arène. Sur ton chemin, un panneau **Vers l’aventure** se dressera devant toi : suis-le jusqu’à la plage, près des piliers en bois.
@@ -26,7 +26,7 @@ Ton aventure commence  sur l'île principal du Spawn, en plus de l'île du spawn
 
 </details>
 
-
+***
 
 ### Caractéristiques des îles
 
