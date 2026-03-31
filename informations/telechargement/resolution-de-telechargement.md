@@ -1,6 +1,6 @@
 # Résolution de téléchargement
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Windows à protégé votre ordinateur</td><td data-object-fit="contain"><a href="../../.gitbook/assets/image.png">image.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Windows à protégé votre ordinateur</td><td data-object-fit="contain"><a href="../../.gitbook/assets/image.png">image.png</a></td><td><a href="resolution-de-telechargement.md#windows-a-protege-votre-ordinateur">#windows-a-protege-votre-ordinateur</a></td></tr></tbody></table>
 
 <details>
 
