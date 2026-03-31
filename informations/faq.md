@@ -4,4 +4,6 @@ icon: message-question
 
 # FAQ
 
-En cours de rédaction…
+{% hint style="warning" %}
+**En cours de rédaction…**
+{% endhint %}

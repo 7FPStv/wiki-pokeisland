@@ -36,7 +36,6 @@
   * [Rewards](pokeisland/economie/rewards.md)
   * [Enchères](pokeisland/economie/encheres.md)
 * [Boutique](pokeisland/boutique.md)
-* [Balise](pokeisland/balise.md)
 * [Duel](pokeisland/duel.md)
 * [Energie](pokeisland/energie.md)
 * [PokéStop](pokeisland/pokestop.md)
@@ -45,6 +44,7 @@
 * [Chasse](pokeisland/chasse.md)
 * [Badges](pokeisland/badges.md)
 * [Tour de combat](pokeisland/tour-de-combat.md)
+* [Balise](pokeisland/balise.md)
 
 ## Cobblemon
 

@@ -9,7 +9,7 @@ icon: globe
 
 ## Découvrir l'aventure du PokéWorld
 
-Ton aventure commence  sur l'île principal du Spawn, en plus de l'île du spawn, il existe 7 autres îles avec chacune d'entre elles des spécificités précises pour ton aventure. Mais pour les découvrir tu vas devoir partir en exploration pour les débloquer dans ton menu de <kbd>**/pokeworld**</kbd>
+Ton aventure commence sur l'île principal du Spawn, en plus de l'île du spawn, il existe 7 autres îles avec chacune d'entre elles des spécificités précises pour ton aventure. Mais pour les découvrir tu vas devoir partir en exploration pour les débloquer dans ton menu de <kbd>**/pokeworld**</kbd>
 
 <figure><img src="../../.gitbook/assets/interface-pokeworld.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,23 +34,30 @@ Ton aventure commence  sur l'île principal du Spawn, en plus de l'île du spawn
 
 <summary>Spawn</summary>
 
-
-
-</details>
-
-<details>
-
-<summary>Water </summary>
-
-
+* Arène
+* Arène caché
+* Safari
 
 </details>
 
 <details>
 
-<summary>Fire</summary>
+<summary>Water</summary>
 
+* Arène
+* Arène caché
 
+</details>
+
+<details>
+
+<summary>Fir</summary>
+
+* Arène
+* Safari EVs
+  * Défense
+  * Défense Spé.
+  * PV
 
 </details>
 
@@ -58,7 +65,8 @@ Ton aventure commence  sur l'île principal du Spawn, en plus de l'île du spawn
 
 <summary>Plant</summary>
 
-
+* Arène
+* Arène caché
 
 </details>
 
@@ -66,7 +74,11 @@ Ton aventure commence  sur l'île principal du Spawn, en plus de l'île du spawn
 
 <summary>Rock</summary>
 
-
+* Arène
+* Safari EVs
+  * Attaque
+  * Attaque Spé.
+  * Vitesse
 
 </details>
 
@@ -74,7 +86,8 @@ Ton aventure commence  sur l'île principal du Spawn, en plus de l'île du spawn
 
 <summary>Ghost</summary>
 
-
+* Arène
+* Arène caché
 
 </details>
 
@@ -82,7 +95,12 @@ Ton aventure commence  sur l'île principal du Spawn, en plus de l'île du spawn
 
 <summary>Frozen</summary>
 
-
+* Arène
+* Safari (Capture)
+  * Commun : 60%
+  * Peu commun : 30%
+  * Rare : 10%
+  * Ultra rare : 0.01%
 
 </details>
 
@@ -90,6 +108,12 @@ Ton aventure commence  sur l'île principal du Spawn, en plus de l'île du spawn
 
 <summary>Mesa</summary>
 
-
+* Arène
+* Arène caché
 
 </details>
+
+***
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Découvrir les Arènes</td><td><a href="arenes.md">arenes.md</a></td></tr><tr><td>Explorer les Safaris</td><td><a href="safari.md">safari.md</a></td></tr></tbody></table>
+
