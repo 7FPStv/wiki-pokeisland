@@ -1,14 +1,19 @@
 ---
 description: Retrouve toutes les informations clés pour progresser et découvrir PokeIsland.
 icon: hand-wave
+cover: .gitbook/assets/PokeWorld_watermark.png
+coverY: -11.454138702460849
 layout:
   width: wide
+  cover:
+    visible: true
+    size: full
   title:
     visible: false
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
