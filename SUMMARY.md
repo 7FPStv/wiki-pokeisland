@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Maintenance wiki](README.md)
-* [Bienvenue](bienvenue.md)
+* [Bienvenue sur PokeIsland](bienvenue.md)
 
 ## Informations
 
