@@ -20,7 +20,7 @@ layout:
 
 # Maintenance wiki
 
-<h2 align="center">Bienvenue sur le Wiki de PokeIsland</h2>
+<h2 align="center">Bienvenue sur le Wiki de <mark style="color:$primary;"><strong>PokeIsland</strong></mark></h2>
 
 {% hint style="danger" icon="circle-info" %}
 Notre wiki est en cours de maintenance, merci pour votre compréhension il arrive très vite.
