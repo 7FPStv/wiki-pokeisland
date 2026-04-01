@@ -5,7 +5,7 @@
 
 ## Informations
 
-* [Téléchargement](informations/telechargement/README.md)
+* [Jouer à PokeIsland](informations/telechargement/README.md)
   * [Résolution de téléchargement](informations/telechargement/resolution-de-telechargement.md)
 * [Règlement officiel](informations/reglement-officiel.md)
 * [Notre équipe](informations/notre-equipe.md)
