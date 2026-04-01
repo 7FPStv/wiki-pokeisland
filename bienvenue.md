@@ -40,7 +40,17 @@ PokeIsland est un serveur francophone sur **Minecraft Java Edition**, basé sur 
 
 <sup><mark style="color:$info;">Tu souhaites découvrir tout l'univers avec les fonctionnalités du serveur, tu es au bon endroit !<mark style="color:$info;"></sup>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Dresseur</strong></td><td><sup>Niveaux, récompenses et déblocages</sup></td><td><a href="pokeisland/dresseur.md">dresseur.md</a></td></tr><tr><td><strong>Rangs</strong></td><td><sup>Augmente ton rang pour devenir un dresseur mythique</sup></td><td></td></tr><tr><td><strong>PokéWorld</strong></td><td><sup>Les îles, arènes, safaris et bien d'autre encore</sup></td><td><a href="pokeisland/pokeworld/">pokeworld</a></td></tr><tr><td><strong>Ressources</strong></td><td><sup>Un lieu de prospérité au la nature règne avec les Pokémon</sup></td><td></td></tr><tr><td><strong>Île joueurs</strong></td><td><sup>Créer ton île et recrute des ami(e)s pour ton aventure</sup></td><td></td></tr><tr><td><strong>Économie</strong></td><td><sup>GTS, marchands, enchères et shop</sup></td><td><a href="pokeisland/economie/">economie</a></td></tr><tr><td><strong>Arènes</strong></td><td><sup>Champions, paliers et badges</sup></td><td><a href="pokeisland/pokeworld/arenes.md">arenes.md</a></td></tr><tr><td>Safaris</td><td><sup>Zone de capture ou d'entrainement</sup></td><td></td></tr></tbody></table>
+{% columns %}
+{% column %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Dresseur</strong></td><td><sup>Niveaux, récompenses et déblocages</sup></td><td><a href="pokeisland/dresseur.md">dresseur.md</a></td></tr><tr><td><strong>Rangs</strong></td><td><sup>Augmente ton rang pour devenir un dresseur mythique</sup></td><td></td></tr><tr><td><strong>PokéWorld</strong></td><td><sup>Les îles, arènes, safaris et bien d'autre encore</sup></td><td><a href="pokeisland/pokeworld/">pokeworld</a></td></tr><tr><td><strong>Ressources</strong></td><td><sup>Un lieu de prospérité au la nature règne avec les Pokémon</sup></td><td></td></tr><tr><td><strong>Île joueurs</strong></td><td><sup>Créer ton île et recrute des ami(e)s pour ton aventure</sup></td><td></td></tr><tr><td><strong>Économie</strong></td><td><sup>GTS, marchands, enchères et shop</sup></td><td><a href="pokeisland/economie/">economie</a></td></tr><tr><td><strong>Arènes</strong></td><td><sup>Champions, paliers et badges</sup></td><td><a href="pokeisland/pokeworld/arenes.md">arenes.md</a></td></tr><tr><td>Safaris</td><td><sup>Zone de capture ou d'entrainement</sup></td><td></td></tr></tbody></table>
+
+
+{% endcolumn %}
+
+{% column %}
+<div data-with-frame="true"><figure><img src=".gitbook/assets/PokeWorld_watermark.png" alt=""><figcaption></figcaption></figure></div>
+{% endcolumn %}
+{% endcolumns %}
 
 ***
 
