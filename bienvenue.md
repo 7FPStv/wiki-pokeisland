@@ -7,7 +7,7 @@ layout:
   width: wide
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: false
   description:
@@ -26,9 +26,9 @@ layout:
 
 # Bienvenue
 
-<h2 align="center">Bienvenue sur <mark style="color:$primary;"><strong>PokeIsland</strong></mark></h2>
+## Bienvenue sur <mark style="color:$primary;">**PokeIsland**</mark>
 
-<p align="center"><sup><mark style="color:$info;">Retrouve toutes les informations clés pour progresser et découvrir PokeIsland.</mark></sup></p>
+<sup><mark style="color:$info;">Retrouve toutes les informations clés pour progresser et découvrir PokeIsland.<mark style="color:$info;"></sup>
 
 PokeIsland est un serveur francophone sur **Minecraft Java Edition**, basé sur le mod **Cobblemon**. Capture, entraîne et fais évoluer tes Pokémon dans un monde persistant, communautaire et rempli de surprises.
 
