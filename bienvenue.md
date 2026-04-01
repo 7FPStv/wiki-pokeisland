@@ -1,77 +1,64 @@
 ---
 icon: hand-wave
+description: Retrouve toutes les informations clés pour progresser et découvrir PokeIsland.
 layout:
   title:
     visible: true
   description:
     visible: true
   tableOfContents:
-    visible: true
+    visible: false
   outline:
-    visible: true
+    visible: false
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Bienvenue sur PokeIsland
 
-PokeIsland est un serveur Minecraft inspiré de l'univers Pokémon, propulsé par le mod **Cobblemon**. Capture, entraîne et fais évoluer tes Pokémon dans un monde ouvert partagé avec d'autres dresseurs.
-
-{% hint style="info" icon="circle-info" %}
-**Connexion au serveur**
-
-* **Java Edition** : `play.pokeisland.fr`
-* **Version recommandée** : 1.21.x
-{% endhint %}
+PokeIsland est un serveur Minecraft propulsé par le mod **Cobblemon**. Capture, entraîne et fais évoluer tes Pokémon dans un monde ouvert partagé avec des centaines de dresseurs.
 
 ---
 
-## Par où commencer ?
+## 🐣 Tu découvres PokeIsland ?
 
-{% content-ref url="tutoriel/premier-pas.md" %}
-[Premier pas](tutoriel/premier-pas.md)
-{% endcontent-ref %}
+Commence ici. Ces pages te donnent tout ce qu'il faut pour rejoindre le serveur et faire tes premiers pas.
 
-{% content-ref url="informations/telechargement/README.md" %}
-[Téléchargement](informations/telechargement/README.md)
-{% endcontent-ref %}
-
-{% content-ref url="informations/reglement-officiel.md" %}
-[Règlement officiel](informations/reglement-officiel.md)
-{% endcontent-ref %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody>
+<tr><td><strong>📥 Téléchargement</strong></td><td>Installe le mod et rejoins le serveur</td><td><a href="informations/telechargement/README.md">README.md</a></td><td><a href=".gitbook/assets/PokeWorld_watermark.jpg">PokeWorld_watermark.jpg</a></td></tr>
+<tr><td><strong>🎮 Premier pas</strong></td><td>Lance-toi dans l'aventure dès ta connexion</td><td><a href="tutoriel/premier-pas.md">premier-pas.md</a></td><td><a href=".gitbook/assets/PokeWorld_watermark.jpg">PokeWorld_watermark.jpg</a></td></tr>
+<tr><td><strong>🎯 Cobblemon : les bases</strong></td><td>Comprends le mod au cœur du serveur</td><td><a href="cobblemon/principe-de-base.md">principe-de-base.md</a></td><td><a href=".gitbook/assets/PokeWorld_watermark.jpg">PokeWorld_watermark.jpg</a></td></tr>
+</tbody></table>
 
 ---
 
-## Explorer le serveur
+## ⚔️ Tu joues déjà ?
 
-{% content-ref url="pokeisland/dresseur.md" %}
-[Dresseur](pokeisland/dresseur.md)
-{% endcontent-ref %}
+Retrouve rapidement la page qu'il te faut.
 
-{% content-ref url="pokeisland/pokeworld/README.md" %}
-[PokéWorld](pokeisland/pokeworld/README.md)
-{% endcontent-ref %}
-
-{% content-ref url="pokeisland/economie/README.md" %}
-[Économie](pokeisland/economie/README.md)
-{% endcontent-ref %}
-
-{% content-ref url="pokeisland/badges.md" %}
-[Badges](pokeisland/badges.md)
-{% endcontent-ref %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
+<tr><td><strong>⭐ Dresseur</strong></td><td>Niveaux, récompenses et déblocages</td><td><a href="pokeisland/dresseur.md">dresseur.md</a></td></tr>
+<tr><td><strong>🌍 PokéWorld</strong></td><td>Les îles, arènes et zones à explorer</td><td><a href="pokeisland/pokeworld/README.md">README.md</a></td></tr>
+<tr><td><strong>🏆 Arènes</strong></td><td>Champions, paliers et badges</td><td><a href="pokeisland/pokeworld/arenes.md">arenes.md</a></td></tr>
+<tr><td><strong>🐾 Pokémon</strong></td><td>Légendaires, fusions et particularités</td><td><a href="cobblemon/pokemon/README.md">README.md</a></td></tr>
+<tr><td><strong>💰 Économie</strong></td><td>GTS, marchands, enchères et shop</td><td><a href="pokeisland/economie/README.md">README.md</a></td></tr>
+<tr><td><strong>📋 Missions</strong></td><td>Quêtes et objectifs quotidiens</td><td><a href="pokeisland/mission.md">mission.md</a></td></tr>
+<tr><td><strong>🏅 Badges</strong></td><td>Tous les badges disponibles</td><td><a href="pokeisland/badges.md">badges.md</a></td></tr>
+<tr><td><strong>⚡ Duel</strong></td><td>Affronte d'autres dresseurs</td><td><a href="pokeisland/duel.md">duel.md</a></td></tr>
+<tr><td><strong>🔍 Chasse</strong></td><td>Traque des Pokémon spécifiques</td><td><a href="pokeisland/chasse.md">chasse.md</a></td></tr>
+</tbody></table>
 
 ---
 
-## Liens utiles
+## 📌 Le projet
 
-{% content-ref url="informations/liens-utiles.md" %}
-[Liens utiles](informations/liens-utiles.md)
-{% endcontent-ref %}
+Tout ce qui concerne le serveur, l'équipe et la communauté.
 
-{% content-ref url="informations/faq.md" %}
-[FAQ](informations/faq.md)
-{% endcontent-ref %}
-
-{% content-ref url="informations/contribuer.md" %}
-[Contribuer au wiki](informations/contribuer.md)
-{% endcontent-ref %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
+<tr><td><strong>📜 Règlement</strong></td><td>Les règles à respecter sur le serveur</td><td><a href="informations/reglement-officiel.md">reglement-officiel.md</a></td></tr>
+<tr><td><strong>👥 Notre équipe</strong></td><td>Découvre les membres qui font vivre le projet</td><td><a href="informations/notre-equipe.md">notre-equipe.md</a></td></tr>
+<tr><td><strong>🔗 Liens utiles</strong></td><td>Discord, boutique, réseaux et plus</td><td><a href="informations/liens-utiles.md">liens-utiles.md</a></td></tr>
+<tr><td><strong>❓ FAQ</strong></td><td>Les questions les plus fréquentes</td><td><a href="informations/faq.md">faq.md</a></td></tr>
+<tr><td><strong>🗳️ Vote & gagne</strong></td><td>Soutiens le serveur et récolte des récompenses</td><td><a href="tutoriel/vote-and-gagne.md">vote-and-gagne.md</a></td></tr>
+<tr><td><strong>✏️ Contribuer</strong></td><td>Participe à l'amélioration du wiki</td><td><a href="informations/contribuer.md">contribuer.md</a></td></tr>
+</tbody></table>
