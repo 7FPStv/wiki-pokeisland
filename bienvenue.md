@@ -32,7 +32,7 @@ layout:
 
 PokeIsland est un serveur francophone sur **Minecraft Java Edition**, basé sur le mod **Cobblemon**. Capture, entraîne et fais évoluer tes Pokémon dans un monde persistant, communautaire et rempli de surprises.
 
-<table data-view="cards"><thead><tr><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><a href="informations/telechargement/">telechargement</a></td><td><a href=".gitbook/assets/jouer-wiki.png">jouer-wiki.png</a></td></tr><tr><td><a href="tutoriel/premier-pas.md">premier-pas.md</a></td><td><a href=".gitbook/assets/PokeWorld_watermark.jpg">PokeWorld_watermark.jpg</a></td></tr><tr><td><a href="cobblemon/principe-de-base.md">principe-de-base.md</a></td><td><a href=".gitbook/assets/PokeWorld_watermark.jpg">PokeWorld_watermark.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><a href="informations/telechargement/">telechargement</a></td><td><a href=".gitbook/assets/jouer-wiki (1).png">jouer-wiki (1).png</a></td></tr><tr><td><a href="tutoriel/premier-pas.md">premier-pas.md</a></td><td><a href=".gitbook/assets/decouvrir-wiki.png">decouvrir-wiki.png</a></td></tr><tr><td><a href="https://wiki.cobblemon.com/index.php/Main_Page">https://wiki.cobblemon.com/index.php/Main_Page</a></td><td><a href=".gitbook/assets/cobblemon-wiki.png">cobblemon-wiki.png</a></td></tr></tbody></table>
 
 ***
 
