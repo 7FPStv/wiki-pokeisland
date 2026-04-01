@@ -16,7 +16,19 @@ layout:
 
 # Bienvenue sur PokeIsland
 
-PokeIsland est un serveur Minecraft propulsé par le mod **Cobblemon**. Capture, entraîne et fais évoluer tes Pokémon dans un monde ouvert partagé avec des centaines de dresseurs.
+PokeIsland est un serveur francophone sur **Minecraft Java Edition**, basé sur le mod **Cobblemon**. Capture, entraîne et fais évoluer tes Pokémon dans un monde persistant, communautaire et rempli de surprises.
+
+{% embed url="https://www.youtube.com/watch?v=wEWjsqEB7Dw" %}
+Trailer PokeIsland
+{% endembed %}
+
+{% hint style="info" icon="circle-info" %}
+**Rejoindre le serveur**
+
+* **IP Java** : `play.pokeisland.fr`
+* **Discord** : [discord.gg/9SzwnBaAbT](https://discord.gg/9SzwnBaAbT)
+* **Site officiel** : [pokeisland.fr](https://pokeisland.fr)
+{% endhint %}
 
 ---
 
@@ -56,7 +68,7 @@ Tout ce qui concerne le serveur, l'équipe et la communauté.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
 <tr><td><strong>📜 Règlement</strong></td><td>Les règles à respecter sur le serveur</td><td><a href="informations/reglement-officiel.md">reglement-officiel.md</a></td></tr>
-<tr><td><strong>👥 Notre équipe</strong></td><td>Découvre les membres qui font vivre le projet</td><td><a href="informations/notre-equipe.md">notre-equipe.md</a></td></tr>
+<tr><td><strong>👥 Notre équipe</strong></td><td>Les membres qui font vivre le projet</td><td><a href="informations/notre-equipe.md">notre-equipe.md</a></td></tr>
 <tr><td><strong>🔗 Liens utiles</strong></td><td>Discord, boutique, réseaux et plus</td><td><a href="informations/liens-utiles.md">liens-utiles.md</a></td></tr>
 <tr><td><strong>❓ FAQ</strong></td><td>Les questions les plus fréquentes</td><td><a href="informations/faq.md">faq.md</a></td></tr>
 <tr><td><strong>🗳️ Vote & gagne</strong></td><td>Soutiens le serveur et récolte des récompenses</td><td><a href="tutoriel/vote-and-gagne.md">vote-and-gagne.md</a></td></tr>
