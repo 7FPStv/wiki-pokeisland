@@ -1,27 +1,77 @@
 ---
 icon: hand-wave
 layout:
-  width: wide
   title:
-    visible: false
+    visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
-    visible: false
-  metadata:
-    visible: false
-  tags:
     visible: true
 ---
 
-# Bienvenue
+# Bienvenue sur PokeIsland
 
-## Bienvenue sur PokeIsland
+PokeIsland est un serveur Minecraft inspiré de l'univers Pokémon, propulsé par le mod **Cobblemon**. Capture, entraîne et fais évoluer tes Pokémon dans un monde ouvert partagé avec d'autres dresseurs.
 
-<mark style="color:$info;">Retrouve toutes les informations clés pour progresser et découvrir PokeIsland</mark>
+{% hint style="info" icon="circle-info" %}
+**Connexion au serveur**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h3>Découvrir le jeu</h3></td><td><sup><mark style="color:$info;">En savoir plus</mark></sup> </td><td data-object-fit="fill"><a href=".gitbook/assets/PokeWorld_watermark.jpg">PokeWorld_watermark.jpg</a></td></tr><tr><td></td><td></td><td><a href=".gitbook/assets/PokeWorld_watermark.jpg">PokeWorld_watermark.jpg</a></td></tr><tr><td></td><td></td><td><a href=".gitbook/assets/PokeWorld_watermark.jpg">PokeWorld_watermark.jpg</a></td></tr></tbody></table>
+* **Java Edition** : `play.pokeisland.fr`
+* **Version recommandée** : 1.21.x
+{% endhint %}
+
+---
+
+## Par où commencer ?
+
+{% content-ref url="tutoriel/premier-pas.md" %}
+[Premier pas](tutoriel/premier-pas.md)
+{% endcontent-ref %}
+
+{% content-ref url="informations/telechargement/README.md" %}
+[Téléchargement](informations/telechargement/README.md)
+{% endcontent-ref %}
+
+{% content-ref url="informations/reglement-officiel.md" %}
+[Règlement officiel](informations/reglement-officiel.md)
+{% endcontent-ref %}
+
+---
+
+## Explorer le serveur
+
+{% content-ref url="pokeisland/dresseur.md" %}
+[Dresseur](pokeisland/dresseur.md)
+{% endcontent-ref %}
+
+{% content-ref url="pokeisland/pokeworld/README.md" %}
+[PokéWorld](pokeisland/pokeworld/README.md)
+{% endcontent-ref %}
+
+{% content-ref url="pokeisland/economie/README.md" %}
+[Économie](pokeisland/economie/README.md)
+{% endcontent-ref %}
+
+{% content-ref url="pokeisland/badges.md" %}
+[Badges](pokeisland/badges.md)
+{% endcontent-ref %}
+
+---
+
+## Liens utiles
+
+{% content-ref url="informations/liens-utiles.md" %}
+[Liens utiles](informations/liens-utiles.md)
+{% endcontent-ref %}
+
+{% content-ref url="informations/faq.md" %}
+[FAQ](informations/faq.md)
+{% endcontent-ref %}
+
+{% content-ref url="informations/contribuer.md" %}
+[Contribuer au wiki](informations/contribuer.md)
+{% endcontent-ref %}
