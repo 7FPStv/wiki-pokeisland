@@ -59,6 +59,7 @@ Pour des contributions plus importantes (nouvelle page, restructuration), la mé
 * Un compte GitHub : [Créer un compte](https://github.com/join)
 * Git installé sur ton ordinateur : [Télécharger Git](https://git-scm.com/downloads)
 * Un éditeur de texte, de préférence [Visual Studio Code](https://code.visualstudio.com/)
+* **Uniquement pour les utilisateurs avancés connaissant Git**
 {% endhint %}
 
 ### Configurer Git
@@ -100,8 +101,6 @@ git checkout -b ajout-guide-arenes
 
 {% step %}
 ### Modifier le wiki
-
-
 
 Ouvre le dossier dans Visual Studio Code et édite les fichiers `.md` concernés. Tu peux aussi créer de nouveaux fichiers si tu ajoutes une nouvelle page.
 
