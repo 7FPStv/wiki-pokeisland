@@ -1,7 +1,7 @@
 ---
 description: >-
-  Le Pokéworld est un monde ouvert composé de 8 îles, avec arènes, safaris et
-  quêtes mystères à explorer seul ou entre amis
+  Un monde ouvert de 8 îles : arènes, secrets, safaris et quêtes. Explore
+  seul(e) ou entre ami(e)s et gagne des badges avec tes Pokémon.
 icon: globe
 ---
 
