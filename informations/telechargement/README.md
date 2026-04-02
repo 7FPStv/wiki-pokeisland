@@ -2,7 +2,21 @@
 icon: gamepad-modern
 ---
 
-# Téléchargement
+# Jouer à PokeIsland
+
+## Installer et rejoindre le serveur
+
+PokeIsland est accessible uniquement via le **launcher officiel**. Il installe automatiquement Minecraft avec le mod Cobblemon et addons, ainsi que nos mods personnel. Pas besoin de configurer quoi que ce soit manuellement, hormis tes contrôles en jeu, chacun ses goûts.
+
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
+Tu peux aussi suivre ce tutoriel vidéo pour t'aider à rejoindre le serveur pas à pas :
+
+{% embed url="https://www.youtube.com/watch?v=euIxMilCMnU" %}
+Comment rejoindre PokeIsland sur Minecraft ?
+{% endembed %}
 
 {% stepper %}
 {% step %}

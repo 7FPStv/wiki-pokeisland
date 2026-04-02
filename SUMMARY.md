@@ -6,7 +6,7 @@
 ## Informations
 
 * [Jouer à PokeIsland](informations/telechargement/README.md)
-  * [Résolution de téléchargement](informations/telechargement/resolution-de-telechargement.md)
+  * [Résolution de problème launcher](informations/telechargement/resolution-de-telechargement.md)
 * [Règlement officiel](informations/reglement-officiel.md)
 * [Notre équipe](informations/notre-equipe.md)
 * [Liens utiles](informations/liens-utiles.md)
@@ -35,7 +35,6 @@
   * [Œuf de Marchand](pokeisland/economie/oeuf-de-marchand.md)
   * [Rewards](pokeisland/economie/rewards.md)
   * [Enchères](pokeisland/economie/encheres.md)
-* [Boutique](pokeisland/boutique.md)
 * [Duel](pokeisland/duel.md)
 * [Energie](pokeisland/energie.md)
 * [PokéStop](pokeisland/pokestop.md)
@@ -45,6 +44,7 @@
 * [Badges](pokeisland/badges.md)
 * [Tour de combat](pokeisland/tour-de-combat.md)
 * [Balise](pokeisland/balise.md)
+* [Boutique](pokeisland/boutique.md)
 
 ## Cobblemon
 
@@ -53,4 +53,4 @@
   * [Légendaires](cobblemon/pokemon/legendaires.md)
   * [Fusion](cobblemon/pokemon/fusion.md)
 * [Reproduction](cobblemon/reproduction.md)
-* [MegaShowdown (Méga/Téra/Z/Dynamax)](cobblemon/mega-showdown.md)
+* [MegaShowdown](cobblemon/mega-showdown.md)
