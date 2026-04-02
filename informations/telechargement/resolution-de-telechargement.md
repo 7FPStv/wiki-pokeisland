@@ -23,3 +23,11 @@ Le launcher a un message d'avertissement pour le téléchargement puisque il n'e
 <div align="left" data-full-width="true" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Cliquez sur le bouton : <strong>Exécuter quand même</strong></p></figcaption></figure></div>
 
 </details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
