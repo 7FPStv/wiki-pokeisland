@@ -1,6 +1,6 @@
 ---
-icon: shuffle
-description: La fusion sur PokeIsland : recettes, Fakemon fusionnés et chances shiny.
+icon: "shuffle"
+description: "La fusion sur PokeIsland : recettes, Fakemon fusionnés et chances shiny."
 ---
 
 # Fusion : fabriquer des Fakemon (fusionneur)

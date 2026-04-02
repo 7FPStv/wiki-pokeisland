@@ -1,6 +1,6 @@
 ---
-icon: egg
-description: Guide Cobbreeding : pastures, œufs, éclosion, shiny, capacités cachées.
+icon: "egg"
+description: "Guide Cobbreeding : pastures, œufs, éclosion, shiny, capacités cachées."
 ---
 
 <div align="center">
