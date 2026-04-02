@@ -1,8 +1,9 @@
 ---
 description: Méga, Téra, Z-Moves et Dynamax dans MegaShowdown.
+icon: dna
 ---
 
-# MegaShowdown
+# Mega Showdown
 
 ## MegaShowdown : Méga / Téra / Z-Moves / Dynamax
 

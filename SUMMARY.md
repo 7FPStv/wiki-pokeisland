@@ -49,8 +49,8 @@
 ## Cobblemon
 
 * [Principe de base](cobblemon/principe-de-base.md)
-* [Pokémon](cobblemon/pokemon/README.md)
+* [Cobblemon](cobblemon/pokemon/README.md)
   * [Légendaires](cobblemon/pokemon/legendaires.md)
   * [Fusion](cobblemon/pokemon/fusion.md)
+* [Mega Showdown](cobblemon/mega-showdown.md)
 * [Reproduction](cobblemon/reproduction.md)
-* [MegaShowdown](cobblemon/mega-showdown.md)

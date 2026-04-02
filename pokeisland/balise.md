@@ -5,5 +5,6 @@ icon: chess-pawn-piece
 # Balise
 
 {% hint style="warning" %}
-**En cours de rédaction…**
+**Développement en cours, bientôt disponible avec les mises à jours prochainement.**
 {% endhint %}
+

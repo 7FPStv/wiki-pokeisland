@@ -1,5 +1,4 @@
 ---
-description: 'La fusion sur PokeIsland : recettes, Fakemon fusionnés et chances shiny.'
 icon: shuffle
 ---
 
@@ -18,11 +17,13 @@ La **fusion** sur PokeIsland sert à combiner des Pokémon pour obtenir un **ré
 
 Les recettes de fusion ressemblent à :
 
-* **arcolosse** = 40 × `Houndoom` + 10 × `Arcanine`
+* **Arcolosse** = `40 × Démolosse` + `10 × Arcanin`
 
-Certaines fusions peuvent aussi avoir une chance de shiny.
+Certaines fusions peuvent aussi avoir une chance d'être shiny.
 
-## Conseils de dresseur
+{% hint style="info" %}
+**Conseils de dresseur**
 
 * Garde de la place dans ton PC pour stocker les Pokémon de fusion.
 * Privilégie des Pokémon “faciles” à obtenir au début : la fusion, c’est un investissement de long terme (et parfois… une loterie cosmique).
+{% endhint %}
