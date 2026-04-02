@@ -1,6 +1,6 @@
 ---
 description: Tout ce qu'il faut savoir pour bien démarrer ton aventure sur PokeIsland.
-icon: sign-post 
+icon: sign-post
 ---
 
 # Premier pas
@@ -11,7 +11,7 @@ Cette page te guide pas à pas depuis ta première connexion jusqu'à tes premie
 
 ## 1. Installer et rejoindre le serveur
 
-PokeIsland TEST est accessible uniquement via le **launcher officiel**. Il installe automatiquement Minecraft avec le mod Cobblemon et addons, ainsi que nos mods personnel. Pas besoin de configurer quoi que ce soit manuellement, hormis tes contrôles en jeu, chacun ses goûts.
+PokeIsland est accessible uniquement via le **launcher officiel**. Il installe automatiquement Minecraft avec le mod Cobblemon et addons, ainsi que nos mods personnel. Pas besoin de configurer quoi que ce soit manuellement, hormis tes contrôles en jeu, chacun ses goûts.
 
 {% content-ref url="../informations/telechargement/" %}
 [telechargement](../informations/telechargement/)
