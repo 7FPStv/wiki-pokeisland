@@ -4,11 +4,9 @@ icon: bags-shopping
 
 # Marchand Shop
 
-## Acheter et vendre (oui, même des Poké trucs)
+Le **Marchand Shop** de PokeIsland te permet **d’acheter** et de **revendre** des objets directement depuis un menu. <kbd>/shop</kbd>
 
-Le **Marchand Shop** de PokeIsland te permet d’acheter des items et de **revendre** d’autres objets directement depuis un menu. `/shop`
-
-
+***
 
 Dans le shop, tu as plusieurs catégories :
 
@@ -20,19 +18,8 @@ Dans le shop, tu as plusieurs catégories :
 * **Baies & Noigrumes**
 * **Poké Balls**
 
-## Acheter
+***
 
-Quand tu choisis un item :
-
-* l’interface te laisse choisir une **quantité**
-* puis tu valides avec l’action **“Acheter”**
-
-## Vendre
-
-Tu peux aussi revendre :
-
-* ouvre la fiche de l’item
-* puis utilise l’action **“Vendre”**
-
-
-
+| Acheter                                                                                                                                                                                | Vendre                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Quand tu choisis un item :</p><p></p><ul><li>l’interface te laisse choisir une <strong>quantité</strong></li><li>puis tu valides avec l’action <strong>“Acheter”</strong></li></ul> | <p>Tu peux aussi revendre :</p><p></p><ul><li>ouvre la fiche de l’item</li><li>puis utilise l’action <strong>“Vendre</strong></li></ul> |

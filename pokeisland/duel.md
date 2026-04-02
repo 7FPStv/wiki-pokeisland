@@ -4,14 +4,14 @@ icon: boxing-glove
 
 # Duel
 
-## Duel 1v1 : face à face (avec une mise)
+Le **Duel** te permet de défier un autre joueur et de te mesurer à lui en Pokémon. Oui, il y a une mise : si tu gagnes, tu repars avec de quoi remplir ton sac et ton portefeuille. <kbd>/duel pseudo \[mise]</kbd>
 
-Le **Duel** te permet de défier un autre joueur et de te mesurer à lui en Pokémon. Oui, il y a une mise : si tu gagnes, tu repars avec de quoi remplir ton sac et ton portefeuille. `/duel pseudo [mise]`
-
+{% hint style="info" %}
 Exemples :
 
-* `/duel Alex`
-* `/duel Alex 2500`
+* <kbd>/duel Alex</kbd>
+* <kbd>/duel Alex 2500</kbd>
+{% endhint %}
 
 ## Répondre au défi
 

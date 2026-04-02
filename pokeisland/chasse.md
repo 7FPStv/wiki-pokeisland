@@ -31,8 +31,9 @@ Exemples de récompenses par rareté (valeurs configurées) :
 * **Ultra rare** : `1000` + `4` jetons
 
 {% hint style="info" %}
-## Conseils
+**Conseils**
 
-* Si tu es juste en énergie, recharge avant : tout le monde préfère “chasser”, pas “regarder son inventaire en panique”.
-* Les ultra rares ne se forcent pas : l’important, c’est de chasser régulièrement.
+Si tu es juste en énergie, recharge avant : tout le monde préfère “chasser”, pas “regarder son inventaire en panique”.
+
+Les ultra rares ne se forcent pas : l’important, c’est de chasser régulièrement.
 {% endhint %}

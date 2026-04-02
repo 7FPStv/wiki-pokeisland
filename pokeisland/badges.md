@@ -28,7 +28,7 @@ Les **badges** récompensent ta progression dans les **arènes du PokéWorld**. 
 3. Certains paliers demandent d’avoir avancé (niveau dresseur / progression) avant de pouvoir continuer.
 
 {% hint style="info" %}
-## Astuce de dresseur
+**Astuce de dresseur**
 
-Si tu bloques sur une arène, ce n’est pas “perdu” : c’est juste une raison de monter tes Pokémon et d’aller chasser/entraîner. Les badges, c’est un chemin, pas un sprint.
+Si tu bloques sur une arène, ce n’est pas “perdu” : c’est juste une raison de monter tes Pokémon et d’aller chasser/entraîner. Les badges, c’est un chemin, pas un sprint
 {% endhint %}
