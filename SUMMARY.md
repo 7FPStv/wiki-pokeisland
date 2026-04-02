@@ -53,3 +53,4 @@
   * [Légendaires](cobblemon/pokemon/legendaires.md)
   * [Fusion](cobblemon/pokemon/fusion.md)
 * [Reproduction](cobblemon/reproduction.md)
+* [MegaShowdown (Méga/Téra/Z/Dynamax)](cobblemon/mega-showdown.md)
