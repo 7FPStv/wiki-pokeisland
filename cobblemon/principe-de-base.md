@@ -1,6 +1,6 @@
 ---
-icon: book
-description: Tout comprendre à Cobblemon : starter, Poké Balls, Pokédex, capture, EV/IV, évolution et Mega/Téra.
+icon: "book"
+description: "Tout comprendre à Cobblemon : starter, Poké Balls, Pokédex, capture, EV/IV, évolution et Mega/Téra."
 ---
 
 <div align="center">

@@ -1,6 +1,6 @@
 ---
-icon: puzzle-piece
-description: Les Pokémon : fiche, objets tenus, évolutions, EV/IV, et comment progresser vers les combats.
+icon: "puzzle-piece"
+description: "Les Pokémon : fiche, objets tenus, évolutions, EV/IV, et comment progresser vers les combats."
 ---
 
 # Pokémon : comprendre tes créatures
