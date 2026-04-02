@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Maintenance wiki](README.md)
-* [Bienvenue](bienvenue.md)
+* [Bienvenue](README.md)
+* [Maintenance wiki](<README (1).md>)
 
 ## Informations
 

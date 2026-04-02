@@ -2,7 +2,7 @@
 description: >-
   Les Pokémon : fiche, objets tenus, évolutions, EV/IV, et comment progresser
   vers les combats.
-icon: alien-8bit
+icon: earlybirds
 ---
 
 # Cobblemon

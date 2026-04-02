@@ -1,6 +1,6 @@
 ---
 description: Comment capturer et suivre les apparitions légendaires sur PokeIsland.
-icon: medal
+icon: dragon
 ---
 
 # Légendaires
