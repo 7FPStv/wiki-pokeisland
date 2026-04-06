@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Bienvenue](README.md)
+* [Mise à jour de Pâques](mise-a-jour-de-paques.md)
 * [Maintenance wiki](<README (1).md>)
 
 ## Informations
