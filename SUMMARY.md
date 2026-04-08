@@ -42,6 +42,7 @@
 * [Mission](pokeisland/mission.md)
 * [Fusionneur](pokeisland/fusionneur.md)
 * [Chasse](pokeisland/chasse.md)
+* [MiniBoss](pokeisland/miniboss.md)
 * [Badges](pokeisland/badges.md)
 * [Tour de combat](pokeisland/tour-de-combat.md)
 * [Balise](pokeisland/balise.md)
