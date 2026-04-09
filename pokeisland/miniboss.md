@@ -1,10 +1,17 @@
 ---
+description: Actuellement sur le monde Ressource en BETA
 icon: skull
 ---
 
 # MiniBoss
 
 Toutes les 5 minutes des Pokémon Boss (commun, épique ou légendaire) peuvent apparaître sur un joueur. Tu ne peux pas les capturer en revanche tu peux les combattre pour gagner des récompenses.&#x20;
+
+| Rareté     | Taux d'apparition | Vies |
+| ---------- | ----------------- | ---- |
+| Commun     | 70 %              | 2❤   |
+| Epique     | 25 %              | 3❤   |
+| Légendaire | 5 %               | 5❤   |
 
 * Le boss a plusieurs vies (indiqué dans son nom, par ex. Charizard 2x❤).
 * Quand tu le KO une fois, il réapparaît et le combat reprend automatiquement.&#x20;
@@ -66,8 +73,8 @@ Tu n’as pas une infinité d’essais sur le même boss. Si tu perds, fuies ou 
 | 80 %   | 1 Carte Talent aléatoire    |
 | 50 %   | 1 Ticket Safari             |
 | 25 %   | 1 Œuf Céleste               |
-| 25 %   | 1 MégaPierre aléatoire      |
-| 15 %   | 1 Caisse Pâques             |
+| 25 %   | 1 Méga Gems aléatoire       |
+| 15 %   | 1 Clé de Pâques             |
 | 15 %   | 1 Œuf Shiny                 |
 | 8 %    | 1 Item Légendaire aléatoire |
 | 5 %    | 1 Œuf Légendaire            |
