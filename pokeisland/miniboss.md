@@ -48,7 +48,7 @@ Tu n’as pas une infinité d’essais sur le même boss. Si tu perds, fuies ou 
 
 | Chance | Récompense                  |
 | ------ | --------------------------- |
-| 100 %  | 5 000 💰                    |
+| 100 %  | 5 000 PokéCoin              |
 | 100 %  | 5 jetons Pâques             |
 | 50 %   | 1 CT aléatoire              |
 | 35 %   | 1 Ticket Safari             |
@@ -68,7 +68,7 @@ Tu n’as pas une infinité d’essais sur le même boss. Si tu perds, fuies ou 
 
 | Chance | Récompense                  |
 | ------ | --------------------------- |
-| 100 %  | 20 000 💰                   |
+| 100 %  | 20 000 PokéCoin             |
 | 100 %  | 10 jetons Pâques            |
 | 80 %   | 1 Carte Talent aléatoire    |
 | 50 %   | 1 Ticket Safari             |
