@@ -32,7 +32,12 @@ Si tu ne veux plus que quelqu’un te défie :
 À surveiller :
 
 * Le duel doit se faire à une **distance maximale de 20 blocs** (sinon la demande est refusée).
-* Il y a une **mise maximale** : `30 000`.
+* Il y a une **mise maximale** : `1 000` PokéCoins.
+* Une demande de duel expire au bout de **30 secondes** sans réponse.
+
+{% hint style="info" %}
+Envie de te battre pour du classement plutôt que pour de l'argent ? Le [Ranked 1v1](ranked.md) te donne un ELO, des rangs et une boutique dédiée.
+{% endhint %}
 
 ## Conditions fréquentes
 
