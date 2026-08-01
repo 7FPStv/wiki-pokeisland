@@ -19,7 +19,11 @@ Les recettes de fusion ressemblent à :
 
 * **Arcolosse** = `40 × Démolosse` + `10 × Arcanin`
 
-Certaines fusions peuvent aussi avoir une chance d'être shiny.
+Le Pokémon obtenu arrive **niveau 50**, avec **5 % de chance d'être shiny**.
+
+{% hint style="info" %}
+Les **12 recettes complètes** sont listées sur la page [Fusionneur](../../pokeisland/fusionneur.md).
+{% endhint %}
 
 {% hint style="info" %}
 **Conseils de dresseur**

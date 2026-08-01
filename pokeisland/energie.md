@@ -31,3 +31,15 @@ Tu peux recharger ton énergie avec des **consommables**.
 * <img src="../.gitbook/assets/up_energy1.png" alt="" data-size="original"> : **+20 énergie**
 * ![](../.gitbook/assets/up_energy2.png) : **+50 énergie**
 * ![](<../.gitbook/assets/up_energy3 (1).png>) : **+80 énergie**
+
+### Où trouver des recharges ?
+
+Les trois formats de recharge tombent régulièrement :
+
+* dans les récompenses de [Dresseur](dresseur.md), dès le niveau 6 et de plus en plus souvent ensuite ;
+* dans les [Rewards](economie/rewards.md) de temps de jeu ;
+* à la [Boutique](boutique.md).
+
+{% hint style="warning" %}
+Pense à ton énergie **avant** de partir chasser un [légendaire](../cobblemon/pokemon/legendaires.md) : une Master Ball coûte **50 énergie** à elle seule, et une apparition ne dure que 15 minutes. Arriver à sec, c'est regarder le Pokémon disparaître.
+{% endhint %}
