@@ -22,6 +22,8 @@ Suivre le tutoriel suivant, si vous avez un avertissement : Pokeisland-launcher-
 Le launcher a un message d'avertissement pour le téléchargement puisque il n'est pas reconnu selon Microsoft
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/windows-smartscreen.png" alt="Avertissement SmartScreen de Windows"><figcaption><p>Illustration de l'avertissement — cliquez sur <strong>Informations complémentaires</strong> pour faire apparaître le bouton <strong>Exécuter quand même</strong></p></figcaption></figure>
+
 <div align="left" data-full-width="true" data-with-frame="true"><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Cliquer sur les trois petit point : <strong>Conserver</strong></p></figcaption></figure></div>
 
 <div align="left" data-full-width="true" data-with-frame="true"><figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Encore sur les trois petit point : <strong>Conserver quand même</strong></p></figcaption></figure></div>

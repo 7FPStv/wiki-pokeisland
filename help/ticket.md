@@ -49,6 +49,8 @@ Un salon privé s'ouvre, visible uniquement par toi et l'équipe. C'est là que 
 {% endstep %}
 {% endstepper %}
 
+<figure><img src="../.gitbook/assets/discord-ouvrir-ticket.png" alt="Le salon support avec le bouton d'ouverture de ticket"><figcaption><p>Illustration du salon <strong>#support</strong> — la mise en page réelle sur Discord peut différer</p></figcaption></figure>
+
 ***
 
 ## Ce qu'il faut mettre dans ton message
