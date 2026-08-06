@@ -43,11 +43,19 @@ Le serveur n'est pas disponible sur **Bedrock Editions** <sup><sub>(Console, Tab
 
 <sup><mark style="color:$info;">Commence ici. Chaque situation a sa page, et un ticket si rien ne débloque.<mark style="color:$info;"></sup>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Le launcher</strong></td><td><sup>Connexion, téléchargement, erreurs au lancement</sup></td><td><a href="launcher.md">launcher.md</a></td></tr><tr><td><strong>Ouvrir un ticket</strong></td><td><sup>Une réponse de l'équipe sur Discord</sup></td><td><a href="https://discord.gg/Ut4peR5wpt">https://discord.gg/Ut4peR5wpt</a></td></tr><tr><td><strong>Questions fréquentes</strong></td><td><sup>Les réponses déjà données mille fois</sup></td><td><a href="../informations/faq.md">faq.md</a></td></tr><tr><td><strong>Règlement</strong></td><td><sup>Sanctions, litiges et règles du serveur</sup></td><td><a href="../informations/reglement-officiel.md">reglement-officiel.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Le launcher</strong></td><td><sup>Connexion, téléchargement, erreurs au lancement</sup></td><td><a href="launcher.md">launcher.md</a></td></tr><tr><td><strong>Ouvrir un ticket</strong></td><td><sup>Quand rien d'autre n'a fonctionné</sup></td><td><a href="ticket.md">ticket.md</a></td></tr><tr><td><strong>Questions fréquentes</strong></td><td><sup>Les réponses déjà données mille fois</sup></td><td><a href="../informations/faq.md">faq.md</a></td></tr><tr><td><strong>Règlement</strong></td><td><sup>Sanctions, litiges et règles du serveur</sup></td><td><a href="../informations/reglement-officiel.md">reglement-officiel.md</a></td></tr></tbody></table>
 
 {% hint style="info" %}
 **Avant d'ouvrir un ticket**, vérifie la page correspondant à ton problème : la réponse s'y trouve dans la grande majorité des cas, et tu seras débloqué tout de suite plutôt que d'attendre un membre de l'équipe.
 {% endhint %}
+
+***
+
+### Les problèmes les plus fréquents
+
+<sup><mark style="color:$info;">Un accès direct aux situations qui reviennent le plus souvent en ticket.<mark style="color:$info;"></sup>
+
+<table><thead><tr><th width="340">Ce que tu constates</th><th>Où aller</th></tr></thead><tbody><tr><td>Windows m'empêche d'installer le launcher</td><td><a href="launcher.md#windows-a-protege-votre-ordinateur">Windows a protégé votre ordinateur</a></td></tr><tr><td>La connexion Microsoft ne passe pas</td><td><a href="launcher.md#probleme-de-connexion-compte-microsoft">Problème de connexion</a></td></tr><tr><td>« Ce compte ne possède pas Minecraft : Java Edition »</td><td><a href="launcher.md#compte-sans-minecraft-java-edition">Compte sans Java Edition</a></td></tr><tr><td>Le launcher reste bloqué à 100 %</td><td><a href="launcher.md#blocage-sur-lancement...-a-100">Blocage au lancement</a></td></tr><tr><td>Une fenêtre blanche « Incompatible mods found! »</td><td><a href="launcher.md#erreur-incompatible-mods-found">Mods incompatibles</a></td></tr><tr><td>« Session Microsoft expirée »</td><td><a href="launcher.md#session-microsoft-expiree">Session expirée</a></td></tr></tbody></table>
 
 ***
 

@@ -2,6 +2,16 @@
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Windows à protégé votre ordinateur</strong></td><td data-object-fit="contain"><a href="../.gitbook/assets/image (21).png">image (21).png</a></td><td><a href="launcher.md#windows-a-protege-votre-ordinateur">#windows-a-protege-votre-ordinateur</a></td></tr><tr><td><strong>Problème de connexion / Compte Microsoft</strong></td><td><a href="../.gitbook/assets/launcher-connexion.png">launcher-connexion.png</a></td><td><a href="launcher.md#probleme-de-connexion-compte-microsoft">#probleme-de-connexion-compte-microsoft</a></td></tr><tr><td><strong>Compte sans Minecraft Java Edition</strong></td><td></td><td><a href="launcher.md#compte-sans-minecraft-java-edition">#compte-sans-minecraft-java-edition</a></td></tr><tr><td><strong>Connexion impossible aux serveurs Microsoft</strong></td><td></td><td><a href="launcher.md#connexion-impossible-aux-serveurs-microsoft">#connexion-impossible-aux-serveurs-microsoft</a></td></tr><tr><td><strong>Échec de la connexion Microsoft</strong></td><td></td><td><a href="launcher.md#echec-de-la-connexion-microsoft">#echec-de-la-connexion-microsoft</a></td></tr><tr><td><strong>Problème de configuration du launcher</strong></td><td></td><td><a href="launcher.md#probleme-de-configuration-du-launcher">#probleme-de-configuration-du-launcher</a></td></tr><tr><td><strong>Erreur "Incompatible mods found!"</strong></td><td><a href="../.gitbook/assets/imaeeege.png">imaeeege.png</a></td><td><a href="launcher.md#erreur-incompatible-mods-found">#erreur-incompatible-mods-found</a></td></tr><tr><td><strong>Blocage sur "Lancement..." à 100%</strong></td><td></td><td><a href="launcher.md#blocage-sur-lancement...-a-100">#blocage-sur-lancement...-a-100</a></td></tr><tr><td><strong>Session Microsoft expirée</strong></td><td><a href="../.gitbook/assets/session-microsoft-expire.png">session-microsoft-expire.png</a></td><td><a href="launcher.md#session-microsoft-expiree">#session-microsoft-expiree</a></td></tr><tr><td><strong>Erreur: Error: connect ETIMEDOUT ******</strong></td><td><a href="../.gitbook/assets/errorconnect-etimedout.png">errorconnect-etimedout.png</a></td><td><a href="launcher.md#erreur-error-connect-etimedout">#erreur-error-connect-etimedout</a></td></tr><tr><td><strong>Toujours bloqué, malgré les solutions ?</strong></td><td><a href="../.gitbook/assets/cobblemon-wiki.png">cobblemon-wiki.png</a></td><td><a href="launcher.md#toujours-bloque-malgre-les-solutions">#toujours-bloque-malgre-les-solutions</a></td></tr></tbody></table>
 
+## Repérer les éléments du launcher
+
+<sup><mark style="color:$info;">Les solutions ci-dessous font référence à ces quatre endroits.<mark style="color:$info;"></sup>
+
+<figure><img src="../.gitbook/assets/launcher-accueil-reperes.png" alt="Écran d'accueil du launcher avec ses quatre zones repérées"><figcaption></figcaption></figure>
+
+<table><thead><tr><th width="80">Repère</th><th width="180">Élément</th><th>À quoi ça sert</th></tr></thead><tbody><tr><td><strong>1</strong></td><td>Bouton JOUER</td><td>Télécharge les fichiers manquants puis lance le jeu.</td></tr><tr><td><strong>2</strong></td><td>Ta tête de personnage</td><td>Ouvre la fenêtre des comptes : changer de compte, en ajouter un, se déconnecter.</td></tr><tr><td><strong>3</strong></td><td>Paramètres</td><td>Mémoire allouée, plein écran, dossier du launcher, réparation des fichiers.</td></tr><tr><td><strong>4</strong></td><td>Centre d'aide</td><td>Te ramène sur ces pages.</td></tr></tbody></table>
+
+***
+
 <details>
 
 <summary><strong>Windows à protégé votre ordinateur</strong></summary>
@@ -155,6 +165,8 @@ Si le message "Session Microsoft expirée" s'affiche en bas de votre launcher
 > * Cliquez sur **votre tête de personnage**, à droite du bouton JOUER, pour ouvrir la fenêtre des comptes.
 > * Cliquez sur **Se déconnecter**, puis reconnectez-vous.
 
+<figure><img src="../.gitbook/assets/launcher-popup-comptes.png" alt="Fenêtre des comptes du launcher"><figcaption><p>La fenêtre des comptes, ouverte depuis votre tête de personnage</p></figcaption></figure>
+
 Une simple reconnexion règle généralement ce souci de session.<br>
 
 </details>
@@ -185,13 +197,11 @@ Si le message "**Error: connect ETIMEDOUT \*\*\*\*\*\***" s'affiche en bas de vo
 
 Si aucune des solutions de ce fil n'a réussi à régler votre problème :
 
-**La solution : Ouvrir un ticket d'aide**
+> * Rendez-vous dans le salon <kbd>**#support**</kbd> du Discord.
+> * Cliquez sur le bouton **Ouvrir un ticket** et sélectionnez la catégorie **Problème Launcher**.
+> * Précisez que vous avez déjà essayé les solutions de cette page, et lesquelles.
+> * Joignez une **capture d'écran complète** ainsi que le fichier `launcher.log`.
 
-> * Rendez-vous dans le salon de <kbd>**#tickets**</kbd>.
-> * Ouvrez un nouveau ticket et sélectionnez la catégorie **Problème Launcher**.
-> * Expliquez votre problème en détail en précisant que vous avez déjà essayé les solutions de ce fil.
-> * N'oubliez pas de joindre des **captures d'écran** complètes de l'erreur ou de l'endroit où vous êtes bloqué.
-
-<sup>Plus vous donnerez de détails (configuration, manipulation effectuée), plus notre staff pourra vous aider</sup>
+<sup>La marche à suivre détaillée se trouve sur la page <a href="ticket.md">Ouvrir un ticket</a></sup>
 
 </details>
