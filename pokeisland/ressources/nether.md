@@ -28,7 +28,7 @@ Le Nether de PokeIsland est **nettement plus dangereux** que celui du jeu de bas
 * une armure correcte et de quoi la réparer,
 * de la nourriture,
 * une équipe Pokémon **soignée** et de bon niveau,
-* un [sac à dos](../../mods/confort-et-interface.md) pour le butin,
+* un [sac à dos](/broken/pages/ZRrF6c5ThtYi49zN6mN1) pour le butin,
 * un waypoint sur ton portail — se perdre dans Incendium, c'est vite arrivé.
 {% endhint %}
 

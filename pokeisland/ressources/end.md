@@ -19,7 +19,7 @@ L'exploration y devient un vrai voyage plutôt qu'un enchaînement de sauts entr
 ## Avant d'y aller
 
 {% hint style="warning" %}
-Les grands vides sont réels et les chutes sont mortelles. Emporte de quoi faire des ponts, des blocs de secours, et de préférence un Pokémon **[monture volante](../../mods/mods-cobblemon.md)**.
+Les grands vides sont réels et les chutes sont mortelles. Emporte de quoi faire des ponts, des blocs de secours, et de préférence un Pokémon [**monture volante**](/broken/pages/v86act9NEoOANf7IruBj).
 {% endhint %}
 
 ***

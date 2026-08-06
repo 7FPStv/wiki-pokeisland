@@ -30,7 +30,7 @@ Tu peux recharger ton énergie avec des **consommables**.
 
 * <img src="../.gitbook/assets/up_energy1.png" alt="" data-size="original"> : **+20 énergie**
 * ![](../.gitbook/assets/up_energy2.png) : **+50 énergie**
-* ![](<../.gitbook/assets/up_energy3 (1).png>) : **+80 énergie**
+* ![](../.gitbook/assets/up_energy3.png) : **+80 énergie**
 
 ### Où trouver des recharges ?
 

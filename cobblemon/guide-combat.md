@@ -5,7 +5,7 @@ description: >-
 icon: swords
 ---
 
-# Guide du combat (débutant)
+# Guide du combat
 
 Tu captures, tu combats, tu perds, tu ne comprends pas pourquoi. Cette page est là pour ça.
 
@@ -15,12 +15,12 @@ Tu captures, tu combats, tu perds, tu ne comprends pas pourquoi. Cette page est 
 
 Il y a plusieurs façons de te battre sur PokeIsland :
 
-| Contre | Comment |
-| --------------------- | ------------------------------------------- |
-| Un Pokémon sauvage | Envoie ton Pokémon dessus |
-| Un [dresseur PNJ](dresseurs-sauvages.md) | Il te défie à vue |
-| Un [champion d'arène](../pokeisland/pokeworld/arenes.md) | Tu vas le trouver dans son arène |
-| Un autre joueur | [`/duel`](../pokeisland/duel.md) ou [`/ranked`](../pokeisland/ranked.md) |
+| Contre                                                   | Comment                                                                  |
+| -------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Un Pokémon sauvage                                       | Envoie ton Pokémon dessus                                                |
+| Un [dresseur PNJ](dresseurs-sauvages.md)                 | Il te défie à vue                                                        |
+| Un [champion d'arène](../pokeisland/pokeworld/arenes.md) | Tu vas le trouver dans son arène                                         |
+| Un autre joueur                                          | [`/duel`](../pokeisland/duel.md) ou [`/ranked`](../pokeisland/ranked.md) |
 
 ***
 
@@ -30,18 +30,18 @@ C'est **la** chose à connaître. Une attaque du bon type fait **2× de dégâts
 
 **Les faiblesses les plus utiles à retenir :**
 
-| Type attaqué | Faible contre | Résiste à |
-| ------------ | ------------------------------ | -------------------------------- |
-| **Feu** | Eau, Sol, Roche | Feu, Plante, Glace, Insecte, Acier, Fée |
-| **Eau** | Plante, Électrik | Feu, Eau, Glace, Acier |
-| **Plante** | Feu, Glace, Poison, Vol, Insecte | Eau, Plante, Électrik, Sol |
-| **Électrik** | Sol | Électrik, Vol, Acier |
-| **Roche** | Eau, Plante, Combat, Sol, Acier | Normal, Feu, Poison, Vol |
-| **Sol** | Eau, Plante, Glace | Poison, Roche *(immunisé Électrik)* |
-| **Vol** | Électrik, Glace, Roche | Plante, Combat, Insecte *(immunisé Sol)* |
-| **Dragon** | Glace, Dragon, Fée | Feu, Eau, Plante, Électrik |
-| **Spectre** | Spectre, Ténèbres | Poison, Insecte *(immunisé Normal, Combat)* |
-| **Acier** | Feu, Combat, Sol | Beaucoup de choses *(immunisé Poison)* |
+| Type attaqué | Faible contre                    | Résiste à                                   |
+| ------------ | -------------------------------- | ------------------------------------------- |
+| **Feu**      | Eau, Sol, Roche                  | Feu, Plante, Glace, Insecte, Acier, Fée     |
+| **Eau**      | Plante, Électrik                 | Feu, Eau, Glace, Acier                      |
+| **Plante**   | Feu, Glace, Poison, Vol, Insecte | Eau, Plante, Électrik, Sol                  |
+| **Électrik** | Sol                              | Électrik, Vol, Acier                        |
+| **Roche**    | Eau, Plante, Combat, Sol, Acier  | Normal, Feu, Poison, Vol                    |
+| **Sol**      | Eau, Plante, Glace               | Poison, Roche _(immunisé Électrik)_         |
+| **Vol**      | Électrik, Glace, Roche           | Plante, Combat, Insecte _(immunisé Sol)_    |
+| **Dragon**   | Glace, Dragon, Fée               | Feu, Eau, Plante, Électrik                  |
+| **Spectre**  | Spectre, Ténèbres                | Poison, Insecte _(immunisé Normal, Combat)_ |
+| **Acier**    | Feu, Combat, Sol                 | Beaucoup de choses _(immunisé Poison)_      |
 
 **Les trois immunités qui font perdre des combats :**
 
@@ -50,21 +50,21 @@ C'est **la** chose à connaître. Une attaque du bon type fait **2× de dégâts
 * Électrik → **aucun effet** sur un Pokémon Sol
 
 {% hint style="success" %}
-Le mod [Battle Extras](../mods/mods-cobblemon.md) affiche des **icônes de type** en combat : tu vois directement si ton attaque est efficace avant de la lancer.
+Le mod [Battle Extras](/broken/pages/v86act9NEoOANf7IruBj) affiche des **icônes de type** en combat : tu vois directement si ton attaque est efficace avant de la lancer.
 {% endhint %}
 
 ***
 
 ## 3. Les six statistiques
 
-| Stat | À quoi elle sert |
-| ------------------- | ----------------------------------------- |
-| **PV** | Combien de dégâts tu encaisses avant le KO |
-| **Attaque** | Puissance de tes attaques **physiques** |
-| **Défense** | Résistance aux attaques physiques |
-| **Attaque Spéciale** | Puissance de tes attaques **spéciales** |
-| **Défense Spéciale** | Résistance aux attaques spéciales |
-| **Vitesse** | Qui attaque en premier |
+| Stat                 | À quoi elle sert                           |
+| -------------------- | ------------------------------------------ |
+| **PV**               | Combien de dégâts tu encaisses avant le KO |
+| **Attaque**          | Puissance de tes attaques **physiques**    |
+| **Défense**          | Résistance aux attaques physiques          |
+| **Attaque Spéciale** | Puissance de tes attaques **spéciales**    |
+| **Défense Spéciale** | Résistance aux attaques spéciales          |
+| **Vitesse**          | Qui attaque en premier                     |
 
 {% hint style="warning" %}
 **Physique ou spéciale ?** Ça dépend de l'attaque, pas du type. Un Pokémon avec une grosse Attaque et des capacités spéciales ne sert à rien. Vérifie toujours que le moveset colle au profil.
@@ -76,14 +76,14 @@ La **nature** modifie deux stats (+10 % sur l'une, −10 % sur l'autre). Les **I
 
 ## 4. Les statuts
 
-| Statut | Effet |
-| ---------------- | -------------------------------------------------- |
-| **Brûlure** | Dégâts par tour + **Attaque divisée par 2** |
-| **Poison** | Dégâts par tour |
-| **Poison grave** | Dégâts par tour, **de plus en plus forts** |
-| **Paralysie** | **Vitesse divisée par 2** + 25 % de chance de ne pas agir |
-| **Sommeil** | Ne peut rien faire pendant 1 à 3 tours |
-| **Gel** | Ne peut rien faire jusqu'au dégel |
+| Statut           | Effet                                                     |
+| ---------------- | --------------------------------------------------------- |
+| **Brûlure**      | Dégâts par tour + **Attaque divisée par 2**               |
+| **Poison**       | Dégâts par tour                                           |
+| **Poison grave** | Dégâts par tour, **de plus en plus forts**                |
+| **Paralysie**    | **Vitesse divisée par 2** + 25 % de chance de ne pas agir |
+| **Sommeil**      | Ne peut rien faire pendant 1 à 3 tours                    |
+| **Gel**          | Ne peut rien faire jusqu'au dégel                         |
 
 Un Pokémon ne peut avoir **qu'un seul statut** à la fois. C'est pour ça qu'endormir un adversaire le protège… de la brûlure.
 
@@ -97,12 +97,12 @@ En combat, une capacité peut monter ou baisser une stat, de −6 à +6 crans.
 
 | Crans | Multiplicateur |
 | ----- | -------------- |
-| +1 | ×1,5 |
-| +2 | ×2 |
-| +6 | ×4 |
-| −1 | ×0,66 |
-| −2 | ×0,5 |
-| −6 | ×0,25 |
+| +1    | ×1,5           |
+| +2    | ×2             |
+| +6    | ×4             |
+| −1    | ×0,66          |
+| −2    | ×0,5           |
+| −6    | ×0,25          |
 
 Ces changements **disparaissent** quand tu rappelles ton Pokémon. C'est le prix à payer pour se protéger.
 

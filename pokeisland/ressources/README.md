@@ -15,11 +15,11 @@ C'est aussi le terrain de jeu des [MiniBoss](../miniboss.md) et des [cristaux de
 
 ## Les trois dimensions
 
-| Dimension | Ce que tu y trouves |
-| ------------- | ------------------------------------------------------- |
-| **Overworld** | Minerais, bois, biomes moddés, Pokémon sauvages, MiniBoss, raid dens |
-| **[Nether](nether.md)** | Un Nether entièrement refait, bien plus dangereux |
-| **[End](end.md)** | Un End travaillé avec de vrais paysages |
+| Dimension               | Ce que tu y trouves                                                  |
+| ----------------------- | -------------------------------------------------------------------- |
+| **Overworld**           | Minerais, bois, biomes moddés, Pokémon sauvages, MiniBoss, raid dens |
+| [**Nether**](nether.md) | Un Nether entièrement refait, bien plus dangereux                    |
+| [**End**](end.md)       | Un End travaillé avec de vrais paysages                              |
 
 ***
 
@@ -28,10 +28,10 @@ C'est aussi le terrain de jeu des [MiniBoss](../miniboss.md) et des [cristaux de
 Avant de partir en expédition :
 
 * une **équipe Pokémon soignée** — les rencontres ne préviennent pas,
-* de quoi **recharger ton [énergie](../energie.md)** si tu comptes capturer,
-* un **[sac à dos](../../mods/confort-et-interface.md)** pour ne pas rentrer au bout de dix minutes,
+* de quoi **recharger ton** [**énergie**](../energie.md) si tu comptes capturer,
+* un [**sac à dos**](/broken/pages/ZRrF6c5ThtYi49zN6mN1) pour ne pas rentrer au bout de dix minutes,
 * des **waypoints** sur ta minicarte pour retrouver ce que tu as repéré.
 
 {% hint style="success" %}
-Une monture ([Journey Mounts](../../mods/mods-cobblemon.md)) change complètement l'exploration : traverser le monde à dos de Dracaufeu, c'est autre chose que de marcher.
+Une monture ([Journey Mounts](/broken/pages/v86act9NEoOANf7IruBj)) change complètement l'exploration : traverser le monde à dos de Dracaufeu, c'est autre chose que de marcher.
 {% endhint %}

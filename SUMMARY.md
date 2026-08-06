@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Bienvenue](README.md)
-* [Mise à jour de Pâques](paques-2026.md)
 * [Maintenance wiki](<README (1).md>)
 
 ## Informations
@@ -70,15 +69,9 @@
 * [Cobblemon](cobblemon/pokemon/README.md)
   * [Légendaires](cobblemon/pokemon/legendaires.md)
   * [Fusion](cobblemon/pokemon/fusion.md)
+  * [Pokémon Pâques 2026](cobblemon/pokemon/paques-2026.md)
 * [Capacités : CT & DT](cobblemon/capacites-ct-dt.md)
 * [CobbleNav](cobblemon/cobblenav.md)
 * [Dresseurs sauvages](cobblemon/dresseurs-sauvages.md)
 * [Mega Showdown](cobblemon/mega-showdown.md)
 * [Reproduction](cobblemon/reproduction.md)
-
-## Mods
-
-* [Les mods](mods/README.md)
-  * [Mods Cobblemon](mods/mods-cobblemon.md)
-  * [Confort & interface](mods/confort-et-interface.md)
-  * [Monde & biomes](mods/monde-et-biomes.md)

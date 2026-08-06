@@ -33,11 +33,11 @@ Plus il y a de monde connecté, plus les légendaires sortent souvent.
 
 | Joueurs connectés | Chance par heure |
 | ----------------- | ---------------: |
-| 1 à 5 | 5 % |
-| 6 à 10 | 10 % |
-| 11 à 20 | 20 % |
-| 21 à 40 | 35 % |
-| **41 et plus** | **50 %** |
+| 1 à 5             |              5 % |
+| 6 à 10            |             10 % |
+| 11 à 20           |             20 % |
+| 21 à 40           |             35 % |
+| **41 et plus**    |         **50 %** |
 
 {% hint style="warning" %}
 Le serveur est plafonné à **5 apparitions automatiques par jour**, remises à zéro à minuit. Une fois le quota atteint, plus aucun légendaire ne sort naturellement avant le lendemain.
@@ -49,12 +49,12 @@ Le serveur est plafonné à **5 apparitions automatiques par jour**, remises à 
 
 Le système ne gère pas que les légendaires classiques. Quatre familles sont réparties dans les biomes, et chacune rapporte une XP de [Dresseur](../../pokeisland/dresseur.md) différente à la capture :
 
-| Catégorie | Exemples | XP Dresseur |
+| Catégorie         | Exemples                             | XP Dresseur |
 | ----------------- | ------------------------------------ | ----------: |
-| **Légendaire** | Lugia, Entei, Kyogre, Suicune | 800 |
-| **Ultra-Chimère** | Katagami, Zéroïd, Câblifère | 900 |
-| **Paradoxe** | Ondulagon et compagnie | 1 000 |
-| **Fabuleux** | Victini, Keldeo, Magearna, Volcanion | 1 200 |
+| **Légendaire**    | Lugia, Entei, Kyogre, Suicune        |         800 |
+| **Ultra-Chimère** | Katagami, Zéroïd, Câblifère          |         900 |
+| **Paradoxe**      | Ondulagon et compagnie               |       1 000 |
+| **Fabuleux**      | Victini, Keldeo, Magearna, Volcanion |       1 200 |
 
 Les Pokémon dits **« restreints »** (Rayquaza, Palkia, Dialga, Zygarde, Eternatus, Miraidon…) existent dans les pools, mais avec un poids très faible : ce sont les apparitions les plus rares du serveur.
 
@@ -62,16 +62,16 @@ Les Pokémon dits **« restreints »** (Rayquaza, Palkia, Dialga, Zygarde, Etern
 
 ## Le biome décide de tout
 
-**81 biomes** ont leur propre pool de légendaires, y compris ceux du mod [Oh The Biomes We've Gone](../../mods/monde-et-biomes.md), le Nether et l'End. Quelques exemples :
+**81 biomes** ont leur propre pool de légendaires, y compris ceux du mod [Oh The Biomes We've Gone](/broken/pages/VluE0Kzsh1QmRgHEf5oF), le Nether et l'End. Quelques exemples :
 
-| Biome | Ce qui peut y apparaître |
+| Biome             | Ce qui peut y apparaître                                   |
 | ----------------- | ---------------------------------------------------------- |
-| **Désert** | Chongjian, Entei, Heatran, Sulfura, Victini, Zygarde |
-| **Océan** | Kyogre, Suicune, Volcanion, Palkia, Ondulagon |
-| **Océan profond** | Suicune, Blizzeval, Regice, Tokopisco, Keldeo |
-| **Forêt** | Tokorico, Tokopiyon, Magearna, Katagami, Zéroïd, Eternatus |
-| **Plaines** | Lugia, Latios, Raikou, Type:0, Boréas, Câblifère |
-| **Taïga** | Wushours, Latias, Dialga, Miraidon |
+| **Désert**        | Chongjian, Entei, Heatran, Sulfura, Victini, Zygarde       |
+| **Océan**         | Kyogre, Suicune, Volcanion, Palkia, Ondulagon              |
+| **Océan profond** | Suicune, Blizzeval, Regice, Tokopisco, Keldeo              |
+| **Forêt**         | Tokorico, Tokopiyon, Magearna, Katagami, Zéroïd, Eternatus |
+| **Plaines**       | Lugia, Latios, Raikou, Type:0, Boréas, Câblifère           |
+| **Taïga**         | Wushours, Latias, Dialga, Miraidon                         |
 
 {% hint style="success" %}
 Ça veut dire une chose simple : **le biome où tu joues détermine les légendaires que tu peux croiser**. Si tu cherches un légendaire précis, va t'installer dans son biome. Un biome sans pool dédié est automatiquement rattaché au pool thématique le plus proche.
@@ -97,7 +97,7 @@ Les captures de légendaires sont **annoncées à tout le serveur**. Prépare-to
 
 Le spawn horaire n'est pas la seule route :
 
-* les **[Œufs Légendaires](../../pokeisland/objets-speciaux.md)**, obtenus via les [récompenses Pokédex](../../pokeisland/recompenses-pokedex.md) et les [MiniBoss](../../pokeisland/miniboss.md) ;
-* les **[raids quotidiens](../../pokeisland/raid.md)** de rareté Légendaire, dont les 3 meilleurs joueurs reçoivent une orbe de capture ;
-* les **[MiniBoss Légendaires](../../pokeisland/miniboss.md)**, capturables directement après victoire ;
-* le **[Fusionneur](../../pokeisland/fusionneur.md)**, qui consomme des légendaires plus qu'il n'en produit — mais qui crée des fusions uniques.
+* les [**Œufs Légendaires**](../../pokeisland/objets-speciaux.md), obtenus via les [récompenses Pokédex](../../pokeisland/recompenses-pokedex.md) et les [MiniBoss](../../pokeisland/miniboss.md) ;
+* les [**raids quotidiens**](../../pokeisland/raid.md) de rareté Légendaire, dont les 3 meilleurs joueurs reçoivent une orbe de capture ;
+* les [**MiniBoss Légendaires**](../../pokeisland/miniboss.md), capturables directement après victoire ;
+* le [**Fusionneur**](../../pokeisland/fusionneur.md), qui consomme des légendaires plus qu'il n'en produit — mais qui crée des fusions uniques.

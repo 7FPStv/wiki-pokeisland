@@ -1,6 +1,6 @@
 # Résolution de problème launcher
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Windows à protégé votre ordinateur</strong></td><td data-object-fit="contain"><a href="../../.gitbook/assets/image (21).png">image (21).png</a></td><td><a href="resolution-de-telechargement.md#windows-a-protege-votre-ordinateur">#windows-a-protege-votre-ordinateur</a></td></tr><tr><td><strong>Problème de connexion / Compte Microsoft</strong></td><td><a href="../../.gitbook/assets/launcher-connexion.png">launcher-connexion.png</a></td><td><a href="resolution-de-telechargement.md#probleme-de-connexion-compte-microsoft">#probleme-de-connexion-compte-microsoft</a></td></tr><tr><td><strong>Erreur "Incompatible mods found!"</strong></td><td><a href="../../.gitbook/assets/imaeeege.png">imaeeege.png</a></td><td><a href="resolution-de-telechargement.md#erreur-incompatible-mods-found">#erreur-incompatible-mods-found</a></td></tr><tr><td><strong>Blocage sur "Lancement..." à 100%</strong></td><td><a href="../../.gitbook/assets/lancement-100%.png">lancement-100%.png</a></td><td><a href="resolution-de-telechargement.md#blocage-sur-lancement...-a-100">#blocage-sur-lancement...-a-100</a></td></tr><tr><td><strong>Session Microsoft expirée</strong></td><td><a href="../../.gitbook/assets/session-microsoft-expire.png">session-microsoft-expire.png</a></td><td><a href="resolution-de-telechargement.md#session-microsoft-expiree">#session-microsoft-expiree</a></td></tr><tr><td><strong>Erreur: Error: connect ETIMEDOUT ******</strong></td><td><a href="../../.gitbook/assets/errorconnect-etimedout.png">errorconnect-etimedout.png</a></td><td><a href="resolution-de-telechargement.md#erreur-error-connect-etimedout">#erreur-error-connect-etimedout</a></td></tr><tr><td><strong>Toujours bloqué, malgré les solutions ?</strong></td><td><a href="../../.gitbook/assets/cobblemon-wiki.png">cobblemon-wiki.png</a></td><td><a href="resolution-de-telechargement.md#toujours-bloque-malgre-les-solutions">#toujours-bloque-malgre-les-solutions</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Windows à protégé votre ordinateur</strong></td><td data-object-fit="contain"><a href="../../.gitbook/assets/image (21).png">image (21).png</a></td><td><a href="resolution-de-telechargement.md#windows-a-protege-votre-ordinateur">#windows-a-protege-votre-ordinateur</a></td></tr><tr><td><strong>Problème de connexion / Compte Microsoft</strong></td><td><a href="../../.gitbook/assets/launcher-connexion.png">launcher-connexion.png</a></td><td><a href="resolution-de-telechargement.md#probleme-de-connexion-compte-microsoft">#probleme-de-connexion-compte-microsoft</a></td></tr><tr><td><strong>Erreur "Incompatible mods found!"</strong></td><td><a href="../../.gitbook/assets/imaeeege.png">imaeeege.png</a></td><td><a href="resolution-de-telechargement.md#erreur-incompatible-mods-found">#erreur-incompatible-mods-found</a></td></tr><tr><td><strong>Blocage sur "Lancement..." à 100%</strong></td><td></td><td><a href="resolution-de-telechargement.md#blocage-sur-lancement...-a-100">#blocage-sur-lancement...-a-100</a></td></tr><tr><td><strong>Session Microsoft expirée</strong></td><td><a href="../../.gitbook/assets/session-microsoft-expire.png">session-microsoft-expire.png</a></td><td><a href="resolution-de-telechargement.md#session-microsoft-expiree">#session-microsoft-expiree</a></td></tr><tr><td><strong>Erreur: Error: connect ETIMEDOUT ******</strong></td><td><a href="../../.gitbook/assets/errorconnect-etimedout.png">errorconnect-etimedout.png</a></td><td><a href="resolution-de-telechargement.md#erreur-error-connect-etimedout">#erreur-error-connect-etimedout</a></td></tr><tr><td><strong>Toujours bloqué, malgré les solutions ?</strong></td><td><a href="../../.gitbook/assets/cobblemon-wiki.png">cobblemon-wiki.png</a></td><td><a href="resolution-de-telechargement.md#toujours-bloque-malgre-les-solutions">#toujours-bloque-malgre-les-solutions</a></td></tr></tbody></table>
 
 <details>
 
@@ -20,7 +20,7 @@ Le launcher a un message d'avertissement pour le téléchargement puisque il n'e
 
 <div align="left" data-full-width="true" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Windows a protégé votre ordinateur : Cliquer sur le lien <strong>Informations complémentaires</strong></p></figcaption></figure></div>
 
-<div align="left" data-full-width="true" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Cliquez sur le bouton : <strong>Exécuter quand même</strong></p></figcaption></figure></div>
+<div align="left" data-full-width="true" data-with-frame="true"><figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Cliquez sur le bouton : <strong>Exécuter quand même</strong></p></figcaption></figure></div>
 
 </details>
 
@@ -101,7 +101,7 @@ Une simple reconnexion règle généralement ce souci de session.<br>
 
 Si le message "**Error: connect ETIMEDOUT \*\*\*\*\*\***" s'affiche en bas de votre launcher
 
-> * Ouvrez **Panneau de configuration**&#x20;
+> * Ouvrez **Panneau de configuration**
 >   * Si vous ne savez pas, faites :
 >   * (<kbd>Windows</kbd> + <kbd>R</kbd>, tapez <kbd>control</kbd>, puis <kbd>Entrée</kbd>)
 > * Cliquez sur **Réseau et Internet**
@@ -119,7 +119,7 @@ Si le message "**Error: connect ETIMEDOUT \*\*\*\*\*\***" s'affiche en bas de vo
 
 <summary><strong>Toujours bloqué, malgré les solutions ?</strong></summary>
 
-Si aucune des solutions de ce fil n'a réussi à régler votre problème :&#x20;
+Si aucune des solutions de ce fil n'a réussi à régler votre problème :
 
 **La solution : Ouvrir un ticket d'aide**
 
