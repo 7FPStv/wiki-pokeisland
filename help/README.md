@@ -26,7 +26,7 @@ layout:
 
 <sup><mark style="color:$info;">Un problème, une question : la réponse est ici. Le ticket, c'est seulement si rien n'a suffi.<mark style="color:$info;"></sup>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Problèmes de launcher</strong></td><td><sup>Installation, connexion, erreurs au lancement</sup></td><td><a href="../.gitbook/assets/aide-carte-launcher.png">aide-carte-launcher.png</a></td><td><a href="launcher.md">launcher.md</a></td></tr><tr><td><strong>Questions fréquentes</strong></td><td><sup>Avant de jouer et pendant tes débuts</sup></td><td><a href="../.gitbook/assets/aide-carte-questions.png">aide-carte-questions.png</a></td><td><a href="../informations/faq.md">faq.md</a></td></tr><tr><td><strong>Ouvrir un ticket</strong></td><td><sup>Quand rien d'autre n'a fonctionné</sup></td><td><a href="../.gitbook/assets/aide-carte-ticket.png">aide-carte-ticket.png</a></td><td><a href="ticket.md">ticket.md</a></td></tr><tr><td><strong>Règlement</strong></td><td><sup>Sanctions, litiges et règles du serveur</sup></td><td><a href="../.gitbook/assets/aide-carte-reglement.png">aide-carte-reglement.png</a></td><td><a href="../informations/reglement-officiel.md">reglement-officiel.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Problèmes de launcher</strong></td><td><sup>Installation, connexion, erreurs au lancement</sup></td><td><a href="../.gitbook/assets/aide-carte-launcher.png">aide-carte-launcher.png</a></td><td><a href="launcher.md">launcher.md</a></td></tr><tr><td><strong>Questions fréquentes</strong></td><td><sup>Avant de jouer et pendant tes débuts</sup></td><td><a href="../.gitbook/assets/aide-carte-questions.png">aide-carte-questions.png</a></td><td><a href="../informations/faq.md">faq.md</a></td></tr><tr><td><strong>Ouvrir un ticket</strong></td><td><sup>Quand rien d'autre n'a fonctionné</sup></td><td><a href="../.gitbook/assets/aide-carte-ticket.png">aide-carte-ticket.png</a></td><td><a href="ticket.md">ticket.md</a></td></tr></tbody></table>
 
 {% hint style="warning" icon="bullhorn" %}
 <mark style="color:$primary;">**Avant tout**</mark>
@@ -63,7 +63,75 @@ Le serveur n'est pas disponible sur **Bedrock Edition** <sup><sub>(Console, Tabl
 
 <sup><mark style="color:$info;">Un extrait de la <a href="../informations/faq.md">FAQ complète</a>.<mark style="color:$info;"></sup>
 
-<table><thead><tr><th width="440">Question</th><th>Réponse courte</th></tr></thead><tbody><tr><td><a href="../informations/faq.md#faut-il-acheter-minecraft-pour-jouer-sur-pokeisland">Faut-il acheter Minecraft pour jouer ?</a></td><td>Oui, Java Edition, avec un compte officiel</td></tr><tr><td><a href="../informations/faq.md#puis-je-jouer-sur-console-telephone-ou-tablette">Puis-je jouer sur console ou téléphone ?</a></td><td>Non, sur ordinateur uniquement</td></tr><tr><td><a href="../informations/faq.md#dois-je-installer-cobblemon-moi-meme">Dois-je installer Cobblemon moi-même ?</a></td><td>Non, le launcher s'occupe de tout</td></tr><tr><td><a href="../informations/faq.md#puis-je-installer-mes-propres-mods">Puis-je installer mes propres mods ?</a></td><td>Oui, s'ils ne donnent aucun avantage</td></tr><tr><td><a href="../informations/faq.md#comment-obtenir-mon-ile">Comment obtenir mon île ?</a></td><td>La commande <code>/is create</code></td></tr><tr><td><a href="../informations/faq.md#comment-gagner-mes-premiers-pokecoins">Comment gagner mes premiers PokéCoins ?</a></td><td>Vote, Rewards, vente et chasse</td></tr><tr><td><a href="../informations/faq.md#a-quoi-sert-le-niveau-de-dresseur">À quoi sert le niveau de dresseur ?</a></td><td>Il débloque arènes, zones et énergie</td></tr></tbody></table>
+<details>
+
+<summary><strong>Faut-il acheter Minecraft pour jouer ?</strong></summary>
+
+Oui. PokeIsland tourne sur **Minecraft Java Edition**, un jeu payant lié à un compte Microsoft, et le serveur n'accepte que les comptes officiels. Une fois le jeu acheté, le launcher installe tout le reste sans achat supplémentaire.
+
+<sup><a href="../informations/faq.md#faut-il-acheter-minecraft-pour-jouer-sur-pokeisland">Lire la réponse complète</a></sup>
+
+</details>
+
+<details>
+
+<summary><strong>Puis-je jouer sur console ou téléphone ?</strong></summary>
+
+Non. Ces supports utilisent **Bedrock Edition**, un jeu différent et incompatible. PokeIsland se joue uniquement sur **ordinateur**, sous Windows ou macOS.
+
+<sup><a href="../informations/faq.md#puis-je-jouer-sur-console-telephone-ou-tablette">Lire la réponse complète</a></sup>
+
+</details>
+
+<details>
+
+<summary><strong>Dois-je installer Cobblemon moi-même ?</strong></summary>
+
+Non, et il vaut mieux ne pas essayer. Le launcher installe la bonne version de Minecraft, Fabric, Cobblemon et nos mods, puis vérifie et répare les fichiers à chaque lancement.
+
+<sup><a href="../informations/faq.md#dois-je-installer-cobblemon-moi-meme">Lire la réponse complète</a></sup>
+
+</details>
+
+<details>
+
+<summary><strong>Puis-je installer mes propres mods ?</strong></summary>
+
+Oui, tant qu'ils ne te donnent **aucun avantage sur les autres joueurs**. Les mods de confort côté client, comme les shaders, sont les bienvenus. X-ray, radar, aimbot et compagnie sont interdits.
+
+<sup><a href="../informations/faq.md#puis-je-installer-mes-propres-mods">Lire la réponse complète</a></sup>
+
+</details>
+
+<details>
+
+<summary><strong>Comment obtenir mon île ?</strong></summary>
+
+Tape la commande `/is create`, ou avance tout droit depuis le point d'arrivée jusqu'au panneau **« Saute »**. Ton île devient ta base et ton point de retour.
+
+<sup><a href="../informations/faq.md#comment-obtenir-mon-ile">Lire la réponse complète</a></sup>
+
+</details>
+
+<details>
+
+<summary><strong>Comment gagner mes premiers PokéCoins ?</strong></summary>
+
+Quatre sources accessibles dès le début : `/vote` tous les jours, `/rewards` pour ton temps de jeu, la vente de ressources au Marchand Shop, et surtout la **chasse** avec `/chasse`, la plus rentable et la plus sous-estimée.
+
+<sup><a href="../informations/faq.md#comment-gagner-mes-premiers-pokecoins">Lire la réponse complète</a></sup>
+
+</details>
+
+<details>
+
+<summary><strong>À quoi sert le niveau de dresseur ?</strong></summary>
+
+C'est le fil conducteur de ta progression : il débloque des arènes et des zones, augmente ton énergie maximale, et donne des récompenses à chaque palier. Toutes tes actions en jeu le font monter.
+
+<sup><a href="../informations/faq.md#a-quoi-sert-le-niveau-de-dresseur">Lire la réponse complète</a></sup>
+
+</details>
 
 ***
 
@@ -73,4 +141,4 @@ Le serveur n'est pas disponible sur **Bedrock Edition** <sup><sub>(Console, Tabl
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Jouer</strong></td><td><sup>Téléchargement et installation</sup></td><td><a href="../informations/telechargement/">telechargement</a></td><td><a href="../.gitbook/assets/jouer-wiki.png">jouer-wiki.png</a></td></tr><tr><td><strong>Apprendre à jouer</strong></td><td><sup>Premier pas &#x26; tutoriel</sup></td><td><a href="../tutoriel/premier-pas.md">premier-pas.md</a></td><td><a href="../.gitbook/assets/decouvrir-wiki.png">decouvrir-wiki.png</a></td></tr><tr><td><strong>Cobblemon</strong></td><td><sup>Tout connaître du mod officiel</sup></td><td><a href="https://wiki.cobblemon.com/index.php/Main_Page">https://wiki.cobblemon.com/index.php/Main_Page</a></td><td><a href="../.gitbook/assets/cobblemon-wiki.png">cobblemon-wiki.png</a></td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Dresseur</strong></td><td><sup>Niveaux, récompenses et déblocages</sup></td><td><a href="../pokeisland/dresseur.md">dresseur.md</a></td></tr><tr><td><strong>PokéWorld</strong></td><td><sup>Les îles, arènes, safaris et bien d'autre encore</sup></td><td><a href="../pokeisland/pokeworld/">pokeworld</a></td></tr><tr><td><strong>Île joueurs</strong></td><td><sup>Ta propre île pour ton aventure Pokémon</sup></td><td><a href="../pokeisland/ile-joueurs.md">ile-joueurs.md</a></td></tr><tr><td><strong>Économie</strong></td><td><sup>GTS, marchands, enchères et shop</sup></td><td><a href="../pokeisland/economie/">economie</a></td></tr><tr><td><strong>Liens utiles</strong></td><td><sup>Discord, boutique, réseaux et plus</sup></td><td><a href="../informations/liens-utiles.md">liens-utiles.md</a></td></tr><tr><td><strong>Notre équipe</strong></td><td><sup>Les membres qui font vivre le projet</sup></td><td><a href="../informations/notre-equipe.md">notre-equipe.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Dresseur</strong></td><td><sup>Niveaux, récompenses et déblocages</sup></td><td><a href="../pokeisland/dresseur.md">dresseur.md</a></td></tr><tr><td><strong>PokéWorld</strong></td><td><sup>Les îles, arènes, safaris et bien d'autre encore</sup></td><td><a href="../pokeisland/pokeworld/">pokeworld</a></td></tr><tr><td><strong>Île joueurs</strong></td><td><sup>Ta propre île pour ton aventure Pokémon</sup></td><td><a href="../pokeisland/ile-joueurs.md">ile-joueurs.md</a></td></tr><tr><td><strong>Économie</strong></td><td><sup>GTS, marchands, enchères et shop</sup></td><td><a href="../pokeisland/economie/">economie</a></td></tr><tr><td><strong>Commandes</strong></td><td><sup>La liste complète des commandes du serveur</sup></td><td><a href="../pokeisland/commandes.md">commandes.md</a></td></tr><tr><td><strong>Vote &#x26; gagne</strong></td><td><sup>Soutiens le serveur et récolte des récompenses</sup></td><td><a href="../tutoriel/vote-and-gagne.md">vote-and-gagne.md</a></td></tr><tr><td><strong>Règlement</strong></td><td><sup>Sanctions, litiges et règles du serveur</sup></td><td><a href="../informations/reglement-officiel.md">reglement-officiel.md</a></td></tr><tr><td><strong>Liens utiles</strong></td><td><sup>Discord, boutique, réseaux et plus</sup></td><td><a href="../informations/liens-utiles.md">liens-utiles.md</a></td></tr><tr><td><strong>Notre équipe</strong></td><td><sup>Les membres qui font vivre le projet</sup></td><td><a href="../informations/notre-equipe.md">notre-equipe.md</a></td></tr></tbody></table>
