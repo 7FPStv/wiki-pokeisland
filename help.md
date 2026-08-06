@@ -1,19 +1,19 @@
 ---
 hidden: true
 layout:
-  width: default
+  width: wide
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
   metadata:
-    visible: true
+    visible: false
   tags:
     visible: true
   actions:
