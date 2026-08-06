@@ -58,6 +58,8 @@ Cet avertissement ne signale **aucun virus**. Windows le montre pour tout progra
 
 Si vous n'arrivez pas à passer le gros bouton jaune "CONNEXION"
 
+<figure><img src="../.gitbook/assets/launcher-connexion.png" alt="Écran de connexion du launcher avec le bouton CONNEXION"><figcaption><p>L'écran sur lequel vous restez bloqué</p></figcaption></figure>
+
 **Solution 1 : La fenêtre Microsoft ne s'ouvre pas**
 
 > * La connexion se fait dans une fenêtre qui s'ouvre par-dessus le launcher. Elle peut apparaître **derrière** la fenêtre principale : vérifiez votre barre des tâches.
@@ -106,6 +108,8 @@ Si le launcher affiche "Ce compte Microsoft ne possède pas Minecraft : Java Edi
 
 Si le message "Session Microsoft expirée" s'affiche en bas de votre launcher
 
+<figure><img src="../.gitbook/assets/session-microsoft-expire.png" alt="Le message de session expirée en bas du launcher"><figcaption><p>Le message tel qu'il apparaît en bas de la fenêtre</p></figcaption></figure>
+
 > * Cliquez sur **votre tête de personnage**, à droite du bouton JOUER, pour ouvrir la fenêtre des comptes.
 > * Cliquez sur **Se déconnecter**, puis reconnectez-vous.
 
@@ -145,6 +149,8 @@ Si le launcher affiche "Impossible de joindre les serveurs Microsoft"
 <summary><strong>Erreur: Error: connect ETIMEDOUT ******</strong></summary>
 
 Si le message "**Error: connect ETIMEDOUT \*\*\*\*\*\***" s'affiche en bas de votre launcher
+
+<figure><img src="../.gitbook/assets/errorconnect-etimedout.png" alt="Le message ETIMEDOUT en bas du launcher, barre de progression à 0 %"><figcaption><p>Le téléchargement ne démarre pas et reste à 0 %</p></figcaption></figure>
 
 > * Ouvrez **Panneau de configuration**
 >   * Si vous ne savez pas, faites :
@@ -200,6 +206,8 @@ Si votre launcher reste figé indéfiniment sur la barre de chargement à 100%
 <summary><strong>Erreur "Incompatible mods found!"</strong></summary>
 
 Si une fenêtre blanche d'erreur Fabric s'affiche au lancement
+
+<figure><img src="../.gitbook/assets/launcher-incompatible-mods.png" alt="Fenêtre Fabric Loader affichant Incompatible mods found!"><figcaption><p>Le bouton <strong>Exit</strong> se trouve en bas à droite de cette fenêtre</p></figcaption></figure>
 
 > * Ce problème arrive quand un fichier du jeu a mal été téléchargé.
 > * Cliquez simplement sur le bouton **Exit** en bas à droite pour fermer l'erreur.
