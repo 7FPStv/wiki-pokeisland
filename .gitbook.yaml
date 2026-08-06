@@ -1,0 +1,12 @@
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+# Le Centre d'aide devient le point d'entrée unique de toute l'aide joueur.
+# La page de résolution des problèmes de launcher a donc changé d'adresse :
+# on redirige l'ancienne, partagée sur Discord et indexée par les moteurs de
+# recherche, pour ne casser aucun lien existant.
+redirects:
+  informations/telechargement/resolution-de-telechargement: help/launcher.md

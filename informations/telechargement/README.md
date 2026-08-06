@@ -32,7 +32,7 @@ Comment rejoindre PokeIsland sur Minecraft ?
 {% step %}
 ### <mark style="color:$info;">**Vous avez un blocage ?**</mark>
 
-<mark style="color:$info;">Suivre le</mark> [tutoriel suivant](resolution-de-telechargement.md)<mark style="color:$info;">, si vous avez un avertissement : Pokeisland-launcher-setup.exe n’est pas fréquemment téléchargé. Assurez-vous que vous faites confiance à pokeisland-launcher-setup.exe avant de l’ouvrir.</mark>
+<mark style="color:$info;">Suivre le</mark> [tutoriel suivant](../../help/launcher.md)<mark style="color:$info;">, si vous avez un avertissement : Pokeisland-launcher-setup.exe n’est pas fréquemment téléchargé. Assurez-vous que vous faites confiance à pokeisland-launcher-setup.exe avant de l’ouvrir.</mark>
 {% endstep %}
 
 {% step %}
