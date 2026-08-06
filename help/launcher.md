@@ -1,6 +1,16 @@
-# Résolution de problème launcher
+---
+description: >-
+  Chaque message d'erreur du launcher, sa cause et la manipulation qui le règle.
+icon: wrench
+---
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Windows à protégé votre ordinateur</strong></td><td data-object-fit="contain"><a href="../.gitbook/assets/image (21).png">image (21).png</a></td><td><a href="launcher.md#windows-a-protege-votre-ordinateur">#windows-a-protege-votre-ordinateur</a></td></tr><tr><td><strong>Problème de connexion / Compte Microsoft</strong></td><td><a href="../.gitbook/assets/launcher-connexion.png">launcher-connexion.png</a></td><td><a href="launcher.md#probleme-de-connexion-compte-microsoft">#probleme-de-connexion-compte-microsoft</a></td></tr><tr><td><strong>Compte sans Minecraft Java Edition</strong></td><td></td><td><a href="launcher.md#compte-sans-minecraft-java-edition">#compte-sans-minecraft-java-edition</a></td></tr><tr><td><strong>Connexion impossible aux serveurs Microsoft</strong></td><td></td><td><a href="launcher.md#connexion-impossible-aux-serveurs-microsoft">#connexion-impossible-aux-serveurs-microsoft</a></td></tr><tr><td><strong>Échec de la connexion Microsoft</strong></td><td></td><td><a href="launcher.md#echec-de-la-connexion-microsoft">#echec-de-la-connexion-microsoft</a></td></tr><tr><td><strong>Problème de configuration du launcher</strong></td><td></td><td><a href="launcher.md#probleme-de-configuration-du-launcher">#probleme-de-configuration-du-launcher</a></td></tr><tr><td><strong>Erreur "Incompatible mods found!"</strong></td><td><a href="../.gitbook/assets/imaeeege.png">imaeeege.png</a></td><td><a href="launcher.md#erreur-incompatible-mods-found">#erreur-incompatible-mods-found</a></td></tr><tr><td><strong>Blocage sur "Lancement..." à 100%</strong></td><td></td><td><a href="launcher.md#blocage-sur-lancement...-a-100">#blocage-sur-lancement...-a-100</a></td></tr><tr><td><strong>Session Microsoft expirée</strong></td><td><a href="../.gitbook/assets/session-microsoft-expire.png">session-microsoft-expire.png</a></td><td><a href="launcher.md#session-microsoft-expiree">#session-microsoft-expiree</a></td></tr><tr><td><strong>Erreur: Error: connect ETIMEDOUT ******</strong></td><td><a href="../.gitbook/assets/errorconnect-etimedout.png">errorconnect-etimedout.png</a></td><td><a href="launcher.md#erreur-error-connect-etimedout">#erreur-error-connect-etimedout</a></td></tr><tr><td><strong>Toujours bloqué, malgré les solutions ?</strong></td><td><a href="../.gitbook/assets/cobblemon-wiki.png">cobblemon-wiki.png</a></td><td><a href="launcher.md#toujours-bloque-malgre-les-solutions">#toujours-bloque-malgre-les-solutions</a></td></tr></tbody></table>
+# Problèmes de launcher
+
+<sup><mark style="color:$info;">Trouve le message que tu vois à l'écran, la solution se déplie dessous.<mark style="color:$info;"></sup>
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Windows a protégé votre ordinateur</strong></td><td><a href="../.gitbook/assets/launcher-carte-installation-windows.png">launcher-carte-installation-windows.png</a></td><td><a href="launcher.md#windows-a-protege-votre-ordinateur">#windows-a-protege-votre-ordinateur</a></td></tr><tr><td><strong>Problème de connexion / Compte Microsoft</strong></td><td><a href="../.gitbook/assets/launcher-carte-connexion-microsoft.png">launcher-carte-connexion-microsoft.png</a></td><td><a href="launcher.md#probleme-de-connexion-compte-microsoft">#probleme-de-connexion-compte-microsoft</a></td></tr><tr><td><strong>Compte sans Minecraft Java Edition</strong></td><td><a href="../.gitbook/assets/launcher-carte-compte-sans-java.png">launcher-carte-compte-sans-java.png</a></td><td><a href="launcher.md#compte-sans-minecraft-java-edition">#compte-sans-minecraft-java-edition</a></td></tr><tr><td><strong>Session Microsoft expirée</strong></td><td><a href="../.gitbook/assets/launcher-carte-session-expiree.png">launcher-carte-session-expiree.png</a></td><td><a href="launcher.md#session-microsoft-expiree">#session-microsoft-expiree</a></td></tr><tr><td><strong>Échec de la connexion Microsoft</strong></td><td><a href="../.gitbook/assets/launcher-carte-echec-connexion.png">launcher-carte-echec-connexion.png</a></td><td><a href="launcher.md#echec-de-la-connexion-microsoft">#echec-de-la-connexion-microsoft</a></td></tr><tr><td><strong>Connexion impossible aux serveurs Microsoft</strong></td><td><a href="../.gitbook/assets/launcher-carte-serveurs-microsoft.png">launcher-carte-serveurs-microsoft.png</a></td><td><a href="launcher.md#connexion-impossible-aux-serveurs-microsoft">#connexion-impossible-aux-serveurs-microsoft</a></td></tr><tr><td><strong>Erreur: Error: connect ETIMEDOUT ******</strong></td><td><a href="../.gitbook/assets/launcher-carte-timeout-reseau.png">launcher-carte-timeout-reseau.png</a></td><td><a href="launcher.md#erreur-error-connect-etimedout">#erreur-error-connect-etimedout</a></td></tr><tr><td><strong>Problème de configuration du launcher</strong></td><td><a href="../.gitbook/assets/launcher-carte-configuration.png">launcher-carte-configuration.png</a></td><td><a href="launcher.md#probleme-de-configuration-du-launcher">#probleme-de-configuration-du-launcher</a></td></tr><tr><td><strong>Blocage sur "Lancement..." à 100%</strong></td><td><a href="../.gitbook/assets/launcher-carte-blocage-lancement.png">launcher-carte-blocage-lancement.png</a></td><td><a href="launcher.md#blocage-sur-lancement...-a-100">#blocage-sur-lancement...-a-100</a></td></tr><tr><td><strong>Erreur "Incompatible mods found!"</strong></td><td><a href="../.gitbook/assets/launcher-carte-mods-incompatibles.png">launcher-carte-mods-incompatibles.png</a></td><td><a href="launcher.md#erreur-incompatible-mods-found">#erreur-incompatible-mods-found</a></td></tr><tr><td><strong>Toujours bloqué, malgré les solutions ?</strong></td><td><a href="../.gitbook/assets/launcher-carte-assistance.png">launcher-carte-assistance.png</a></td><td><a href="launcher.md#toujours-bloque-malgre-les-solutions">#toujours-bloque-malgre-les-solutions</a></td></tr></tbody></table>
+
+***
 
 ## Repérer les éléments du launcher
 
@@ -12,27 +22,33 @@
 
 ***
 
+## Les solutions
+
 <details>
 
-<summary><strong>Windows à protégé votre ordinateur</strong></summary>
+<summary><strong>Windows a protégé votre ordinateur</strong></summary>
 
-Suivre le tutoriel suivant, si vous avez un avertissement : Pokeisland-launcher-0.1.19-setup.exe n’est pas fréquemment téléchargé. Assurez-vous que vous faites confiance à pokeisland-launcher-0.1.19-setup (2).exe avant de l’ouvrir.
+Si un avertissement apparaît au téléchargement ou à l'ouverture du fichier d'installation
 
 {% hint style="info" %}
-Le launcher a un message d'avertissement pour le téléchargement puisque il n'est pas reconnu selon Microsoft
+Cet avertissement ne signale **aucun virus**. Windows le montre pour tout programme qu'il ne connaît pas encore, et le launcher PokeIsland est trop récent et trop peu téléchargé pour figurer dans sa liste.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/windows-smartscreen.png" alt="Avertissement SmartScreen de Windows"><figcaption><p>Illustration de l'avertissement — cliquez sur <strong>Informations complémentaires</strong> pour faire apparaître le bouton <strong>Exécuter quand même</strong></p></figcaption></figure>
+**Étape 1 : Conserver le téléchargement**
 
-<div align="left" data-full-width="true" data-with-frame="true"><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Cliquer sur les trois petit point : <strong>Conserver</strong></p></figcaption></figure></div>
+<div align="left" data-full-width="true" data-with-frame="true"><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Dans votre navigateur, cliquez sur les trois petits points : <strong>Conserver</strong></p></figcaption></figure></div>
 
-<div align="left" data-full-width="true" data-with-frame="true"><figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Encore sur les trois petit point : <strong>Conserver quand même</strong></p></figcaption></figure></div>
+<div align="left" data-full-width="true" data-with-frame="true"><figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Encore sur les trois petits points : <strong>Conserver quand même</strong></p></figcaption></figure></div>
 
-<div align="left" data-full-width="true" data-with-frame="true"><figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Ouvrir un fichier</p></figcaption></figure></div>
+<div align="left" data-full-width="true" data-with-frame="true"><figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Puis ouvrez le fichier téléchargé</p></figcaption></figure></div>
 
-<div align="left" data-full-width="true" data-with-frame="true"><figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Windows a protégé votre ordinateur : Cliquer sur le lien <strong>Informations complémentaires</strong></p></figcaption></figure></div>
+**Étape 2 : Autoriser l'exécution**
+
+<div align="left" data-full-width="true" data-with-frame="true"><figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Windows a protégé votre ordinateur : cliquez sur le lien <strong>Informations complémentaires</strong></p></figcaption></figure></div>
 
 <div align="left" data-full-width="true" data-with-frame="true"><figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Cliquez sur le bouton : <strong>Exécuter quand même</strong></p></figcaption></figure></div>
+
+<sup>Télécharge toujours le launcher depuis <a href="https://pokeisland.fr/jouer/">pokeisland.fr/jouer</a>. Un fichier récupéré ailleurs n'est pas le nôtre.</sup>
 
 </details>
 
@@ -41,6 +57,8 @@ Le launcher a un message d'avertissement pour le téléchargement puisque il n'e
 <summary><strong>Problème de connexion / Compte Microsoft</strong></summary>
 
 Si vous n'arrivez pas à passer le gros bouton jaune "CONNEXION"
+
+<figure><img src="../.gitbook/assets/launcher-connexion.png" alt="Écran de connexion du launcher avec le bouton CONNEXION"><figcaption><p>L'écran sur lequel vous restez bloqué</p></figcaption></figure>
 
 **Solution 1 : La fenêtre Microsoft ne s'ouvre pas**
 
@@ -86,14 +104,18 @@ Si le launcher affiche "Ce compte Microsoft ne possède pas Minecraft : Java Edi
 
 <details>
 
-<summary><strong>Connexion impossible aux serveurs Microsoft</strong></summary>
+<summary><strong>Session Microsoft expirée</strong></summary>
 
-Si le launcher affiche "Impossible de joindre les serveurs Microsoft"
+Si le message "Session Microsoft expirée" s'affiche en bas de votre launcher
 
-> * Vérifiez que votre connexion internet fonctionne en ouvrant un site quelconque dans votre navigateur.
-> * Si vous êtes sur le **Wi-Fi d'une école, d'une entreprise ou d'un hôtel**, l'accès à Microsoft est souvent bloqué : essayez sur une autre connexion, par exemple le partage de connexion de votre téléphone.
-> * Désactivez temporairement votre **VPN** ou votre **antivirus**, qui peuvent bloquer la fenêtre de connexion.
-> * Si le problème persiste, les serveurs Microsoft sont peut-être en panne : vérifiez sur <a href="https://downdetector.fr/statut/minecraft/">downdetector</a> et réessayez plus tard.
+<figure><img src="../.gitbook/assets/session-microsoft-expire.png" alt="Le message de session expirée en bas du launcher"><figcaption><p>Le message tel qu'il apparaît en bas de la fenêtre</p></figcaption></figure>
+
+> * Cliquez sur **votre tête de personnage**, à droite du bouton JOUER, pour ouvrir la fenêtre des comptes.
+> * Cliquez sur **Se déconnecter**, puis reconnectez-vous.
+
+<figure><img src="../.gitbook/assets/launcher-popup-comptes.png" alt="Fenêtre des comptes du launcher"><figcaption><p>La fenêtre des comptes, ouverte depuis votre tête de personnage</p></figcaption></figure>
+
+Une simple reconnexion règle généralement ce souci de session.<br>
 
 </details>
 
@@ -111,6 +133,41 @@ Si le launcher affiche "La connexion Microsoft a échoué" sans plus de précisi
 
 <details>
 
+<summary><strong>Connexion impossible aux serveurs Microsoft</strong></summary>
+
+Si le launcher affiche "Impossible de joindre les serveurs Microsoft"
+
+> * Vérifiez que votre connexion internet fonctionne en ouvrant un site quelconque dans votre navigateur.
+> * Si vous êtes sur le **Wi-Fi d'une école, d'une entreprise ou d'un hôtel**, l'accès à Microsoft est souvent bloqué : essayez sur une autre connexion, par exemple le partage de connexion de votre téléphone.
+> * Désactivez temporairement votre **VPN** ou votre **antivirus**, qui peuvent bloquer la fenêtre de connexion.
+> * Si le problème persiste, les serveurs Microsoft sont peut-être en panne : vérifiez sur <a href="https://downdetector.fr/statut/minecraft/">downdetector</a> et réessayez plus tard.
+
+</details>
+
+<details>
+
+<summary><strong>Erreur: Error: connect ETIMEDOUT ******</strong></summary>
+
+Si le message "**Error: connect ETIMEDOUT \*\*\*\*\*\***" s'affiche en bas de votre launcher
+
+<figure><img src="../.gitbook/assets/errorconnect-etimedout.png" alt="Le message ETIMEDOUT en bas du launcher, barre de progression à 0 %"><figcaption><p>Le téléchargement ne démarre pas et reste à 0 %</p></figcaption></figure>
+
+> * Ouvrez **Panneau de configuration**
+>   * Si vous ne savez pas, faites :
+>   * (<kbd>Windows</kbd> + <kbd>R</kbd>, tapez <kbd>control</kbd>, puis <kbd>Entrée</kbd>)
+> * Cliquez sur **Réseau et Internet**
+> * Cliquez sur **Centre Réseau et partage**
+> * Sur la gauche, cliquez sur **Modifier les paramètres de la carte**
+> * Cherchez la connexion que vous utilisez (Wi-Fi ou Ethernet)
+> * Faites clic droit → **Propriétés**
+> * Dans la liste, décochez **Protocole Internet version 6 (TCP/IPv6)**
+> * Cliquez sur **OK**
+> * Redémarrez votre launcher
+
+</details>
+
+<details>
+
 <summary><strong>Problème de configuration du launcher</strong></summary>
 
 Si le launcher affiche "La connexion est indisponible à cause d'un problème de configuration de notre côté"
@@ -118,20 +175,6 @@ Si le launcher affiche "La connexion est indisponible à cause d'un problème de
 > * Ce message ne vient pas de votre ordinateur : il signale une erreur de configuration côté PokeIsland.
 > * Il n'y a **rien à faire de votre côté**, aucune manipulation ne le règlera.
 > * Signalez-le dans un ticket pour que l'équipe corrige le problème au plus vite.
-
-</details>
-
-<details>
-
-<summary><strong>Erreur "Incompatible mods found!"</strong></summary>
-
-Si une fenêtre blanche d'erreur Fabric s'affiche au lancement
-
-> * Ce problème arrive quand un fichier du jeu a mal été téléchargé.
-> * Cliquez simplement sur le bouton **Exit** en bas à droite pour fermer l'erreur.
-> * Relancez le jeu depuis le launcher.
-
-Le launcher va automatiquement détecter le fichier manquant ou cassé et le re-télécharger correctement.
 
 </details>
 
@@ -160,36 +203,17 @@ Si votre launcher reste figé indéfiniment sur la barre de chargement à 100%
 
 <details>
 
-<summary><strong>Session Microsoft expirée</strong></summary>
+<summary><strong>Erreur "Incompatible mods found!"</strong></summary>
 
-Si le message "Session Microsoft expirée" s'affiche en bas de votre launcher
+Si une fenêtre blanche d'erreur Fabric s'affiche au lancement
 
-> * Cliquez sur **votre tête de personnage**, à droite du bouton JOUER, pour ouvrir la fenêtre des comptes.
-> * Cliquez sur **Se déconnecter**, puis reconnectez-vous.
+<figure><img src="../.gitbook/assets/launcher-incompatible-mods.png" alt="Fenêtre Fabric Loader affichant Incompatible mods found!"><figcaption><p>Le bouton <strong>Exit</strong> se trouve en bas à droite de cette fenêtre</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/launcher-popup-comptes.png" alt="Fenêtre des comptes du launcher"><figcaption><p>La fenêtre des comptes, ouverte depuis votre tête de personnage</p></figcaption></figure>
+> * Ce problème arrive quand un fichier du jeu a mal été téléchargé.
+> * Cliquez simplement sur le bouton **Exit** en bas à droite pour fermer l'erreur.
+> * Relancez le jeu depuis le launcher.
 
-Une simple reconnexion règle généralement ce souci de session.<br>
-
-</details>
-
-<details>
-
-<summary><strong>Erreur: Error: connect ETIMEDOUT ******</strong></summary>
-
-Si le message "**Error: connect ETIMEDOUT \*\*\*\*\*\***" s'affiche en bas de votre launcher
-
-> * Ouvrez **Panneau de configuration**
->   * Si vous ne savez pas, faites :
->   * (<kbd>Windows</kbd> + <kbd>R</kbd>, tapez <kbd>control</kbd>, puis <kbd>Entrée</kbd>)
-> * Cliquez sur **Réseau et Internet**
-> * Cliquez sur **Centre Réseau et partage**
-> * Sur la gauche, cliquez sur **Modifier les paramètres de la carte**
-> * Cherchez la connexion que vous utilisez (Wi-Fi ou Ethernet)
-> * Faites clic droit → **Propriétés**
-> * Dans la liste, décochez **Protocole Internet version 6 (TCP/IPv6)**
-> * Cliquez sur **OK**
-> * Redémarrez votre launcher
+Le launcher va automatiquement détecter le fichier manquant ou cassé et le re-télécharger correctement.
 
 </details>
 
@@ -207,3 +231,7 @@ Si aucune des solutions de ce fil n'a réussi à régler votre problème :
 <sup>La marche à suivre détaillée se trouve sur la page <a href="ticket.md">Ouvrir un ticket</a></sup>
 
 </details>
+
+***
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Ouvrir un ticket</strong></td><td><sup>Quand rien de cette page n'a fonctionné</sup></td><td><a href="ticket.md">ticket.md</a></td></tr><tr><td><strong>Centre d'aide</strong></td><td><sup>Revenir à l'ensemble de l'aide joueur</sup></td><td><a href="./">Centre d'aide</a></td></tr></tbody></table>
