@@ -1,5 +1,5 @@
 ---
-hidden: true
+icon: headset
 layout:
   width: wide
   title:
@@ -63,7 +63,7 @@ Le serveur n'est pas disponible sur **Bedrock Edition** <sup><sub>(Console, Tabl
 
 <sup><mark style="color:$info;">Un extrait de la <a href="../informations/faq.md">FAQ complète</a>.<mark style="color:$info;"></sup>
 
-<table><thead><tr><th width="440">Question</th><th>Réponse courte</th></tr></thead><tbody><tr><td><a href="../informations/faq.md#faut-il-acheter-minecraft-pour-jouer-sur-pokeisland">Faut-il acheter Minecraft pour jouer ?</a></td><td>Oui, Java Edition, avec un compte officiel</td></tr><tr><td><a href="../informations/faq.md#puis-je-jouer-sur-console-telephone-ou-tablette">Puis-je jouer sur console ou téléphone ?</a></td><td>Non, sur ordinateur uniquement</td></tr><tr><td><a href="../informations/faq.md#dois-je-installer-cobblemon-moi-meme">Dois-je installer Cobblemon moi-même ?</a></td><td>Non, le launcher s'occupe de tout</td></tr><tr><td><a href="../informations/faq.md#comment-obtenir-mon-ile">Comment obtenir mon île ?</a></td><td>La commande <code>/is create</code></td></tr><tr><td><a href="../informations/faq.md#comment-gagner-mes-premiers-pokecoins">Comment gagner mes premiers PokéCoins ?</a></td><td>Vote, Rewards, vente et chasse</td></tr><tr><td><a href="../informations/faq.md#a-quoi-sert-le-niveau-de-dresseur">À quoi sert le niveau de dresseur ?</a></td><td>Il débloque arènes, zones et énergie</td></tr></tbody></table>
+<table><thead><tr><th width="440">Question</th><th>Réponse courte</th></tr></thead><tbody><tr><td><a href="../informations/faq.md#faut-il-acheter-minecraft-pour-jouer-sur-pokeisland">Faut-il acheter Minecraft pour jouer ?</a></td><td>Oui, Java Edition, avec un compte officiel</td></tr><tr><td><a href="../informations/faq.md#puis-je-jouer-sur-console-telephone-ou-tablette">Puis-je jouer sur console ou téléphone ?</a></td><td>Non, sur ordinateur uniquement</td></tr><tr><td><a href="../informations/faq.md#dois-je-installer-cobblemon-moi-meme">Dois-je installer Cobblemon moi-même ?</a></td><td>Non, le launcher s'occupe de tout</td></tr><tr><td><a href="../informations/faq.md#puis-je-installer-mes-propres-mods">Puis-je installer mes propres mods ?</a></td><td>Oui, s'ils ne donnent aucun avantage</td></tr><tr><td><a href="../informations/faq.md#comment-obtenir-mon-ile">Comment obtenir mon île ?</a></td><td>La commande <code>/is create</code></td></tr><tr><td><a href="../informations/faq.md#comment-gagner-mes-premiers-pokecoins">Comment gagner mes premiers PokéCoins ?</a></td><td>Vote, Rewards, vente et chasse</td></tr><tr><td><a href="../informations/faq.md#a-quoi-sert-le-niveau-de-dresseur">À quoi sert le niveau de dresseur ?</a></td><td>Il débloque arènes, zones et énergie</td></tr></tbody></table>
 
 ***
 

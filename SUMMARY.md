@@ -1,9 +1,6 @@
 # Table of contents
 
 * [Bienvenue](README.md)
-* [Centre d'aide](help/README.md)
-  * [Problèmes de launcher](help/launcher.md)
-  * [Ouvrir un ticket](help/ticket.md)
 * [Maintenance wiki](<README (1).md>)
 
 ## Informations
@@ -77,3 +74,9 @@
 * [Dresseurs sauvages](cobblemon/dresseurs-sauvages.md)
 * [Mega Showdown](cobblemon/mega-showdown.md)
 * [Reproduction](cobblemon/reproduction.md)
+
+## Aide
+
+* [Centre d'aide](help/README.md)
+  * [Problèmes de launcher](help/launcher.md)
+  * [Ouvrir un ticket](help/ticket.md)
