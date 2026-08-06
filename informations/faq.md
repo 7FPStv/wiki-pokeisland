@@ -63,6 +63,40 @@ Non, et il vaut mieux ne pas essayer. Le **launcher PokeIsland installe tout aut
 
 <details>
 
+<summary><strong>Puis-je installer mes propres mods ?</strong></summary>
+
+Oui, à une condition : que le mod **n'apporte aucun avantage sur les autres joueurs**.
+
+<table><thead><tr><th width="230">Type de mod</th><th width="130">Autorisé</th><th>Exemples</th></tr></thead><tbody><tr><td><strong>Confort côté client</strong></td><td>Oui</td><td>Shaders, améliorations d'affichage, réglages d'interface</td></tr><tr><td><strong>Avantage en jeu</strong></td><td>Non</td><td>X-ray, radar, aimbot, autoclicker, freecam, minage automatique</td></tr></tbody></table>
+
+> * Un mod qui améliore ton **confort ou ton expérience visuelle** ne pose aucun problème.
+> * Un mod qui te donne un **avantage sur les autres joueurs** est interdit, et le launcher refuse d'installer les clients de triche connus.
+> * En cas de doute sur un mod précis, demande avant de l'installer : un ticket évite une sanction.
+
+{% hint style="warning" %}
+Le blocage du launcher est un garde-fou, pas une autorisation implicite : ce n'est pas parce qu'un mod passe qu'il est autorisé. C'est le [règlement](reglement-officiel.md) qui fait foi.
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary><strong>Combien de mémoire faut-il allouer au jeu ?</strong></summary>
+
+Le launcher est réglé sur **4 Go** par défaut, ce qui correspond au minimum recommandé par le wiki officiel de Cobblemon. Tu peux modifier cette valeur dans les **Paramètres** du launcher.
+
+<table><thead><tr><th width="200">Mémoire allouée</th><th>Ce que ça donne</th></tr></thead><tbody><tr><td><strong>4 Go</strong></td><td>Le réglage par défaut, suffisant pour jouer</td></tr><tr><td><strong>6 à 8 Go</strong></td><td>Plus confortable si ta machine le permet</td></tr></tbody></table>
+
+{% hint style="warning" %}
+N'alloue **jamais toute la mémoire de ton ordinateur**. Windows et le launcher en ont besoin de leur côté : au-delà de la moitié de ta mémoire totale, le jeu devient souvent plus instable, pas plus fluide.
+{% endhint %}
+
+Le curseur du launcher t'indique la mémoire réellement disponible sur ta machine. Si tu ne sais pas quoi mettre, laisse la valeur par défaut : c'est le réglage prévu pour le serveur.
+
+</details>
+
+<details>
+
 <summary><strong>Puis-je rejoindre le serveur avec une adresse IP ?</strong></summary>
 
 Non. PokeIsland est accessible **uniquement via le launcher officiel**.
@@ -104,8 +138,10 @@ Télécharge toujours le launcher depuis [pokeisland.fr/jouer](https://pokeislan
 À ta toute première connexion, tu arrives sur l'île du **Spawn** et tu choisis ton Pokémon de départ parmi les starters officiels de Cobblemon.
 
 {% hint style="warning" %}
-Ce choix est **définitif**. Les starters sont rares à trouver dans la nature : prends le temps de réfléchir avant de valider.
+Ce choix est **définitif**. Il n'existe **aucun retour en arrière**, et un ticket n'y changera rien : prends le temps de réfléchir avant de valider.
 {% endhint %}
+
+Tu n'es pour autant pas enfermé avec ce seul starter : les autres **peuvent se capturer dans la nature**. Ils y sont simplement rares, alors ne compte pas dessus pour rattraper un choix regretté dès tes premières heures.
 
 {% content-ref url="../tutoriel/premier-pas.md" %}
 [premier-pas.md](../tutoriel/premier-pas.md)
