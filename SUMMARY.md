@@ -1,13 +1,13 @@
 # Table of contents
 
 * [Bienvenue](README.md)
-* [Centre d'aide](help.md)
+* [Centre d'aide](help/README.md)
+  * [Problèmes de launcher](help/launcher.md)
 * [Maintenance wiki](<README (1).md>)
 
 ## Informations
 
 * [Jouer à PokeIsland](informations/telechargement/README.md)
-  * [Résolution de problème launcher](informations/telechargement/resolution-de-telechargement.md)
 * [Règlement officiel](informations/reglement-officiel.md)
 * [Notre équipe](informations/notre-equipe.md)
 * [Liens utiles](informations/liens-utiles.md)
