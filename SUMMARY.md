@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Bienvenue](README.md)
+* [Centre d'aide](centre-daide.md)
 * [Maintenance wiki](<README (1).md>)
 
 ## Informations
