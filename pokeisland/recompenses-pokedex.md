@@ -51,5 +51,5 @@ Les récompenses ne sont **pas** données automatiquement : il faut passer par `
 Ta complétion de Pokédex n'ouvre pas que ces paliers :
 
 * elle donne de l'**XP Dresseur** aux paliers 25 %, 50 %, 75 % et 100 % (respectivement 1 000, 2 500, 5 000 et 10 000 XP) ;
-* elle est une **condition du [Rebirth](rebirth.md)** — il te faut 75 % minimum ;
+* elle est une **condition du [Rebirth](dresseur.md#le-rebirth-prestige)** — il te faut 75 % minimum ;
 * elle s'affiche sur ta **fiche joueur**, visible par tout le monde dans le chat.

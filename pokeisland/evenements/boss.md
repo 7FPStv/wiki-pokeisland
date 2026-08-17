@@ -5,7 +5,7 @@ description: >-
 icon: dragon
 ---
 
-# Raid quotidien
+# Boss
 
 Tous les jours à **20h00**, un **boss de raid** apparaît dans l'arène de raid. Sa barre de vie est **commune à tout le réseau** : chaque coup porté sur n'importe quel serveur descend la même jauge. `/raid`
 

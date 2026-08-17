@@ -5,7 +5,7 @@ description: >-
 icon: ranking-star
 ---
 
-# Ranked 1v1
+# Ranked
 
 Le **Ranked** est le mode compétitif du serveur. Tu rejoins une file d'attente, le serveur te trouve un adversaire de niveau proche, et vous vous affrontez en combat Cobblemon officiel. <kbd>**/ranked**</kbd>
 

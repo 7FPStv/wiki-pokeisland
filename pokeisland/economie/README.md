@@ -58,6 +58,26 @@ Le marché joueur-joueur pour vendre/acheter Pokémon et objets.
 
 ***
 
+## Les PNJ
+
+### Recyclage
+
+Échange tes Pokémon en trop contre des points, et tes points contre des shinies.
+
+{% content-ref url="recyclage.md" %}
+[recyclage.md](recyclage.md)
+{% endcontent-ref %}
+
+### Livraison
+
+Apporte le Pokémon demandé par le PNJ et encaisse — le gain grimpe si tu enchaînes.
+
+{% content-ref url="livraison.md" %}
+[livraison.md](livraison.md)
+{% endcontent-ref %}
+
+***
+
 {% hint style="info" %}
 **Conseil rapide pour bien commencer**
 

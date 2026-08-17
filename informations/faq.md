@@ -254,7 +254,7 @@ C'est le fil conducteur de ta progression. **Toutes tes actions sur le serveur**
 Oui, de plusieurs façons :
 
 > * **Sur ton île** : invite-les avec `/is invite Pseudo`. Ils pourront construire et jouer avec toi selon les permissions que tu définis dans `/is permissions`.
-> * **En combat** : affrontez-vous en duel, en Ranked 1v1 ou dans les arènes joueurs.
+> * **En combat** : affrontez-vous en duel ou en Ranked.
 > * **En échange** : le GTS et les enchères permettent de s'échanger Pokémon et objets entre joueurs.
 
 </details>

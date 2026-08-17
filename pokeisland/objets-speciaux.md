@@ -7,7 +7,7 @@ icon: gem
 
 # Objets spéciaux
 
-PokeIsland ajoute une série d'objets qui n'existent pas dans Cobblemon de base. Ils se gagnent en [raid](raid.md), en [Battle Factory](battle-factory.md), dans les coffres, via les [récompenses Pokédex](recompenses-pokedex.md) ou à la [Boutique](boutique.md).
+PokeIsland ajoute une série d'objets qui n'existent pas dans Cobblemon de base. Ils se gagnent au [Boss](evenements/boss.md), en [Battle Factory](battle-factory.md), dans les coffres, via les [récompenses Pokédex](recompenses-pokedex.md) ou à la [Boutique](boutique.md).
 
 {% hint style="success" %}
 **Comment les utiliser :** prends l'objet en main et fais un **clic droit directement sur le Pokémon visé**. Pas de menu à ouvrir.

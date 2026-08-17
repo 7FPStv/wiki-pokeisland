@@ -76,5 +76,5 @@ En combat, on te propose de choisir parmi **4 capacités** ; hors combat, tu pre
 Les attaques proposées sont tirées de la liste de niveau, de la liste CT, de la liste Maître des Capacités et de la liste œuf du Pokémon vaincu.
 
 {% hint style="success" %}
-Tu en trouveras aussi dans les butins de la [Tour de combat](../pokeisland/tour-de-combat.md), de la [Battle Factory](../pokeisland/battle-factory.md) et des [raids](../pokeisland/raid.md).
+Tu en trouveras aussi dans les butins de la [Tour de combat](../pokeisland/tour-de-combat.md), de la [Battle Factory](../pokeisland/battle-factory.md) et du [Boss](../pokeisland/evenements/boss.md).
 {% endhint %}

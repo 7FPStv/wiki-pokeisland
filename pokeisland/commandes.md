@@ -18,7 +18,7 @@ icon: terminal
 | `/dex`                 | Les [récompenses Pokédex](recompenses-pokedex.md)        |
 | `/badges`              | Tes [badges](badges.md) d'arène                          |
 | `/battlepass` `/pass`  | Le [Pass de combat](battle-pass.md) et tes quêtes        |
-| `/rebirth` `/prestige` | Le système de [prestige](rebirth.md)                     |
+| `/rebirth` `/prestige` | Le système de [prestige](dresseur.md#le-rebirth-prestige) |
 | `/pokebuilder`         | L'atelier [PokéBuilder](pokebuilder.md)                  |
 
 ***
@@ -28,7 +28,7 @@ icon: terminal
 | Commande         | Effet                                  |
 | ---------------- | -------------------------------------- |
 | `/duel <pseudo>` | Défier un joueur en [duel](duel.md)    |
-| `/ranked`        | File classée [Ranked 1v1](ranked.md)   |
+| `/ranked`        | File classée [Ranked](ranked.md)   |
 | `/unranked`      | File non classée                       |
 | `/free` `/libre` | File libre, sans restrictions          |
 | `/rank [joueur]` | Rang et ELO                            |
@@ -42,9 +42,9 @@ icon: terminal
 
 | Commande      | Effet                                                                       |
 | ------------- | --------------------------------------------------------------------------- |
-| `/raid`       | Le [raid quotidien](raid.md) de 20h                                         |
-| `/dens`       | Progression des [Raid Dens](raid-dens.md)                                   |
-| `/pinata`     | La [Piñata](pinata.md) en cours                                             |
+| `/raid`       | Le [Boss](evenements/boss.md) de 20h                                         |
+| `/dens`       | Progression des [Cristaux de raid](ressources/cristaux-de-raid.md)           |
+| `/pinata`     | La [Piñata](evenements/pinata.md) en cours                                   |
 | `/chasse`     | La [Chasse](chasse.md) en cours                                             |
 | `/legendaire` | Chances d'apparition des [légendaires](../cobblemon/pokemon/legendaires.md) |
 
@@ -59,8 +59,8 @@ icon: terminal
 | `/gts sell`                                                                      | Mettre en vente sur le GTS                          |
 | `/rewards`                                                                       | Tes [récompenses](economie/rewards.md) à récupérer  |
 | `/boutique`                                                                      | La [Boutique](boutique.md) premium                  |
-| `/recyclage`                                                                     | [Recycler](recyclage-livraison.md) des Pokémon      |
-| <p><code>/livraison</code><br><sup>Plus disponible en cours de refonte</sup></p> | [Livrer](recyclage-livraison.md) le Pokémon demandé |
+| `/recyclage`                                                                     | [Recycler](economie/recyclage.md) des Pokémon      |
+| <p><code>/livraison</code><br><sup>Plus disponible en cours de refonte</sup></p> | [Livrer](economie/livraison.md) le Pokémon demandé |
 | `/kit`                                                                           | Le menu des [kits](kits.md)                         |
 | `/kitall`                                                                        | Récupérer tous les kits disponibles                 |
 
@@ -86,7 +86,7 @@ icon: terminal
 | `/menu`                | Le menu principal du serveur           |
 | `/pv <numéro>`         | Tes coffres personnels                 |
 | `/ec`                  | Ton enderchest                         |
-| `/playerinfo <joueur>` | La [fiche](classements.md) d'un joueur |
+| `/playerinfo <joueur>` | La fiche d'un joueur |
 | `/msg <joueur>`        | Message privé                          |
 | `/r`                   | Répondre au dernier message privé      |
 | `/pc`                  | Ton PC Cobblemon (50 boîtes)           |

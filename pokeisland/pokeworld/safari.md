@@ -24,7 +24,7 @@ Explorer les safaris est un excellent moyen d'obtenir des Pokémon rares ou d'en
 | **Frozen** | Capture | **85** | 64 | 60 min | 6 h |
 
 {% hint style="info" %}
-Les Tickets de Safari se gagnent un peu partout : récompenses de [Dresseur](../dresseur.md), [MiniBoss](../miniboss.md) (25 à 50 % selon la rareté), coffres et [Boutique](../boutique.md).
+Les Tickets de Safari se gagnent un peu partout : récompenses de [Dresseur](../dresseur.md), [MiniBoss](../ressources/miniboss.md) (25 à 50 % selon la rareté), coffres et [Boutique](../boutique.md).
 {% endhint %}
 
 ***

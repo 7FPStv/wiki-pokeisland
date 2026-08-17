@@ -97,7 +97,7 @@ Les captures de légendaires sont **annoncées à tout le serveur**. Prépare-to
 
 Le spawn horaire n'est pas la seule route :
 
-* les [**Œufs Légendaires**](../../pokeisland/objets-speciaux.md), obtenus via les [récompenses Pokédex](../../pokeisland/recompenses-pokedex.md) et les [MiniBoss](../../pokeisland/miniboss.md) ;
-* les [**raids quotidiens**](../../pokeisland/raid.md) de rareté Légendaire, dont les 3 meilleurs joueurs reçoivent une orbe de capture ;
-* les [**MiniBoss Légendaires**](../../pokeisland/miniboss.md), capturables directement après victoire ;
+* les [**Œufs Légendaires**](../../pokeisland/objets-speciaux.md), obtenus via les [récompenses Pokédex](../../pokeisland/recompenses-pokedex.md) et les [MiniBoss](../../pokeisland/ressources/miniboss.md) ;
+* les [**Boss**](../../pokeisland/evenements/boss.md) de rareté Légendaire, dont les 3 meilleurs joueurs reçoivent une orbe de capture ;
+* les [**MiniBoss Légendaires**](../../pokeisland/ressources/miniboss.md), capturables directement après victoire ;
 * le [**Fusionneur**](../../pokeisland/fusionneur.md), qui consomme des légendaires plus qu'il n'en produit — mais qui crée des fusions uniques.

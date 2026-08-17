@@ -1,19 +1,23 @@
 ---
 description: >-
-  Deviens champion d'arène, ou capture une arène et fais-la rapporter. Ici, ce
-  sont les joueurs qui tiennent les gyms.
+  Deviens champion d'arène et défends ton gym, ou pars défier ceux des autres.
+  Ici, ce sont les joueurs qui tiennent les arènes.
 icon: shield-halved
 ---
 
 # Arènes joueurs
 
-À côté des [arènes du PokéWorld](pokeworld/arenes.md) tenues par des PNJ, PokeIsland a deux systèmes d'arènes gérées **par les joueurs eux-mêmes**.
+À côté des [arènes du PokéWorld](pokeworld/arenes.md) tenues par des PNJ, certaines arènes sont gérées **par les joueurs eux-mêmes**.
+
+{% hint style="info" %}
+Tu cherches les arènes à capturer ? Elles ont leur propre page : [**Balise d'arènes**](balise.md).
+{% endhint %}
 
 ***
 
 ## Les arènes de champions
 
-Certaines arènes sont confiées à un **joueur champion**, choisi par le staff. C'est lui qui décide quand son arène est ouverte, et c'est lui que les autres viennent défier. `/arene`
+Ces arènes sont confiées à un **joueur champion**, choisi par le staff. C'est lui qui décide quand son arène est ouverte, et c'est lui que les autres viennent défier. `/arene`
 
 ### Les arènes disponibles
 
@@ -52,42 +56,9 @@ Les arènes de champions sont **synchronisées entre les serveurs** : ton statut
 
 ***
 
-## Les arènes capturables
-
-Le second système est un système de **territoires**. Tu captures une arène, tu la défends, et elle te rapporte tant que tu la tiens.
-
-| Règle | Valeur |
-| ------------------------------- | ------ |
-| Arènes possédées simultanément | **3** maximum |
-| Défenseurs par arène | **6** Pokémon |
-| Arènes qui rapportent en même temps | **3** |
-| Temps limite d'un combat de capture | 15 min |
-
-### Défendre
-
-Quand tu captures une arène, tu y laisses une **équipe de défense** (jusqu'à 6 Pokémon). Les autres joueurs qui veulent te la prendre devront battre cette équipe — et ton **skin** apparaît sur le dresseur défenseur.
-
-### Les revenus
-
-Tant que tu tiens une arène, elle te verse des récompenses à intervalle régulier :
-
-| Intervalle | Gain |
-| ---------- | ------------------------- |
-| 1 minute | 1 diamant + 500 PokéCoins |
-| 6 heures | 2 000 PokéCoins |
-| 12 heures | 5 000 PokéCoins |
-| 24 heures | 12 000 PokéCoins |
-
-{% hint style="warning" %}
-Tu dois être **connecté** pour toucher les revenus de tes arènes. Une arène tenue pendant que tu es hors ligne ne rapporte rien.
-{% endhint %}
-
-***
-
 ## Commandes
 
 | Commande | Effet |
-| ----------- | -------------------------------------------- |
+| --------- | ---------------------------- |
 | `/arene` | Menu des arènes de champions |
-| `/arena` | Menu des arènes capturables |
 | `/badges` | Tes badges obtenus |

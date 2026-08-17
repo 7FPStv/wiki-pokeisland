@@ -36,7 +36,7 @@ Si tu ne veux plus que quelqu’un te défie :
 * Une demande de duel expire au bout de **30 secondes** sans réponse.
 
 {% hint style="info" %}
-Envie de te battre pour du classement plutôt que pour de l'argent ? Le [Ranked 1v1](ranked.md) te donne un ELO, des rangs et une boutique dédiée.
+Envie de te battre pour du classement plutôt que pour de l'argent ? Le [Ranked](ranked.md) te donne un ELO, des rangs et une boutique dédiée.
 {% endhint %}
 
 ## Conditions fréquentes

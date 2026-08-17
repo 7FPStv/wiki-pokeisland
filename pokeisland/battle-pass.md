@@ -59,7 +59,7 @@ Chaque jour, tu reçois :
 | **Capturer 1 légendaire** | 750 |
 
 {% hint style="success" %}
-Beaucoup de ces quêtes se recoupent avec ce que tu fais déjà : [Recyclage & Livraison](recyclage-livraison.md), [Ranked](ranked.md), [MiniBoss](miniboss.md), [Reproduction](../cobblemon/reproduction.md). Une bonne session peut en boucler plusieurs d'un coup.
+Beaucoup de ces quêtes se recoupent avec ce que tu fais déjà : [Recyclage](economie/recyclage.md), [Livraison](economie/livraison.md), [Ranked](ranked.md), [MiniBoss](ressources/miniboss.md), [Reproduction](../cobblemon/reproduction.md). Une bonne session peut en boucler plusieurs d'un coup.
 {% endhint %}
 
 ***

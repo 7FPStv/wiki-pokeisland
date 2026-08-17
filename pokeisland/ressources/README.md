@@ -9,7 +9,7 @@ icon: tree
 
 Le **monde Ressource** est là pour tout ce que tu ne peux pas faire ailleurs : miner, couper du bois, explorer, chercher des Pokémon sauvages en liberté.
 
-C'est aussi le terrain de jeu des [MiniBoss](../miniboss.md) et des [cristaux de raid](../raid-dens.md).
+C'est aussi le terrain de jeu des [MiniBoss](miniboss.md) et des [cristaux de raid](cristaux-de-raid.md).
 
 ***
 
@@ -17,7 +17,7 @@ C'est aussi le terrain de jeu des [MiniBoss](../miniboss.md) et des [cristaux de
 
 | Dimension               | Ce que tu y trouves                                                  |
 | ----------------------- | -------------------------------------------------------------------- |
-| **Overworld**           | Minerais, bois, biomes moddés, Pokémon sauvages, MiniBoss, raid dens |
+| **Overworld**           | Minerais, bois, biomes moddés, Pokémon sauvages, MiniBoss, cristaux de raid |
 | [**Nether**](nether.md) | Un Nether entièrement refait, bien plus dangereux                    |
 | [**End**](end.md)       | Un End travaillé avec de vrais paysages                              |
 

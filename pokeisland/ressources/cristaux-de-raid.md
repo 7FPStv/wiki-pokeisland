@@ -5,7 +5,7 @@ description: >-
 icon: gem
 ---
 
-# Raid Dens
+# Cristaux de raid
 
 Des **cristaux de raid** apparaissent naturellement dans le monde. Un clic dessus ouvre un lobby : tu invites des joueurs, et vous affrontez ensemble un **Pokémon de raid** surpuissant. `/dens`
 
