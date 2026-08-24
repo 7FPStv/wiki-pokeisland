@@ -20,7 +20,7 @@ icon: web-awesome
 
 ## Modération
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Lutze</strong></td><td><sup>Modératrice</sup></td><td><a href="../.gitbook/assets/modérateur.png">modérateur.png</a></td></tr><tr><td><strong>Miyana1348</strong></td><td><sup>Modératrice</sup></td><td><a href="../.gitbook/assets/modérateur.png">modérateur.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Miyana1348</strong></td><td><sup>Modératrice</sup></td><td><a href="../.gitbook/assets/modérateur.png">modérateur.png</a></td></tr></tbody></table>
 
 ***
 
