@@ -27,7 +27,7 @@ Comment rejoindre PokeIsland sur Minecraft ?
 
 ## 2. Choisir ton starter
 
-À ta première connexion, tu arrives sur l'île du **Spawn**. Avant de commencer ton aventure, tu dois choisir ton **Pokémon de départ** parmi les starters officiels de Cobblemon.
+À ta première connexion, tu arrives sur l'île **Tutoriel**. Avant de commencer ton aventure, tu dois choisir ton **Pokémon de départ** parmi les starters officiels de Cobblemon.
 
 {% hint style="success" %}
 Ce choix est **définitif**. Les starters sont rares à trouver dans la nature alors choisis bien !
