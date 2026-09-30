@@ -77,18 +77,23 @@ Les passages de rang à partir de **Master** sont annoncés à tout le serveur.
 Ces règles sont vérifiées **avant** que tu rejoignes la file.
 
 | Règle | Valeur |
-| ------------------------------ | ----------- |
+| ---------------------------- | --------------------------- |
 | Taille d'équipe | 1 à 6 |
 | Niveau max | 100 (ramené à 50 en combat) |
+| **Légendaires** | Illimités |
 | Pokémon **restreints** max | 2 |
 | **Fabuleux** max | 0 |
 | **Fusions** max | 1 |
 | Doublons de Pokémon | Interdits |
 | Doublons d'objets tenus | Interdits |
+| **Méga-évolution** | Autorisée |
 | **Dynamax** | Interdit |
 | **Térastallisation** | Interdite |
+| Attaques et objets bannis | Aucun |
 
-**Espèces bannies** : Mew, Celebi, Jirachi, Deoxys, Phione, Manaphy, Darkrai, Shaymin, Arceus, Victini, Keldeo, Meloetta, Genesect, Diancie, Hoopa, Volcanion, Magearna, Marshadow, Zeraora, Meltan, Melmetal, Zarude, Pecharunt.
+**Espèces bannies** : Mew, Celebi, Jirachi, Deoxys, Phione, Manaphy, Darkrai, Shaymin, Arceus, Victini, Keldeo, Meloetta, Genesect, Diancie, Hoopa, Volcanion, Magearna, Marshadow, Zeraora, Meltan, Melmetal, Zarude, Pêchaminus.
+
+**Fusions** : une seule par équipe, à choisir parmi les **14 fusions** du [Fusionneur](fusionneur.md).
 
 {% hint style="info" %}
 La file **Libre** (`/free`) n'applique **aucune** de ces restrictions. C'est là que tu testes tes fusions et tes équipes farfelues.
