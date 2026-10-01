@@ -70,6 +70,7 @@
   * [Fusion](cobblemon/pokemon/fusion.md)
   * [Pokémon Pâques 2026](cobblemon/pokemon/paques-2026.md)
   * [Pokémon Été 2026](cobblemon/pokemon/ete-2026.md)
+  * [Pokémon Éclipse 2026](cobblemon/pokemon/eclipse-2026.md)
 * [Capacités : CT & DT](cobblemon/capacites-ct-dt.md)
 * [CobbleNav](cobblemon/cobblenav.md)
 * [Dresseurs sauvages](cobblemon/dresseurs-sauvages.md)
