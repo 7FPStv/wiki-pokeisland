@@ -156,6 +156,15 @@ Cela inclut notamment :
 * duplication de Pokémon
 * exploitation de failles du serveur
 
+### Votes
+
+* Un vote par site et par personne.
+* Il est interdit de faire voter une autre personne à sa place.
+* Il est interdit d’utiliser plusieurs appareils pour effectuer plusieurs votes.
+* L’utilisation de bots, scripts ou de tout autre moyen automatisé pour voter est interdite.
+* L’exploitation d’une faille ou d’un bug permettant de multiplier ou de contourner les votes est interdite.
+* Toute tentative de triche ou de contournement du système de vote pourra être sanctionnée.
+
 #### Signalement
 
 Tout bug découvert doit être signalé au staff dès que possible.\
@@ -197,6 +206,28 @@ Les Pokémon obtenus par triche ou par exploitation de bugs sont interdits.
 #### Fair-play
 
 Les joueurs doivent adopter un comportement fair-play dans leurs interactions.
+
+### Échanges et services
+
+* Il est interdit de payer ou de faire payer des `/tpa` pour quelque service, objet ou somme d’argent que ce soit.
+
+### Is Permissions
+
+* Les joueurs sont entièrement responsables de toutes les permissions qui leur sont déjà attribuées ou qui peuvent leur être attribuées.
+* Cette responsabilité concerne également l’utilisation de la commande `/is disband`.
+
+### Boss et légendaires
+
+* Les vols de légendaires et de boss sont interdits et seront sanctionnés.
+* Le chantage, l’arnaque et toute autre forme de tromperie pourront également être pris en compte lors de la sanction.
+* Le boss ou le légendaire qui apparaît sur un joueur lui appartient.
+* Une téléportation acceptée ne constitue en aucun cas une autorisation de prendre le boss ou le légendaire.
+* Il est interdit de prendre le boss d’un autre joueur, même lorsque son timer de protection est terminé.
+* La seule exception valable est que le joueur concerné autorise explicitement à prendre le boss et à conserver le loot. A l'ecrit pour capture d'écran en preuve si litige.
+
+### Casino et tombola
+
+* Toutes les formes de casino et de tombola sont interdites et seront sanctionnées, quelle que soit la manière dont elles sont organisées ou réalisées.
 
 ***
 
