@@ -207,16 +207,16 @@ Les Pokémon obtenus par triche ou par exploitation de bugs sont interdits.
 
 Les joueurs doivent adopter un comportement fair-play dans leurs interactions.
 
-### Échanges et services
+#### Échanges et services
 
 * Il est interdit de payer ou de faire payer des `/tpa` pour quelque service, objet ou somme d’argent que ce soit.
 
-### Is Permissions
+#### Permissions de l'îles
 
 * Les joueurs sont entièrement responsables de toutes les permissions qui leur sont déjà attribuées ou qui peuvent leur être attribuées.
 * Cette responsabilité concerne également l’utilisation de la commande `/is disband`.
 
-### Boss et légendaires
+#### Boss et légendaires
 
 * Les vols de légendaires et de boss sont interdits et seront sanctionnés.
 * Le chantage, l’arnaque et toute autre forme de tromperie pourront également être pris en compte lors de la sanction.
@@ -225,7 +225,7 @@ Les joueurs doivent adopter un comportement fair-play dans leurs interactions.
 * Il est interdit de prendre le boss d’un autre joueur, même lorsque son timer de protection est terminé.
 * La seule exception valable est que le joueur concerné autorise explicitement à prendre le boss et à conserver le loot. A l'ecrit pour capture d'écran en preuve si litige.
 
-### Casino et tombola
+#### Casino et tombola
 
 * Toutes les formes de casino et de tombola sont interdites et seront sanctionnées, quelle que soit la manière dont elles sont organisées ou réalisées.
 
