@@ -16,7 +16,7 @@ Le **Ranked** est le mode compétitif du serveur. Tu rejoins une file d'attente,
 | File | Commande | Classé ? | Restrictions d'équipe |
 | ------------- | ------------ | -------- | --------------------- |
 | **Ranked** | `/ranked` | Oui (ELO) | Oui |
-| **Unranked** | `/unranked` | Non (stats gardées) | Non (sac bloqué) |
+| **Unranked** | `/unranked` | Non (stats gardées) | Oui |
 | **Libre** | `/free` ou `/libre` | Non | **Non** |
 
 Les trois existent aussi en **2v2** (combats Doubles), avec un ELO séparé du 1v1.
@@ -76,9 +76,13 @@ Les passages de rang à partir de **Master** sont annoncés à tout le serveur.
 
 ***
 
-## Les règles (Ranked)
+## Les règles (Ranked et Unranked)
 
-Le Ranked suit les règles de **Smogon**, la référence du Pokémon compétitif (format *National Dex OU*), avec quelques ajustements propres à PokeIsland. Elles s'appliquent au Ranked 1v1 et 2v2.
+Le Ranked suit les règles de **Smogon**, la référence du Pokémon compétitif (format *National Dex OU*), avec quelques ajustements propres à PokeIsland. Elles s'appliquent au **Ranked et à l'Unranked**, en 1v1 comme en 2v2.
+
+{% hint style="info" %}
+**Mise à jour du 3 octobre 2026** : Terapagos, Gromago, Scalpereur, Courrousinge, Melmetal, Munja et Regieleki sont **débannis**. Darkrai, Rugit-Lune et Feu-Perçant sont **bannis**, ainsi que Poing de Colère, Griffes Funestes, Acupression et une nouvelle liste de Méga-évolutions. L'Unranked applique désormais les mêmes règles que le Ranked.
+{% endhint %}
 
 ### En équipe
 
@@ -88,7 +92,7 @@ Le Ranked suit les règles de **Smogon**, la référence du Pokémon compétitif
 | Niveau | ramené à **100** en combat |
 | **Même Pokémon en double** | Interdit (*Species Clause*) |
 | Même objet tenu en double | Autorisé |
-| **Méga-évolution** | Autorisée (sauf les Méga-Gemmes bannies) |
+| **Méga-évolution** | Autorisée (sauf les Méga interdites) |
 | **Capacités Z** | Autorisées |
 | **Fusions** | **Toutes interdites** |
 | Pokémon **Gigamax** | Interdits |
@@ -99,14 +103,13 @@ Le Ranked suit les règles de **Smogon**, la référence du Pokémon compétitif
 * **Pas de Téracristallisation**.
 * **Pas de Dynamax**.
 * **Pas d'objets du sac**.
+* **Clause de combat sans fin** : il est interdit de rendre volontairement un combat impossible à terminer. Le moteur de combat y met fin lui-même.
 
 ### Pokémon interdits
 
 Smogon n'interdit pas les légendaires en bloc : il bannit ceux qui sont trop forts, **forme par forme**.
 
-**Légendaires majeurs** : Mewtwo, Lugia, Ho-Oh, Kyogre, Groudon, Rayquaza, Dialga, Palkia, Giratina, Arceus (toutes formes), Reshiram, Zekrom, Xerneas, Yveltal, Solgaleo, Lunala, Zacian, Éthernatos, Koraidon, Miraidon, Terapagos.
-
-**Toutes les formes** : Genesect, Magearna, Superdofin.
+**Toutes formes confondues** (aucune forme, Méga ou cosmétique, ne passe) : Arceus, Mewtwo, Lugia, Ho-Oh, Kyogre, Groudon, Rayquaza, Dialga, Palkia, Giratina, Darkrai, Reshiram, Zekrom, Genesect, Xerneas, Yveltal, Solgaleo, Lunala, Magearna, Marshadow, Zacian, Éthernatos, Spectreval, Koraidon, Miraidon.
 
 **Formes précises seulement** :
 
@@ -125,20 +128,26 @@ Smogon n'interdit pas les légendaires en bloc : il bannit ceux qui sont trop fo
 | Darumacho de Galar | Darumacho |
 | Ogerpon Masque du Fourneau | les autres masques |
 
-**Autres** : Munja, Cancrelove, Mandrillon, Marshadow, Melmetal, Hydragon, Lanssorien, Regieleki, Spectreval, Farfurex, Cléopsytra, Courrousinge, Scalpereur, Flotte-Mèche, Hotte-de-Fer, Glaivodo, Gromago, Baojian, Yuyu, Serpente-Eau.
+**Autres** (toutes formes) : Cancrelove, Mandrillon, Hydragon, Lanssorien, Farfurex, Cléopsytra, Superdofin, Glaivodo, Baojian, Yuyu, Flotte-Mèche, Hotte-de-Fer, Serpente-Eau, Rugit-Lune, Feu-Perçant.
 
 **PokeIsland** : **Didier** et **toutes les fusions** du [Fusionneur](fusionneur.md).
+
+### Méga-évolutions interdites
+
+La Méga-Gemme de ces Méga est refusée dans l'équipe. Le Pokémon de base, lui, reste autorisé s'il n'est pas banni plus haut.
+
+Méga-Alakazam, Méga-Tortank, Méga-Braségali, Méga-Ectoplasma, Méga-Kangourex, Méga-Lucario, Méga-Lucario Z, Méga-Métalosse, Méga-Drattak, Méga-Raichu Y, Méga-Staross, Méga-Absol Z, Méga-Carchacrok Z, Méga-Momartik, Méga-Heatran, Méga-Darkrai, Méga-Goupelin, Méga-Amphinobi, Méga-Floette, Méga-Zygarde, Méga-Sarmuraï, Méga-Magearna, Méga-Zeraora, Méga-Glaivodo.
 
 ### Objets, attaques et talents interdits
 
 | Type | Interdits |
 | -------- | --------- |
-| **Objets** | Roche Royale, Croc Rasoir, Vive Griffe, Poudre Claire, Encens Doux, Bouclier Rouillé, et les Méga-Gemmes d'Alakazam, Tortank, Braségali, Ectoplasma, Kangourex, Lucario, Métalosse et Drattak |
-| **Attaques** | Abîme, Glaciation, Guillotine, Empal'Korne (K.O. en un coup), Reflet, Lilliput (esquive), Assistance, Relais, Hommage Posthume, Queulonage |
+| **Objets** | Roche Royale, Croc Rasoir, Vive Griffe, Poudre Claire, Encens Doux, Bouclier Rouillé, les Méga-Gemmes des Méga interdites, et tous les objets du sac en combat |
+| **Attaques** | Abîme, Glaciation, Guillotine, Empal'Korne (K.O. en un coup), Reflet, Lilliput (esquive), Assistance, Relais, Hommage Posthume, Queulonage, Poing de Colère, Griffes Funestes, Acupression |
 | **Talents** | Marque Ombre, Piège Sable, Lunatique, Rassemblement, Voile Sable, Rideau Neige |
 
 {% hint style="info" %}
-L'**Unranked** n'applique pas ces règles d'équipe (seul le sac y est bloqué), et la file **Libre** (`/free`) n'applique **rien du tout**. C'est là que tu testes tes fusions et tes équipes farfelues.
+L'**Unranked** applique les **mêmes règles** que le Ranked, sans ELO en jeu. Seule la file **Libre** (`/free`) n'applique **rien du tout**. C'est là que tu testes tes fusions et tes équipes farfelues.
 {% endhint %}
 
 ***
@@ -162,6 +171,7 @@ Entre deux saisons, la file **Ranked est fermée**. Unranked et Libre restent ou
 
 * **Déconnexion en match = défaite**, plus **5 ELO de pénalité supplémentaire**.
 * Un joueur **AFK plus de 2 minutes** est sorti de la file.
+* En Ranked, tu ne peux pas retomber sur **le même adversaire avant 10 minutes**.
 * Maximum **50 matchs classés par jour contre le même joueur**.
 
 ***
