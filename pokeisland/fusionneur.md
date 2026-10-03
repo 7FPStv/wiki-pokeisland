@@ -21,7 +21,7 @@ Le **Fusionneur** te permet de créer des Pokémon fusionnés — des Fakemon ex
 Le Pokémon obtenu arrive **niveau 50**, avec **5 % de chance d'être shiny**.
 
 {% hint style="warning" %}
-Les recettes tournent **chaque semaine**, avec une date limite. Si tu ne vois pas la fusion voulue, elle reviendra dans une rotation ultérieure — mais rien ne dit quand.
+Les recettes tournent **chaque semaine**, avec une date limite : **trois fusions** sont proposées à la fois. Si tu ne vois pas la fusion voulue, elle reviendra dans une rotation ultérieure — mais rien ne dit quand.
 {% endhint %}
 
 ***
@@ -34,24 +34,26 @@ Les recettes tournent **chaque semaine**, avec une date limite. Si tu ne vois pa
 | **Espevoir** | 40 × Gardevoir + 10 × Mentali |
 | **Magipelin** | 30 × Goupelin + 10 × Magirêve |
 | **Cizalabre** | 30 × Cizayox + 15 × Lugulabre |
-| **Lucario-Umbreon** | 30 × Lucario + 10 × Noctali |
-| **Gyarados-Altaria** | 30 × Léviator + 15 × Altaria |
+| **Lucareon** | 30 × Lucario + 10 × Noctali |
+| **Gyaltaria** | 30 × Léviator + 15 × Altaria |
 | **Rexizarre** | 30 × Florizarre + 20 × Rexillius |
 | **Darkzayox** | 30 × Cizayox + **3 × Darkrai** |
 | **Arcvoir** | 30 × Gardevoir + **3 × Arceus** |
-| **Deoxys-Salamence** | 40 × Drattak + **3 × Deoxys** |
+| **Dracoxys** | 40 × Drattak + **3 × Deoxys** |
 | **Raygoleon** | **3 × Rayquaza** + 3 × Pingoléon |
-| **Mewtwo-Hoopa** | **3 × Mewtwo** + **3 × Hoopa** |
+| **Mewpa** | **3 × Mewtwo** + **3 × Hoopa** |
 
 {% hint style="danger" %}
 Les ingrédients en gras sont des **Légendaires ou des Fabuleux**, demandés en plusieurs exemplaires. Ce sont les fusions de fin de jeu : ne t'y attaque qu'avec un stock déjà constitué.
 {% endhint %}
 
+Les statistiques, types et talents de chaque fusion sont sur la page [Fusion](../cobblemon/pokemon/fusion.md). Trois autres fusions — Amphishadow, Drattran et Galefeux — ne passent pas par le Fusionneur : elles s'obtiennent uniquement avec un [Œuf Fusion](objets-speciaux.md).
+
 ***
 
 ## Les fusions en combat
 
-Les Pokémon fusionnés sont autorisés en [Ranked](ranked.md), mais **limités à 1 par équipe**. En file **Libre** (`/free`), aucune limite.
+Les Pokémon fusionnés sont **interdits en [Ranked](ranked.md) et en Unranked**. Tu peux les utiliser librement en file **Libre** (`/free`).
 
 ***
 
