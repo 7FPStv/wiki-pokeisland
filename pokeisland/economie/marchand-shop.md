@@ -23,3 +23,7 @@ Dans le shop, tu as plusieurs catégories :
 | Acheter                                                                                                                                                                                | Vendre                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | <p>Quand tu choisis un item :</p><p></p><ul><li>l’interface te laisse choisir une <strong>quantité</strong></li><li>puis tu valides avec l’action <strong>“Acheter”</strong></li></ul> | <p>Tu peux aussi revendre :</p><p></p><ul><li>ouvre la fiche de l’item</li><li>puis utilise l’action <strong>“Vendre</strong></li></ul> |
+
+{% hint style="info" %}
+Tous les objets ne s'achètent pas **et** ne se vendent pas : les **minerais** se vendent uniquement, les **blocs** et la **redstone** s'achètent uniquement. Dans les Poké Balls, seules la Poké Ball, la Super Ball et l'Hyper Ball se revendent.
+{% endhint %}

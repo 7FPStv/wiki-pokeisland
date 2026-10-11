@@ -13,7 +13,7 @@ L’énergie, c’est la jauge qui t’accompagne à chaque moment “action” 
 * **Énergie max** : 100 par défaut
 * **Recharge automatique :** +1 énergie/minute
 * **Recharge hors-ligne :** oui, tu continues à en gagner même quand tu n’es pas connecté
-* **Bonus avec le niveau** : tu récupères le maximum d’énergie en augmentant ton niveau
+* **Bonus avec le niveau** : ton énergie maximale augmente de 1 par niveau de Dresseur
 
 Quand tu passes au niveau supérieur, ton énergie est restaurée à 100.
 {% endhint %}
@@ -22,7 +22,7 @@ Quand tu passes au niveau supérieur, ton énergie est restaurée à 100.
 
 Chaque Poké Ball consomme un certain montant d’énergie (configurée côté serveur). Voici les valeurs principales :
 
-<table><thead><tr><th width="255">Poké Ball</th><th>Coût énergie</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/poke_ball.png" alt="" data-size="original"></td><td>2</td></tr><tr><td><img src="../.gitbook/assets/great_ball.png" alt="" data-size="original"></td><td>3</td></tr><tr><td><img src="../.gitbook/assets/ultra_ball.png" alt="" data-size="original"></td><td>5</td></tr><tr><td><img src="../.gitbook/assets/safari_ball.png" alt="" data-size="original"></td><td>3</td></tr><tr><td><img src="../.gitbook/assets/heavy_ball.png" alt="" data-size="original"></td><td>4</td></tr><tr><td><img src="../.gitbook/assets/master_ball.png" alt="" data-size="original"></td><td>50</td></tr></tbody></table>
+<table><thead><tr><th width="255">Poké Ball</th><th>Coût énergie</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/poke_ball.png" alt="" data-size="original"></td><td>2</td></tr><tr><td><img src="../.gitbook/assets/great_ball.png" alt="" data-size="original"></td><td>3</td></tr><tr><td><img src="../.gitbook/assets/ultra_ball.png" alt="" data-size="original"></td><td>5</td></tr><tr><td><img src="../.gitbook/assets/safari_ball.png" alt="" data-size="original"></td><td>1</td></tr><tr><td><img src="../.gitbook/assets/heavy_ball.png" alt="" data-size="original"></td><td>4</td></tr><tr><td><img src="../.gitbook/assets/master_ball.png" alt="" data-size="original"></td><td>50</td></tr></tbody></table>
 
 ### Récupérer de l’énergie
 
@@ -36,7 +36,7 @@ Tu peux recharger ton énergie avec des **consommables**.
 
 Les trois formats de recharge tombent régulièrement :
 
-* dans les récompenses de [Dresseur](dresseur.md), dès le niveau 6 et de plus en plus souvent ensuite ;
+* dans les récompenses de [Dresseur](dresseur.md) : dès le niveau 6 sur la colonne premium, à partir du niveau 41 sur la colonne gratuite, et de plus en plus souvent ensuite ;
 * dans les [Rewards](economie/rewards.md) de temps de jeu ;
 * à la [Boutique](boutique.md).
 

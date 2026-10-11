@@ -51,7 +51,7 @@ Ton aventure commence sur l'île principal du Spawn, en plus de l'île du spawn,
 
 <details>
 
-<summary>Fir</summary>
+<summary>Fire</summary>
 
 * Arène
 * Safari EVs
@@ -99,8 +99,8 @@ Ton aventure commence sur l'île principal du Spawn, en plus de l'île du spawn,
 * Safari (Capture)
   * Commun : 60%
   * Peu commun : 30%
-  * Rare : 10%
-  * Ultra rare : 0.01%
+  * Rare : 9,99%
+  * Ultra rare : 0,01%
 
 </details>
 
@@ -109,7 +109,6 @@ Ton aventure commence sur l'île principal du Spawn, en plus de l'île du spawn,
 <summary>Mesa</summary>
 
 * Arène
-* Arène caché
 
 </details>
 

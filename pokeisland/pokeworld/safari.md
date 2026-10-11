@@ -24,7 +24,7 @@ Explorer les safaris est un excellent moyen d'obtenir des Pokémon rares ou d'en
 | **Frozen** | Capture | **85** | 64 | 60 min | 6 h |
 
 {% hint style="info" %}
-Les Tickets de Safari se gagnent un peu partout : récompenses de [Dresseur](../dresseur.md), [MiniBoss](../ressources/miniboss.md) (25 à 50 % selon la rareté), coffres et [Boutique](../boutique.md).
+Les Tickets de Safari se gagnent un peu partout : récompenses de [Dresseur](../dresseur.md), [MiniBoss](../ressources/miniboss.md) (25 à 55 % selon la rareté), coffres et [Boutique](../boutique.md).
 {% endhint %}
 
 ***
@@ -81,7 +81,7 @@ Les Pokémon y apparaissent entre les **niveaux 10 et 30** environ, dans quatre 
 
 <summary>Frozen Safari (Capture)</summary>
 
-**Capture de Pokémon rares et très rares**, accessible aux joueurs niveau 85+
+**Les mêmes Pokémon que le Safari Spawn**, avec deux fois plus de Safari Balls, réservé aux joueurs niveau 85+
 
 * Niveau de Dresseur requis : **85**
 * Combats : Désactivés
@@ -96,12 +96,12 @@ Les Pokémon y apparaissent entre les **niveaux 10 et 30** environ, dans quatre 
 
 ## Les raretés en safari de capture
 
-| Rareté | Chance |
-| ------------- | -----: |
-| Commun | 60 % |
-| Peu commun | 30 % |
-| Rare | 9 % |
-| **Très rare** | 1 % |
+| Rareté | Spawn | Frozen |
+| ------------- | -----: | -----: |
+| Commun | 60 % | 60 % |
+| Peu commun | 30 % | 30 % |
+| Rare | 9 % | 9,99 % |
+| **Très rare** | 1 % | 0,01 % |
 
 ***
 

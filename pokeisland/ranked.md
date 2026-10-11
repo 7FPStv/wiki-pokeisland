@@ -156,7 +156,7 @@ L'**Unranked** applique les **mêmes règles** que le Ranked, sans ELO en jeu. S
 
 Le Ranked fonctionne par **saisons**. À la fin de chaque saison :
 
-1. un instantané du classement est pris et les **récompenses de fin de saison** sont versées,
+1. un instantané du classement est pris et les **récompenses de fin de saison** sont versées (en monnaie ranked) : **30** pour un joueur Master, **50** pour un Champion, et **50 / 30 / 20** pour le top 3,
 2. les ELO sont remis à zéro en **soft reset** : ton nouvel ELO = 100 + (ton ancien ELO − 100) ÷ 2.
 
 Tu gardes donc une partie de ton avance, sans repartir de zéro.
@@ -180,6 +180,11 @@ Entre deux saisons, la file **Ranked est fermée**. Unranked et Libre restent ou
 
 Les combats te rapportent deux monnaies : **ranked** et **unranked**. Elles s'échangent dans une boutique dédiée. `/shop`
 
+| File | Victoire | Défaite |
+| ---- | -------- | ------- |
+| **Ranked** (1v1 et 2v2) | 3 ranked + 25 XP Dresseur | 1 ranked + 10 XP Dresseur (1v1) |
+| **Unranked** et **Libre** | 3 unranked | 1 unranked |
+
 Certains articles sont **verrouillés par rang** et **limités en quantité** :
 
 | Article | Monnaie | Prix | Rang requis | Limite |
@@ -188,8 +193,18 @@ Certains articles sont **verrouillés par rang** et **limités en quantité** :
 | **Pierre Shiny** | ranked | 150 | **Master** | 1 |
 | Super Bonbon | unranked | 8 (ou 5 en ranked) | — | illimité |
 | Pierres d'évolution | unranked | 25 (ou 15 en ranked) | — | illimité |
+| Autres objets d'évolution | unranked | 25 (ou 15 en ranked) | **Argent** ou **Or** selon l'objet | illimité |
+| Cristaux EV (×6) | ranked | 20 | **Or** | 6 chacun |
+| Cristal de Niveau | ranked | 30 | **Platine** | 5 par rang |
+| Cristal IV Parfait | ranked | 50 | **Diamant** | 6 |
+| Méga Gemme aléatoire | ranked | 30 | **Diamant** | illimité |
+| Œuf Shiny aléatoire | ranked | 45 | **Diamant** | 2, +3 en Master, +5 en Champion |
+| Œuf Céleste aléatoire | ranked | 75 | **Master** | 2, +3 en Champion |
+| Plaques (17) et ROM (18) | ranked | 50 | **Master** | 1 chacune |
+| Plaque Légende | ranked | 200 | **Champion** | 1 |
+| Œuf Fusion aléatoire | ranked | 1 000 | **Champion** | 1 |
 
-La boutique contient **toute la gamme des objets d'évolution** Cobblemon.
+La boutique contient **toute la gamme des objets d'évolution** Cobblemon : les pierres sont en accès libre, les autres (Écaille Draco, Protecteur, Bloc de Tourbe, Métal Composite…) demandent le rang Argent ou Or.
 
 {% hint style="success" %}
 Les limites sont **cumulatives** : monter de rang débloque des achats supplémentaires, sans effacer ceux déjà faits.

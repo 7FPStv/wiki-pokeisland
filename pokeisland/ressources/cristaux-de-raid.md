@@ -23,7 +23,7 @@ Sur PokeIsland, ces raids sont découpés en **7 tiers de difficulté**, et tu d
 
 | Tier | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | ------ | -- | --- | --- | --- | --- | -- | -- |
-| Chance | 9 % | 15 % | 25 % | 25 % | 20 % | 5 % | 1 % |
+| Chance | 35 % | 25 % | 20 % | 10 % | 5 % | 3 % | 2 % |
 
 {% hint style="info" %}
 Un raid **raté peut être retenté**. Et les récompenses sont tirées **individuellement** pour chaque joueur : ton voisin peut décrocher un shiny sans que ça t'enlève ta chance.
@@ -39,14 +39,14 @@ Tu démarres au **Tier 1**, accessible dès ta première connexion. Pour monter 
 2. les **quêtes** du palier,
 3. le **paiement de la licence** — toujours la dernière étape.
 
-À partir du **Tier 5**, une **épreuve finale** (ascension) s'ajoute avant le paiement.
+À partir du **Tier 6**, une **épreuve finale** (ascension) s'ajoute avant le paiement.
 
 | Tier à débloquer | Victoires requises | Sur le tier | Épreuve finale | Prix de la licence |
 | ---------------- | ------------------ | ----------- | -------------- | ------------------ |
 | **Tier 2** | 5 | Tier 1 | Non | 20 000 |
 | **Tier 3** | 10 | Tier 2 | Non | 50 000 |
 | **Tier 4** | 15 | Tier 3 | Non | 125 000 |
-| **Tier 5** | 20 | Tier 4 | **Oui** | 300 000 |
+| **Tier 5** | 20 | Tier 4 | Non | 300 000 |
 | **Tier 6** | 25 | Tier 5 | **Oui** | 750 000 |
 | **Tier 7** | 35 | Tier 6 | **Oui** | 1 500 000 |
 

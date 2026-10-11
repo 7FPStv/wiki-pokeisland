@@ -13,7 +13,7 @@ La commande ouvre un menu où tu vois **tous** les kits du serveur : ceux que tu
 
 ## Comment ça marche
 
-* Chaque kit a un **cooldown de 24 heures**.
+* Les kits de rang et de grade ont un **cooldown de 24 heures** ; les kits « 1 mois » se récupèrent une fois tous les **30 jours**.
 * L'accès à un kit dépend de ton **rang** ou de ton **grade**.
 * Les kits verrouillés restent **visibles** dans le menu : tu sais donc toujours ce qui t'attend en montant de rang.
 

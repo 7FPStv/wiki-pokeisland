@@ -31,10 +31,10 @@ Un champion ne se bat pas une seule fois : il propose **plusieurs paliers**, du 
 
 | Ce qui change d'un palier à l'autre | Détail |
 | ----------------------------------- | ------------------------------------------------------------ |
-| **Niveau de son équipe** | +5 niveaux par palier |
-| **Plafond de niveau de ton équipe** | 50 au départ, puis 55, 60, 70, 80, 90, jusqu'à 100 |
+| **Niveau de son équipe** | monte à chaque palier (souvent +10), jusqu'à 90-100 au dernier |
+| **Plafond de niveau de ton équipe** | de 50 (premières arènes) à 85 (Mesa) au premier palier, puis jusqu'à 100 au dernier |
 | **Cooldown avant nouvelle tentative** | de **1 h** sur les premiers paliers à **24 h** sur les derniers |
-| **Niveau de Dresseur minimum** | certaines arènes exigent un niveau de [Dresseur](../dresseur.md) |
+| **Niveau de Dresseur minimum** | toutes les arènes sauf celle du Spawn exigent un niveau de [Dresseur](../dresseur.md) (de 5 à 100) |
 | **Récompenses** | de plus en plus généreuses |
 
 {% hint style="warning" %}
@@ -49,8 +49,9 @@ Ton équipe est **ramenée au plafond de niveau du palier**. Arriver avec six ni
 
 * des **Poké Balls** adaptées au palier (Poké Ball, Super Ball, Hyper Ball…),
 * une chance d'obtenir des **Super Bonbons** et des **Œufs Pokémon**,
-* des **PokéCoins** et des **jetons** ([PokéBuilder](../pokebuilder.md)),
-* de l'**XP Dresseur**,
+* des **PokéCoins** (de 250 à 3 000) et des **jetons** (de 2 à 30) pour le [PokéBuilder](../pokebuilder.md),
+* de l'**XP Dresseur** (de 125 à 1 500),
+* aux paliers élevés, une chance de **DT aléatoire**, d'**Œuf Shiny**, d'**Œuf Céleste** et, au dernier palier, d'**Œuf Légendaire** (1,5 %),
 * et surtout, au premier palier, le **[Badge](../badges.md)** de l'arène.
 
 ***

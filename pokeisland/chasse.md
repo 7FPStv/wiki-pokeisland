@@ -23,15 +23,15 @@ Chaque chasse est associée à une rareté :
 
 Tu reçois des récompenses basées sur la rareté (économie + jetons). Le serveur annonce aussi le début/fin de chasse via des messages dans le chat.
 
-| Rareté | Chance | PokéCoins | Jetons [PokéBuilder](pokebuilder.md) | Bonus |
-| -------------- | -----: | --------: | -----------------------------------: | ---------------- |
-| Commun | 60 % | 100 | 1 | — |
-| Peu commun | 30 % | 500 | 2 | — |
-| Rare | 9 % | 700 | 3 | **1 Clé Événement** |
-| **Ultra rare** | 1 % | 1 000 | 4 | **2 Clés Événement** |
+| Rareté | Chance | PokéCoins | Jetons [PokéBuilder](pokebuilder.md) |
+| -------------- | -----: | --------: | -----------------------------------: |
+| Commun | 60 % | 100 | 1 |
+| Peu commun | 30 % | 500 | 2 |
+| Rare | 9 % | 700 | 3 |
+| **Ultra rare** | 1 % | 1 000 | 4 |
 
 {% hint style="success" %}
-La chasse est la **principale source de jetons PokéBuilder** du serveur. Si tu veux améliorer les IV, la nature ou le talent de tes Pokémon, c'est ici que ça commence — voir [PokéBuilder](pokebuilder.md).
+La chasse est une **source régulière de jetons PokéBuilder**. Si tu veux améliorer les IV, la nature ou le talent de tes Pokémon, c'est ici que ça commence — voir [PokéBuilder](pokebuilder.md).
 {% endhint %}
 
 {% hint style="info" %}

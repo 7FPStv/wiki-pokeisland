@@ -36,11 +36,11 @@ Plus il y a de monde connecté, plus les légendaires sortent souvent.
 | 1 à 5             |              5 % |
 | 6 à 10            |             10 % |
 | 11 à 20           |             20 % |
-| 21 à 40           |             35 % |
-| **41 et plus**    |         **50 %** |
+| 21 à 40           |             25 % |
+| **41 et plus**    |         **30 %** |
 
 {% hint style="warning" %}
-Le serveur est plafonné à **5 apparitions automatiques par jour**, remises à zéro à minuit. Une fois le quota atteint, plus aucun légendaire ne sort naturellement avant le lendemain.
+Le serveur est plafonné à **8 apparitions automatiques par jour**, remises à zéro à minuit. Une fois le quota atteint, plus aucun légendaire ne sort naturellement avant le lendemain.
 {% endhint %}
 
 ***
@@ -53,7 +53,7 @@ Le système ne gère pas que les légendaires classiques. Quatre familles sont r
 | ----------------- | ------------------------------------ | ----------: |
 | **Légendaire**    | Lugia, Entei, Kyogre, Suicune        |         800 |
 | **Ultra-Chimère** | Katagami, Zéroïd, Câblifère          |         900 |
-| **Paradoxe**      | Ondulagon et compagnie               |       1 000 |
+| **Paradoxe**      | Serpente-Eau, Paume-de-Fer, Garde-de-Fer |       1 000 |
 | **Fabuleux**      | Victini, Keldeo, Magearna, Volcanion |       1 200 |
 
 Les Pokémon dits **« restreints »** (Rayquaza, Palkia, Dialga, Zygarde, Eternatus, Miraidon…) existent dans les pools, mais avec un poids très faible : ce sont les apparitions les plus rares du serveur.
@@ -66,12 +66,12 @@ Les Pokémon dits **« restreints »** (Rayquaza, Palkia, Dialga, Zygarde, Etern
 
 | Biome             | Ce qui peut y apparaître                                   |
 | ----------------- | ---------------------------------------------------------- |
-| **Désert**        | Chongjian, Entei, Heatran, Sulfura, Victini, Zygarde       |
-| **Océan**         | Kyogre, Suicune, Volcanion, Palkia, Ondulagon              |
+| **Désert**        | Yuyu, Entei, Heatran, Sulfura, Victini, Zygarde       |
+| **Océan**         | Kyogre, Suicune, Volcanion, Palkia, Serpente-Eau           |
 | **Océan profond** | Suicune, Blizzeval, Regice, Tokopisco, Keldeo              |
-| **Forêt**         | Tokorico, Tokopiyon, Magearna, Katagami, Zéroïd, Eternatus |
-| **Plaines**       | Lugia, Latios, Raikou, Type:0, Boréas, Câblifère           |
-| **Taïga**         | Wushours, Latias, Dialga, Miraidon                         |
+| **Forêt**         | Tokorico, Tokopiyon, Magearna, Mouscoto, Zéroïd, Vémini, Éthernatos |
+| **Plaines**       | Lugia, Latios, Raikou, Silvallié, Boréas, Câblifère        |
+| **Taïga**         | Wushours, Latias, Dialga, Miraidon, Zekrom, Paume-de-Fer, Garde-de-Fer |
 
 {% hint style="success" %}
 Ça veut dire une chose simple : **le biome où tu joues détermine les légendaires que tu peux croiser**. Si tu cherches un légendaire précis, va t'installer dans son biome. Un biome sans pool dédié est automatiquement rattaché au pool thématique le plus proche.

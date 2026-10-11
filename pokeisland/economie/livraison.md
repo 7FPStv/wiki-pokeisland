@@ -35,6 +35,10 @@ Rater une rotation **remet ta chaîne à zéro**. Si tu veux le bonus maximum, i
 | 5 | 2 500 + 100 XP Dresseur |
 | 10 | 5 000 + 100 XP Dresseur |
 | 15 | 7 500 + 100 XP Dresseur |
+| 20 | 10 000 + 100 XP Dresseur |
+| 25 | 12 500 + 100 XP Dresseur |
+| 30 | 15 000 + 100 XP Dresseur |
+| 35 | 20 000 + 100 XP Dresseur |
 
 {% hint style="info" %}
 Un **shiny est accepté** pour livrer un Pokémon normal demandé. Ce n'est pas forcément une bonne affaire — mais c'est possible.

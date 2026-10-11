@@ -4,7 +4,7 @@ icon: boxing-glove
 
 # Duel
 
-Le **Duel** te permet de défier un autre joueur et de te mesurer à lui en Pokémon. Oui, il y a une mise : si tu gagnes, tu repars avec de quoi remplir ton sac et ton portefeuille. <kbd>/duel pseudo \[mise]</kbd>
+Le **Duel** te permet de défier un autre joueur et de te mesurer à lui en Pokémon. Oui, il peut y avoir une mise : si tu gagnes, tu remportes la mise en PokéCoins. <kbd>/duel pseudo \[mise]</kbd>
 
 {% hint style="info" %}
 Exemples :
@@ -17,7 +17,7 @@ Exemples :
 
 Quand quelqu’un te défie, tu peux répondre avec :
 
-* `/duel accept` (tu relances le duel)
+* `/duel accept` (tu acceptes le défi)
 * `/duel deny` (tu refuses)
 
 ## Mettre un blocage (éviter les défis)
@@ -32,7 +32,7 @@ Si tu ne veux plus que quelqu’un te défie :
 À surveiller :
 
 * Le duel doit se faire à une **distance maximale de 20 blocs** (sinon la demande est refusée).
-* Il y a une **mise maximale** : `1 000` PokéCoins.
+* Il y a une **mise maximale** : `30 000` PokéCoins.
 * Une demande de duel expire au bout de **30 secondes** sans réponse.
 
 {% hint style="info" %}

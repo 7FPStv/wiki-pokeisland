@@ -86,7 +86,6 @@ icon: terminal
 | `/menu`                | Le menu principal du serveur           |
 | `/pv <numéro>`         | Tes coffres personnels                 |
 | `/ec`                  | Ton enderchest                         |
-| `/playerinfo <joueur>` | La fiche d'un joueur |
 | `/msg <joueur>`        | Message privé                          |
 | `/r`                   | Répondre au dernier message privé      |
 | `/pc`                  | Ton PC Cobblemon (50 boîtes)           |

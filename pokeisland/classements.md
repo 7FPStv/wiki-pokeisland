@@ -1,13 +1,12 @@
 ---
 description: >-
-  Qui domine le serveur ? Les classements affichés en hologrammes au spawn et en
-  commande.
+  Qui domine le serveur ? Les classements du réseau, consultables en commande.
 icon: trophy
 ---
 
 # Classements
 
-PokeIsland tient plusieurs classements, affichés à la fois **en hologrammes au spawn** et **en commande**. Ils sont recalculés **toutes les minutes**.
+PokeIsland tient plusieurs classements, consultables **en commande**.
 
 | Classement | Ce qu'il mesure |
 | ------------------------- | -------------------------------------- |

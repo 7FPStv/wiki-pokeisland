@@ -45,7 +45,7 @@ Les Cristaux EV respectent le plafond total de **510 EV**. Tu ne peux donc pas e
 {% hint style="danger" %}
 La **Pierre Shiny** ne fonctionne **pas** sur les Légendaires, les Fabuleux, les Ultra-Chimères, les Paradoxes ni les Pokémon restreints.
 
-La **Shiny Master Ball**, elle, fonctionne sur tout — y compris les Légendaires. C'est l'un des objets les plus rares du serveur.
+La **Shiny Master Ball**, elle, fonctionne sur tous les Pokémon, Légendaires compris, **sauf dans les Cristaux de raid**. C'est l'un des objets les plus rares du serveur.
 {% endhint %}
 
 ***
@@ -67,11 +67,13 @@ La **Shiny Master Ball**, elle, fonctionne sur tout — y compris les Légendair
 
 | Œuf | Ce qu'il donne |
 | ---------------- | --------------------------------- |
-| **Œuf Pokémon** | Un Pokémon aléatoire |
-| **Œuf Céleste** | Un Pokémon de meilleure qualité |
-| **Œuf Shiny** | Un Pokémon shiny |
+| **Œuf Pokémon** | Un Pokémon aléatoire (hors Légendaires) |
+| **Œuf Céleste** | Un Pokémon aléatoire, Légendaires compris, avec **5 % de chance d'être shiny** |
+| **Œuf Shiny** | Un Pokémon aléatoire hors Légendaires, toujours **shiny** |
 | **Œuf Légendaire** | Un Pokémon légendaire |
+| **Œuf Légendaire Shiny** | Un Pokémon légendaire **shiny** |
 | **Œuf Fusion** | Un Pokémon fusionné |
+| **Œuf Fusion Shiny** | Un Pokémon fusionné **shiny** |
 
 ***
 
@@ -100,7 +102,7 @@ Ces deux outils **respectent les protections** : ils ne casseront rien sur une �
 | **Clé Champion** | Coffre Champion |
 | **Clé Événement** | Coffre Événement |
 
-Les clés Vote s'obtiennent en [votant](../tutoriel/vote-and-gagne.md), les clés Événement lors des [chasses](chasse.md) rares, les autres via la [Boutique](boutique.md) et les récompenses de progression.
+Les clés Vote s'obtiennent en [votant](../tutoriel/vote-and-gagne.md), les clés Événement grâce aux « Items aléatoires » (Pass de combat, dresseurs d'arène), les autres via la [Boutique](boutique.md) et les récompenses de progression.
 
 ***
 

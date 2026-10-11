@@ -59,7 +59,7 @@ Ce que tu peux décrocher, du plus commun au plus rare :
 
 * **Commun** — sucreries (Fraise, Cœur, Baie, Trèfle, Fleur, Étoile, Ruban en Sucre), herbes (Mental, Pouvoir, Blanche), pommes, objets d'évolution (Peau Métal, Améliorator, CD Douteux, Griffe/Croc Rasoir, Roche Royale, Dent/Écaille Océan…)
 * **Peu commun** — objets tenus compétitifs : Bandeau/Mouchoir/Lunettes Choix, Veste de Combat, Orbe Vie, Carton Rouge, Sac Fuite, Assurance Échec, Vulné Assurance, Lumargile, Spray Gorge…
-* **Rare** — Cristaux EV (PV, Attaque, Défense, Att. Spé, Déf. Spé, Vitesse) et Œuf Pokémon
+* **Rare** — Cristaux EV (PV, Attaque, Défense, Att. Spé, Déf. Spé, Vitesse) ; l'**Œuf Pokémon** tombe à peu près aussi souvent qu'un objet commun
 * **Très rare** — Énergie Booster, **Œuf Shiny**, Pierre Scintillante Claire / Sombre
 
 **Paliers de manche** (en PokéCoins) :
@@ -68,7 +68,7 @@ Ce que tu peux décrocher, du plus commun au plus rare :
 | ------------------ | ---------- |
 | 3 (fin de manche 1) | 5 000 |
 | 6 (fin de manche 2) | 15 000 |
-| 9 (fin de manche 3) | 40 000 |
+| 9 (fin de manche 3) | 40 000 + 1 Monnaie Éclipse |
 
 Tu gagnes aussi de l'**XP Dresseur** : 20 par victoire, +100 par palier.
 
@@ -94,7 +94,7 @@ Une série doit se jouer sans aide extérieure. Pendant toute la durée de ta ru
 * impossible d'utiliser un objet, d'en jeter ou d'en ramasser ;
 * impossible d'ouvrir un coffre ou un PC ;
 * impossible de casser/poser des blocs, de monter sur une monture, de te téléporter ;
-* les commandes sont bloquées, sauf : `/bf`, `/battlefactory`, `/quit`, `/abandon`, `/msg`, `/r`.
+* les commandes sont bloquées, sauf : `/bf`, `/battlefactory`, `/endbattle`, `/quit`, `/abandon`, `/msg`, `/r`.
 
 Tu es **invulnérable** et tu ne perds pas de faim : un creeper ne doit pas décider de l'issue d'un combat.
 

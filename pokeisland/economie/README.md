@@ -34,7 +34,7 @@ Un marchand temporaire que tu invoques sur ton île pour vendre des ressources.
 
 ### Rewards
 
-Des récompenses automatiques de temps de jeu via `/rewards`.
+Des récompenses de temps de jeu, à réclamer via `/rewards`.
 
 {% content-ref url="rewards.md" %}
 [rewards.md](rewards.md)
