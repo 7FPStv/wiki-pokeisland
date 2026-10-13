@@ -7,7 +7,6 @@
 
 * [Jouer à PokeIsland](informations/telechargement/README.md)
 * [Règlement officiel](informations/reglement-officiel.md)
-* [Notre équipe](informations/notre-equipe.md)
 * [Liens utiles](informations/liens-utiles.md)
 * [Contribuer](informations/contribuer.md)
 * [FAQ](informations/faq.md)

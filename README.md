@@ -8,6 +8,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: false
   description:
@@ -21,6 +22,10 @@ layout:
   metadata:
     visible: false
   tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
     visible: true
 ---
 
@@ -43,14 +48,10 @@ PokeIsland est un serveur francophone sur **Minecraft Java Edition**, basé sur 
 {% columns %}
 {% column valign="middle" %}
 <div data-with-frame="true"><figure><img src=".gitbook/assets/PokeWorld_watermark.png" alt=""><figcaption></figcaption></figure></div>
-
-
 {% endcolumn %}
 
 {% column %}
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Dresseur</strong></td><td><sup>Niveaux, récompenses et déblocages</sup></td><td><a href="pokeisland/dresseur.md">dresseur.md</a></td></tr><tr><td><strong>Rangs</strong></td><td><sup>Débloque de nouvelles compétences</sup></td><td><a href="pokeisland/rangs.md">rangs.md</a></td></tr><tr><td><strong>PokéWorld</strong></td><td><sup>Les îles, arènes, safaris et bien d'autre encore</sup></td><td><a href="pokeisland/pokeworld/">pokeworld</a></td></tr><tr><td><strong>Ressources</strong></td><td><sup>Récolter et explore les ressources du monde</sup></td><td><a href="pokeisland/ressources/">ressources</a></td></tr><tr><td><strong>Île joueurs</strong></td><td><sup>Ta propre île pour ton aventure Pokémon</sup></td><td><a href="pokeisland/ile-joueurs.md">ile-joueurs.md</a></td></tr><tr><td><strong>Économie</strong></td><td><sup>GTS, marchands, enchères et shop</sup></td><td><a href="pokeisland/economie/">economie</a></td></tr><tr><td><strong>Arènes</strong></td><td><sup>Champions, paliers et badges</sup></td><td><a href="pokeisland/pokeworld/arenes.md">arenes.md</a></td></tr><tr><td>Safaris</td><td><sup>Zone de capture ou d'entrainement</sup></td><td><a href="pokeisland/pokeworld/safari.md">safari.md</a></td></tr></tbody></table>
-
-
 {% endcolumn %}
 {% endcolumns %}
 
@@ -60,4 +61,4 @@ PokeIsland est un serveur francophone sur **Minecraft Java Edition**, basé sur 
 
 <sup><mark style="color:$info;">Tout ce qui concerne le serveur, l'équipe et la communauté.<mark style="color:$info;"></sup>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Règlement</strong></td><td><sup>Les règles à respecter sur le serveur</sup></td><td><a href="informations/reglement-officiel.md">reglement-officiel.md</a></td></tr><tr><td><strong>Notre équipe</strong></td><td><sup>Les membres qui font vivre le projet avec la communauté</sup></td><td><a href="informations/notre-equipe.md">notre-equipe.md</a></td></tr><tr><td><strong>Liens utiles</strong></td><td><sup>Discord, boutique, réseaux et plus</sup></td><td><a href="informations/liens-utiles.md">liens-utiles.md</a></td></tr><tr><td><strong>FAQ</strong></td><td><sup>Les questions les plus fréquentes</sup></td><td><a href="informations/faq.md">faq.md</a></td></tr><tr><td><strong>Vote &#x26; gagne</strong></td><td><sup>Soutiens le serveur et récolte des récompenses</sup></td><td><a href="tutoriel/vote-and-gagne.md">vote-and-gagne.md</a></td></tr><tr><td><strong>Contribuer</strong></td><td><sup>Participe à l'amélioration du wiki</sup></td><td><a href="informations/contribuer.md">contribuer.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Règlement</strong></td><td><sup>Les règles à respecter sur le serveur</sup></td><td><a href="informations/reglement-officiel.md">reglement-officiel.md</a></td></tr><tr><td><strong>Notre équipe</strong></td><td><sup>Les membres qui font vivre le projet avec la communauté</sup></td><td><a href="/broken/pages/uK3gAjueR1a81DkIp7sT">Broken link</a></td></tr><tr><td><strong>Liens utiles</strong></td><td><sup>Discord, boutique, réseaux et plus</sup></td><td><a href="informations/liens-utiles.md">liens-utiles.md</a></td></tr><tr><td><strong>FAQ</strong></td><td><sup>Les questions les plus fréquentes</sup></td><td><a href="informations/faq.md">faq.md</a></td></tr><tr><td><strong>Vote &#x26; gagne</strong></td><td><sup>Soutiens le serveur et récolte des récompenses</sup></td><td><a href="tutoriel/vote-and-gagne.md">vote-and-gagne.md</a></td></tr><tr><td><strong>Contribuer</strong></td><td><sup>Participe à l'amélioration du wiki</sup></td><td><a href="informations/contribuer.md">contribuer.md</a></td></tr></tbody></table>
