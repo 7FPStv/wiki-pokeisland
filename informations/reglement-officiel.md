@@ -17,7 +17,7 @@ Pour que PokeIsland reste un endroit agréable et équitable pour tout le monde,
 * Le règlement peut être modifié ou complété à tout moment. Les changements importants sont annoncés.
 {% endhint %}
 
-<p align="right"><em><mark style="color:$info;">Mis à jour le : 14/10/2026</mark></em></p>
+<p align="right"><em><mark style="color:$info;">Mis à jour le : 15/10/2026</mark></em></p>
 
 ***
 
@@ -61,6 +61,7 @@ Pour que PokeIsland reste un endroit agréable et équitable pour tout le monde,
 * **Triche :** toute forme de triche est strictement interdite : hacks, X-ray, autoclick, macros abusives, scripts automatisés (auto-capture, bots) et tout logiciel qui donne un avantage injuste.
 * **AFK :** les fermes AFK et toute technique pour contourner la détection d'AFK sont interdites.
 * **Mods autorisés :** les mods purement **visuels** ou **cosmétiques** peuvent être autorisés, tant qu'ils ne donnent aucun avantage en jeu.
+* **Vente de mods :** il est interdit de vendre un mod aux autres joueurs, que ce soit contre de l'argent réel ou contre des PokéCoins, des objets ou des Pokémon. Un mod reste soit **privé**, soit **partagé gratuitement avec tous les joueurs**, pour que tout le monde en profite.
 * **Vérifications :** le staff peut procéder à des vérifications anti-triche. **Refuser une vérification peut être sanctionné.**
 * **Gains supprimés :** tout ce qui a été obtenu en trichant peut être retiré, inventaire compris.
 
