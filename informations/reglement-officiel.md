@@ -1,315 +1,135 @@
 ---
+description: >-
+  Les règles à respecter sur PokeIsland : respect, fair-play et bonne ambiance
+  avant tout.
 icon: scale-balanced
 ---
 
 # Règlement officiel
 
-Ce règlement a pour objectif d'assurer une expérience de jeu agréable et équitable pour tous les joueurs. En rejoignant le serveur, vous acceptez automatiquement l'ensemble des règles décrites ci-dessous. Le non-respect de ces règles peut entraîner des sanctions.
-
-***
-
-{% hint style="danger" icon="scale-balanced" %}
-**Acceptation du règlement**\
-En rejoignant le serveur, chaque joueur accepte de respecter l'intégralité du règlement.\
-L’ignorance du règlement ne constitue pas une excuse.
-{% endhint %}
-
-{% hint style="danger" icon="check" %}
-**Respect des décisions**\
-Les décisions prises par les membres du staff doivent être respectées.\
-Toute contestation doit être effectuée calmement via les moyens prévus (tickets support).
-{% endhint %}
-
-{% hint style="danger" icon="web-awesome" %}
-**Pouvoir du staff**\
-Le staff se réserve le droit d'appliquer une sanction pour tout comportement jugé nuisible au serveur, même si celui-ci n'est pas explicitement mentionné dans ce règlement.
-{% endhint %}
+Pour que PokeIsland reste un endroit agréable et équitable pour tout le monde, quelques règles sont à respecter : le respect des autres, le fair-play et la bonne ambiance passent avant tout.
 
 {% hint style="danger" %}
-**Modification du règlement**\
-Le staff se réserve le droit de modifier ou compléter ce règlement à tout moment afin de garantir le bon fonctionnement du serveur. Les joueurs seront informés des modifications importantes.
+**En rejoignant le serveur, tu acceptes l'intégralité de ce règlement.** Ne pas le connaître n'est pas une excuse.
+
+* Les décisions du staff doivent être respectées. Pour en contester une, ouvre calmement un **ticket** sur le Discord.
+* Le staff peut sanctionner tout comportement nuisible au serveur, **même s'il n'est pas écrit ici**.
+* Le règlement peut être modifié ou complété à tout moment. Les changements importants sont annoncés.
 {% endhint %}
 
 <p align="right"><em><mark style="color:$info;">Mis à jour le : 15/03/2026</mark></em></p>
 
 ***
 
-## Règles générales
+## Respect et comportement
 
-### <mark style="color:red;">Comportement</mark>
-
-#### Respect
-
-Chaque joueur doit adopter un comportement respectueux envers :
-
-* les autres joueurs, la communauté du serveur, les membres du staff
-
-#### Comportements interdits
-
-Les comportements suivants sont strictement interdits :
-
-* insultes ou provocations
-* harcèlement
-* menaces
-* discrimination (racisme, homophobie, sexisme, etc.)
-* humiliation ou moqueries répétées
-* diffusion d’informations privées
-
-#### Comportement toxique
-
-Tout comportement jugé toxique ou perturbant pour la communauté peut être sanctionné.
+* **Respect :** sois respectueux envers les autres joueurs, la communauté et les membres du staff.
+* **Insultes et provocations :** interdites.
+* **Harcèlement et menaces :** interdits.
+* **Discrimination :** racisme, homophobie, sexisme et toute autre forme de discrimination sont interdits.
+* **Moqueries :** humilier ou se moquer de façon répétée d'un joueur est interdit.
+* **Informations privées :** il est interdit de diffuser les informations privées de quelqu'un.
+* **Comportement toxique :** tout comportement jugé toxique ou perturbant pour la communauté peut être sanctionné.
 
 ***
 
-### <mark style="color:red;">Chat et communication</mark>
+## Chat et communication
 
-### Utilisation du chat
-
-Le chat doit rester lisible et respectueux. Les joueurs doivent éviter de perturber les conversations.
-
-#### Interdictions
-
-Il est interdit de :
-
-* spam ou flood
-* abuser des majuscules
-* envoyer des messages volontairement illisibles
-* provoquer volontairement des conflits
-* envoyer des messages nuisibles à la communauté
-
-#### Pub
-
-La publicité est interdite, notamment pour :
-
-* d'autres serveurs Minecraft
-* des communautés externes
-* des services non liés au serveur
-
-Cela inclut également les messages privés.
+* **Chat lisible :** le chat doit rester lisible et respectueux. Ne perturbe pas les conversations des autres.
+* **Spam et flood :** interdits.
+* **Majuscules :** pas d'abus de majuscules.
+* **Messages illisibles :** interdit d'envoyer des messages volontairement illisibles.
+* **Conflits :** interdit de provoquer volontairement des conflits ou d'envoyer des messages nuisibles à la communauté.
+* **Publicité :** interdite pour d'autres serveurs Minecraft, des communautés externes ou des services sans lien avec PokeIsland, **messages privés compris**.
 
 ***
 
-### <mark style="color:red;">Pseudos et skins</mark>
+## Pseudos et skins
 
-#### Contenu autorisé
-
-Les pseudos et skins doivent rester appropriés et respectueux.
-
-#### Contenu interdit
-
-Les pseudos ou skins contenant les éléments suivants sont interdits :
-
-* contenu offensant
-* propos haineux
-* contenu sexuel
-* références extrémistes
-
-#### Usurpation d'identité
-
-Il est interdit d'imiter ou d'usurper l'identité :
-
-* d’un membre du staff
-* d’un autre joueur
+* **Contenu approprié :** ton pseudo et ton skin doivent rester appropriés et respectueux.
+* **Contenu interdit :** pas de contenu offensant, de propos haineux, de contenu sexuel ni de références extrémistes.
+* **Usurpation d'identité :** interdit de se faire passer pour un membre du staff ou pour un autre joueur.
 
 ***
 
-### <mark style="color:red;">Triche et modifications du jeu</mark>
+## Triche et mods
 
-#### Triche
-
-Toute forme de triche est strictement interdite.
-
-Cela inclut notamment :
-
-* hacks
-* X-ray
-* autoclick
-* macros abusives
-* scripts automatisés
-* logiciels donnant un avantage injuste
-
-#### Mods autorisés
-
-Les mods purement :
-
-* visuels
-* cosmétiques
-
-peuvent être autorisés tant qu’ils ne donnent aucun avantage en jeu.
-
-#### Vérifications
-
-Le staff se réserve le droit d'effectuer des vérifications afin de détecter toute triche.\
-Refuser une vérification peut entraîner une sanction.
+* **Triche :** toute forme de triche est strictement interdite : hacks, X-ray, autoclick, macros abusives, scripts automatisés et tout logiciel qui donne un avantage injuste.
+* **Mods autorisés :** les mods purement **visuels** ou **cosmétiques** peuvent être autorisés, tant qu'ils ne donnent aucun avantage en jeu.
+* **Vérifications :** le staff peut procéder à des vérifications anti-triche. **Refuser une vérification peut être sanctionné.**
 
 ***
 
-### <mark style="color:red;">Bugs et exploit</mark>
+## Bugs et exploits
 
-#### Exploitation de bugs
-
-L'exploitation de bugs est strictement interdite.
-
-Cela inclut notamment :
-
-* duplication d'objets
-* duplication de Pokémon
-* exploitation de failles du serveur
-
-### Votes
-
-* Un vote par site et par personne.
-* Il est interdit de faire voter une autre personne à sa place.
-* Il est interdit d’utiliser plusieurs appareils pour effectuer plusieurs votes.
-* L’utilisation de bots, scripts ou de tout autre moyen automatisé pour voter est interdite.
-* L’exploitation d’une faille ou d’un bug permettant de multiplier ou de contourner les votes est interdite.
-* Toute tentative de triche ou de contournement du système de vote pourra être sanctionnée.
-
-#### Signalement
-
-Tout bug découvert doit être signalé au staff dès que possible.\
-Ne pas signaler un bug volontairement peut entraîner une sanction.
+* **Exploitation de bugs :** strictement interdite, notamment la duplication d'objets ou de Pokémon et l'exploitation de failles du serveur.
+* **Bugs Pokémon :** utiliser un bug lié aux Pokémon est interdit.
+* **Signalement :** tout bug découvert doit être signalé au staff dès que possible. **Ne pas signaler un bug volontairement peut être sanctionné.**
 
 ***
 
-### <mark style="color:red;">Constructions et bases</mark>
+## Votes
 
-#### Respect des constructions
-
-Les constructions des autres joueurs doivent être respectées.
-
-#### Interdictions
-
-Il est interdit de :
-
-* grief une construction
-* voler dans les coffres
-* modifier une base sans autorisation
-* construire des structures offensantes / discriminantes
-
-#### Lag serveur
-
-Les constructions ou machines causant des problèmes de performance peuvent être supprimées par le staff.
+* **Un vote par site et par personne.**
+* **Vote pour autrui :** interdit de faire voter une autre personne à ta place.
+* **Plusieurs appareils :** interdit d'utiliser plusieurs appareils pour voter plusieurs fois.
+* **Automatisation :** bots, scripts et tout autre moyen automatisé sont interdits.
+* **Failles :** exploiter une faille ou un bug pour multiplier ou contourner les votes est interdit.
+* Toute tentative de triche ou de contournement du système de vote peut être sanctionnée.
 
 ***
 
-### <mark style="color:red;">Pokémon et gameplay</mark>
+## Îles et constructions
 
-#### Exploits Pokémon
-
-L’utilisation de bugs liés aux Pokémon est interdite.
-
-#### Pokémon illégitimes
-
-Les Pokémon obtenus par triche ou par exploitation de bugs sont interdits.
-
-#### Fair-play
-
-Les joueurs doivent adopter un comportement fair-play dans leurs interactions.
-
-#### Échanges et services
-
-* Il est interdit de payer ou de faire payer des `/tpa` pour quelque service, objet ou somme d’argent que ce soit.
-
-#### Permissions de l'îles
-
-* Les joueurs sont entièrement responsables de toutes les permissions qui leur sont déjà attribuées ou qui peuvent leur être attribuées.
-* Cette responsabilité concerne également l’utilisation de la commande `/is disband`.
-
-#### Boss et légendaires
-
-* Les vols de légendaires et de boss sont interdits et seront sanctionnés.
-* Le chantage, l’arnaque et toute autre forme de tromperie pourront également être pris en compte lors de la sanction.
-* Le boss ou le légendaire qui apparaît sur un joueur lui appartient.
-* Une téléportation acceptée ne constitue en aucun cas une autorisation de prendre le boss ou le légendaire.
-* Il est interdit de prendre le boss d’un autre joueur, même lorsque son timer de protection est terminé.
-* La seule exception valable est que le joueur concerné autorise explicitement à prendre le boss et à conserver le loot. A l'ecrit pour capture d'écran en preuve si litige.
-
-#### Casino et tombola
-
-* Toutes les formes de casino et de tombola sont interdites et seront sanctionnées, quelle que soit la manière dont elles sont organisées ou réalisées.
+* **Respect des constructions :** les constructions des autres joueurs doivent être respectées.
+* **Grief et vol :** interdit de grief une construction, de voler dans les coffres ou de modifier une base sans autorisation.
+* **Constructions offensantes :** interdit de construire des structures offensantes ou discriminantes.
+* **Lag :** les constructions ou machines qui nuisent aux performances du serveur peuvent être supprimées par le staff.
+* **Permissions d'île :** tu es entièrement responsable des permissions que tu donnes sur ton île, y compris de l'utilisation de `/is disband`.
 
 ***
 
-### <mark style="color:red;">Économie et échanges</mark>
+## Boss et légendaires
 
-#### Commerce
-
-Les échanges entre joueurs doivent être honnêtes.
-
-#### Arnaques
-
-Les arnaques sont interdites.
-
-#### Commerce externe
-
-Il est interdit de :
-
-* vendre des objets ou Pokémon contre de l’argent réel
-* effectuer des échanges inter-serveurs
-
-#### Responsabilité
-
-Les joueurs restent responsables des échanges qu'ils effectuent.
+* **À qui il appartient :** le boss ou le légendaire qui apparaît sur un joueur **lui appartient**.
+* **Vol :** voler un boss ou un légendaire est interdit et sanctionné, **même quand son timer de protection est terminé**.
+* **Téléportation :** une téléportation acceptée ne donne **pas** le droit de prendre le boss ou le légendaire.
+* **Seule exception :** le joueur concerné t'autorise explicitement à prendre le boss **et** à garder le loot. Demande-le **par écrit**, pour qu'une capture d'écran serve de preuve en cas de litige.
+* **Circonstances aggravantes :** le chantage, l'arnaque et toute autre forme de tromperie alourdissent la sanction.
 
 ***
 
-### <mark style="color:red;">Comptes et sécurité</mark>
+## Gameplay et fair-play
 
-#### Responsabilité du compte
-
-Chaque joueur est responsable de son compte.\
-Toute action effectuée sur celui-ci lui est attribuée.
-
-#### Multi-comptes
-
-L'utilisation de plusieurs comptes est interdite.\
-L'utilisation d'un compte qui n'est pas le sien est aussi interdit.
-
-#### Contournement de sanction
-
-Contourner une sanction à l'aide d'un autre compte est strictement interdit.
+* **Fair-play :** adopte un comportement fair-play dans tes interactions avec les autres joueurs.
+* **Pokémon illégitimes :** les Pokémon obtenus par triche ou grâce à un bug sont interdits.
+* **Casino et tombola :** toutes les formes de casino et de tombola sont interdites et sanctionnées, quelle que soit leur organisation.
 
 ***
 
-### <mark style="color:red;">Staff et sanctions</mark>
+## Économie et échanges
 
-#### Rôle du staff
-
-Le staff est chargé d'assurer le bon fonctionnement du serveur et l'application du règlement.
-
-#### Sanctions possibles
-
-Les sanctions peuvent inclure :
-
-* avertissement
-* mute
-* kick
-* bannissement temporaire
-* bannissement permanent
-
-#### Application des sanctions
-
-Les sanctions sont appliquées selon :
-
-* la gravité de l'infraction
-* la répétition des faits
-* l’impact sur la communauté
+* **Échanges honnêtes :** les échanges entre joueurs doivent être honnêtes. Les arnaques sont interdites.
+* **Argent réel :** interdit de vendre des objets ou des Pokémon contre de l'argent réel.
+* **Inter-serveurs :** les échanges avec d'autres serveurs sont interdits.
+* **`/tpa` payants :** interdit de payer ou de faire payer un `/tpa`, que ce soit contre un service, un objet ou de l'argent.
+* **Responsabilité :** tu restes responsable des échanges que tu fais.
 
 ***
 
-### <mark style="color:red;">Support et signalements</mark>
+## Comptes
 
-#### Contacter le staff
+* **Ton compte, ta responsabilité :** toute action faite depuis ton compte t'est attribuée.
+* **Multi-comptes :** utiliser plusieurs comptes est interdit, tout comme utiliser un compte qui n'est pas le tien.
+* **Contournement de sanction :** contourner une sanction avec un autre compte est strictement interdit.
 
-Si vous rencontrez un problème, vous pouvez contacter le staff via :
+***
 
-* le système de ticket sur le Discord du serveur
+## Sanctions et support
 
-#### Preuves
-
-Toute plainte doit être accompagnée de preuves lorsque cela est possible.
-
-#### Fausses accusations
-
-Les fausses accusations peuvent être sanctionnées.
+* **Rôle du staff :** le staff veille au bon fonctionnement du serveur et à l'application du règlement.
+* **Sanctions possibles :** avertissement, mute, kick, bannissement temporaire ou bannissement permanent.
+* **Choix de la sanction :** elle dépend de la gravité de l'infraction, de la récidive et de l'impact sur la communauté.
+* **Contacter le staff :** pour tout problème, ouvre un **ticket** sur le Discord du serveur.
+* **Preuves :** toute plainte doit être accompagnée de preuves quand c'est possible.
+* **Fausses accusations :** elles peuvent être sanctionnées.
