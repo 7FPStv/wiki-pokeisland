@@ -46,6 +46,7 @@
   * [Boss](pokeisland/evenements/boss.md)
   * [Piñata](pokeisland/evenements/pinata.md)
 * [Chasse](pokeisland/chasse.md)
+* [Pêche](pokeisland/peche.md)
 * [Energie](pokeisland/energie.md)
 * [PokéStop](pokeisland/pokestop.md)
 * [Mission](pokeisland/mission.md)
