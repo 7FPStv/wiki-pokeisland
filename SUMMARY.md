@@ -45,6 +45,7 @@
 * [Événements](pokeisland/evenements/README.md)
   * [Boss](pokeisland/evenements/boss.md)
   * [Piñata](pokeisland/evenements/pinata.md)
+  * [Halloween](pokeisland/evenements/halloween.md)
 * [Chasse](pokeisland/chasse.md)
 * [Pêche](pokeisland/peche.md)
 * [Energie](pokeisland/energie.md)
@@ -71,11 +72,18 @@
   * [Pokémon Pâques 2026](cobblemon/pokemon/paques-2026.md)
   * [Pokémon Été 2026](cobblemon/pokemon/ete-2026.md)
   * [Pokémon Éclipse 2026](cobblemon/pokemon/eclipse-2026.md)
+  * [Pokémon Halloween 2026](cobblemon/pokemon/halloween-2026.md)
 * [Capacités : CT & DT](cobblemon/capacites-ct-dt.md)
 * [CobbleNav](cobblemon/cobblenav.md)
+* [Meubles (CobbleFurnies)](cobblemon/cobblefurnies.md)
 * [Dresseurs sauvages](cobblemon/dresseurs-sauvages.md)
 * [Mega Showdown](cobblemon/mega-showdown.md)
 * [Reproduction](cobblemon/reproduction.md)
+
+## Serveur Event
+
+* [Serveur Event](serveur-event/README.md)
+  * [Mini-jeux](serveur-event/mini-jeux.md)
 
 ## Aide
 

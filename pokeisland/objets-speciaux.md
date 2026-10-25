@@ -11,6 +11,8 @@ PokeIsland ajoute une série d'objets qui n'existent pas dans Cobblemon de base.
 
 {% hint style="success" %}
 **Comment les utiliser :** prends l'objet en main et fais un **clic droit directement sur le Pokémon visé**. Pas de menu à ouvrir.
+
+Survole l'objet dans ton inventaire : son infobulle rappelle son effet et ses limites.
 {% endhint %}
 
 ***
@@ -27,7 +29,7 @@ PokeIsland ajoute une série d'objets qui n'existent pas dans Cobblemon de base.
 | **Cristal EV Att. Spé.** | Met les EV d'Attaque Spéciale à 252 |
 | **Cristal EV Déf. Spé.** | Met les EV de Défense Spéciale à 252 |
 | **Cristal EV Vitesse** | Met les EV de Vitesse à 252 |
-| **Cristal de Reproduction** | +1 reproduction disponible sur le Pokémon |
+| **Cristal d'Élevage +1** | Ajoute **1 reproduction** au Pokémon, dans la limite du maximum autorisé |
 
 {% hint style="info" %}
 Les Cristaux EV respectent le plafond total de **510 EV**. Tu ne peux donc pas en poser six sur le même Pokémon : au bout de deux, tu es à 504 et il ne reste presque plus de marge.
@@ -40,12 +42,12 @@ Les Cristaux EV respectent le plafond total de **510 EV**. Tu ne peux donc pas e
 | Objet | Effet |
 | ---------------------- | -------------------------------------------------- |
 | **Pierre Shiny** | Rend un Pokémon que tu possèdes **shiny** |
-| **Shiny Master Ball** | Capture **garantie** + le Pokémon capturé est shiny |
+| **Master Ball Shiny** | Capture **garantie** + le Pokémon capturé est shiny |
 
 {% hint style="danger" %}
 La **Pierre Shiny** ne fonctionne **pas** sur les Légendaires, les Fabuleux, les Ultra-Chimères, les Paradoxes ni les Pokémon restreints.
 
-La **Shiny Master Ball**, elle, fonctionne sur tous les Pokémon, Légendaires compris, **sauf dans les Cristaux de raid**. C'est l'un des objets les plus rares du serveur.
+La **Master Ball Shiny**, elle, fonctionne sur tous les Pokémon, Légendaires compris, **sauf dans les Cristaux de raid**. C'est l'un des objets les plus rares du serveur.
 {% endhint %}
 
 ***
@@ -89,6 +91,19 @@ La houe replanteuse consomme une graine par culture replantée : garde-en dans t
 
 Ces deux outils **respectent les protections** : ils ne casseront rien sur une île qui n'est pas la tienne, ni dans une arène.
 {% endhint %}
+
+***
+
+## Les peluches
+
+Les peluches sont des **blocs décoratifs** : pose-les sur ton île, elles se tournent vers toi. Chacune existe en version **normale** et **shiny**, et tu la récupères telle quelle si tu la casses.
+
+| Collection | Pokémon |
+| ---------- | ------- |
+| **Éclipse** | Arcanin, Branette, Bulbizarre (♂ et ♀), Carchacrok (♂ et ♀), Desséliande, Dracolosse, Ectoplasma, Giratina, Hélédelle, Héricendre, Jungko, Lugulabre, Magirêve, Malvalame, Mentali, Mewtwo, Mimiqui, Pingoléon, Psykokwak, Scorvol |
+| **Halloween** | Absol, Bruyverne, Corboss, Darkrai, Démolosse, Feunard, Goupelin, Lunala, Malamandre, Miascarade, Momartik, Noctunoir, Nostenfer, Spiritomb, Ténéfix, Zoroark |
+
+Les peluches Éclipse s'obtiennent dans le [Pass de combat](battle-pass.md), les peluches d'Halloween dans la [Box d'Halloween](evenements/halloween.md#la-box-dhalloween).
 
 ***
 

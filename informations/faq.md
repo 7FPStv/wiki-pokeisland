@@ -200,6 +200,16 @@ Pense à ton énergie **avant** de partir chasser un légendaire : une apparitio
 
 <details>
 
+<summary><strong>Pourquoi le mode grotte de ma minicarte ne marche pas ?</strong></summary>
+
+La minicarte **Xaero's Minimap** est autorisée, radar des entités compris. Seul son **mode grotte** (Cave mode) est désactivé dans l'Overworld : il permettait de repérer les galeries et les minerais à travers le sol. Il fonctionne toujours dans le Nether.
+
+Le partage de waypoints dans le chat est également bloqué.
+
+</details>
+
+<details>
+
 <summary><strong>Où aller après le Spawn ?</strong></summary>
 
 Direction le **PokéWorld**, l'archipel de 8 îles qui structure toute l'aventure.

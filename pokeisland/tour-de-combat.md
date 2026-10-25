@@ -63,7 +63,7 @@ Chaque combat gagné rapporte des PokéCoins et de l'XP de Dresseur, versés **t
 | **Difficile** | 150 | 600 |
 | **Extrême** | 300 | 1 500 |
 
-Chaque tour terminée rapporte aussi **1 Monnaie Éclipse**, quelle que soit la difficulté.
+Chaque tour terminée rapporte aussi **1 Monnaie Éclipse**, quelle que soit la difficulté, et **1 Monnaie Halloween** pendant l'[événement Halloween](evenements/halloween.md).
 
 ***
 

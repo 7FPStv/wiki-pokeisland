@@ -18,6 +18,7 @@ Sur PokeIsland, ces raids sont découpés en **7 tiers de difficulté**, et tu d
 * Les cristaux apparaissent dans l'Overworld, environ **1 chunk sur 256**.
 * Un den se **réinitialise toutes les 2 heures** : le boss ET le tier changent à chaque cycle.
 * Un hologramme au-dessus du cristal t'indique le **tier** du raid — et donc si tu y as droit.
+* Chaque cristal projette un **faisceau lumineux** vers le ciel. Il traverse les blocs : même un cristal caché sous des arbres ou dans une grotte se repère de loin.
 
 **Répartition des tiers dans la nature :**
 

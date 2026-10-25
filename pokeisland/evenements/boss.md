@@ -1,13 +1,13 @@
 ---
 description: >-
-  Chaque soir à 20h, un boss géant apparaît. Toute la communauté tape sur la
+  Chaque soir à 20h, un boss légendaire apparaît. Toute la communauté tape sur la
   même barre de vie — et le classement des dégâts décide des récompenses.
 icon: dragon
 ---
 
 # Boss
 
-Tous les jours à **20h00**, un **boss de raid** apparaît dans l'arène de raid. Sa barre de vie est **commune à tout le réseau** : chaque coup porté sur n'importe quel serveur descend la même jauge. `/raid`
+Tous les jours à **20h00**, un **boss de raid légendaire** apparaît dans l'arène de raid, au **Spawn**. Sa barre de vie est **commune à tous les joueurs** : chaque coup porté descend la même jauge. `/raid`
 
 ***
 
@@ -27,23 +27,11 @@ Le boss ne peut **ni se soigner ni se sacrifier** : les capacités de soin (Soin
 
 ***
 
-## Les raretés du boss
+## Le boss du soir
 
-Chaque soir, une rareté est tirée au sort, puis un boss dans cette rareté.
+Le boss de 20h est **toujours un Légendaire**, tiré au hasard parmi : Rayquaza, Groudon, Kyogre, Mewtwo, Dialga, Palkia, Giratina, Lugia, Ho-Oh, Zekrom, Reshiram, Kyurem, Arceus, Darkrai et Mew.
 
-| Rareté | Chance d'apparition | PV du boss | Chance de capture |
-| ---------------- | ------------------- | ---------- | ----------------- |
-| **Commun** | ~53 % | ~150 000 | 50 % |
-| **Épique** | ~32 % | ~310 000 | 20 % |
-| **Légendaire** | ~16 % | ~500 000 | 5 % |
-
-Ces PV sont ceux d'un raid en solo : la barre grossit de **2 % par joueur supplémentaire** qui participe.
-
-**Exemples de boss :**
-
-* **Commun** — Léviator, Arcanin, Ronflex, Ectoplasma, Mackogneur, Lucario, Alakazam, Lokhlass, toutes les évolutions d'Évoli, Dracaufeu, Tortank, Florizarre, Cizayox, Laggron, Jungko, Braségali, Galeking, Milobellus, Dimoret, Magnézone…
-* **Épique** — Dracolosse, Tyranocif, Carchacrok, Drattak, Metalosse, Trioxhydre, Pyrax, Muplodocus, Lanssorien, Tranchodon…
-* **Légendaire** — Rayquaza, Groudon, Kyogre, Mewtwo, Dialga, Palkia, Giratina, Lugia, Ho-Oh, Zekrom, Reshiram, Kyurem, Arceus, Darkrai et Mew.
+Il a environ **500 000 PV** pour un raid en solo, et la barre grossit de **2 % par joueur supplémentaire** qui participe.
 
 ***
 
@@ -53,13 +41,13 @@ Ces PV sont ceux d'un raid en solo : la barre grossit de **2 % par joueur suppl�
 
 ### Classement des dégâts
 
-| Rang | Commun | Épique | Légendaire |
-| ---- | ------ | ------ | ---------- |
-| 1ᵉʳ | 8 000 + 120 XP | 15 000 + 200 XP | 30 000 + 350 XP |
-| 2ᵉ | 6 000 + 90 XP | 11 000 + 150 XP | 22 000 + 260 XP |
-| 3ᵉ | 4 000 + 70 XP | 8 000 + 110 XP | 15 000 + 190 XP |
-| 4ᵉ | 3 000 | 5 000 | 10 000 |
-| 5ᵉ | 2 000 | 3 000 | 6 000 |
+| Rang | Récompense |
+| ---- | ---------- |
+| 1ᵉʳ | 30 000 + 350 XP |
+| 2ᵉ | 22 000 + 260 XP |
+| 3ᵉ | 15 000 + 190 XP |
+| 4ᵉ | 10 000 |
+| 5ᵉ | 6 000 |
 
 Montants en PokéCoins, XP de Dresseur.
 
@@ -67,43 +55,41 @@ Montants en PokéCoins, XP de Dresseur.
 
 Tous les participants reçoivent :
 
-| | Commun | Épique | Légendaire |
-| - | ------ | ------ | ---------- |
-| **PokéCoins** | 1 000 | 2 000 | 3 000 |
-| **Balls** | 5 Poké Balls | 5 Super Balls | 5 Hyper Balls |
-| **XP de Dresseur** | 40 | 70 | 120 |
-| **Parchemin de quête** | Commun | Rare | Épique |
-
-… plus **1 Ticket Safari** et **1 Monnaie Éclipse**, quelle que soit la rareté.
+* **3 000 PokéCoins**
+* **5 Hyper Balls**
+* **120 XP de Dresseur**
+* **1 Parchemin de quête Épique**
+* **1 Ticket Safari**
+* **1 Monnaie Éclipse**
+* et, pendant l'événement [Halloween](halloween.md), **1 Monnaie Halloween**.
 
 ### Butin aléatoire
 
 Chaque ligne de la table est tirée **indépendamment** : tu peux décrocher plusieurs objets dans le même raid, ou aucun si tu n'as pas de chance. En moyenne, ça fait environ un objet par joueur.
 
-| Objet | Commun | Épique | Légendaire |
-| ----- | :----: | :----: | :--------: |
-| PokéCoins | 2 000 (50 %) | 4 000 (45 %) | 7 000 (40 %) |
-| Balls | Poké / Super Balls | Super / Hyper Balls | 10 Hyper Balls (20 %) |
-| Cristal de Niveau | 8 % | 8 % | 10 % |
-| Cristal EV (chaque stat) | 1,5 % | 1,5 % | 2 % |
-| Cristal IV Parfait | 0,4 % | 1,5 % | 5 % |
-| Œuf Pokémon | 3 % | — | — |
-| Œuf Shiny | 0,8 % | 2 % | 3 % |
-| Œuf Céleste | — | 1,2 % | 4 % |
-| Méga Gemme aléatoire | 1 % | 2 % | 3 % |
-| Pierre Shiny | 0,6 % | 1 % | 2 % |
-| **Master Ball** | — | 0,3 % | **1,5 %** |
+| Objet | Chance |
+| ----- | :----: |
+| 7 000 PokéCoins | 40 % |
+| 10 Hyper Balls | 20 % |
+| Cristal de Niveau | 10 % |
+| Cristal EV (chaque stat) | 2 % |
+| Cristal IV Parfait | 5 % |
+| Œuf Shiny | 3 % |
+| Œuf Céleste | 4 % |
+| Méga Gemme aléatoire | 3 % |
+| Pierre Shiny | 2 % |
+| **Master Ball** | **1,5 %** |
 
 ***
 
-## L'orbe de capture
+## La Potion de Raid
 
-Les **3 meilleurs joueurs** au classement des dégâts reçoivent une **Raid Ball**.
+Les **3 meilleurs joueurs** au classement des dégâts reçoivent une **Potion de Raid**. Un clic droit dessus te donne une chance d'**obtenir le boss** : **5 %** pour le 1ᵉʳ, **4 %** pour le 2ᵉ, **3 %** pour le 3ᵉ. Elle ne s'utilise qu'une fois.
 
-Elle te donne une chance de **capturer le boss** — chance qui dépend de sa rareté : 50 % en Commun, 20 % en Épique, seulement **5 %** en Légendaire.
+Les autres participants ont **1 %** de chance de recevoir eux aussi une Potion de Raid, avec **2,5 %** de chance d'obtenir le boss.
 
 {% hint style="info" %}
-Le raid étant partagé entre tous les serveurs, le premier joueur qui met la vie à zéro déclenche la fin **pour tout le monde**. Les récompenses vont au classement **global**.
+La barre de vie étant commune, le joueur qui la met à zéro déclenche la fin **pour tout le monde**. Les récompenses suivent le classement **global** des dégâts.
 {% endhint %}
 
 ***

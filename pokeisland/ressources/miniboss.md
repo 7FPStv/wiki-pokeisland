@@ -1,6 +1,6 @@
 ---
 description: >-
-  Des Pokémon Boss apparaissent près de toi, dans neuf raretés. Bats-les — et
+  Des Pokémon Boss apparaissent près de toi, dans dix raretés. Bats-les — et
   depuis peu, tente même de les capturer.
 icon: skull
 ---
@@ -15,21 +15,22 @@ Des **Pokémon Boss** apparaissent aléatoirement à proximité des joueurs. Tu 
 
 ***
 
-## Les neuf raretés
+## Les dix raretés
 
 | Rareté | Chance d'apparition | Niveau |
 | ------------------- | ------------------: | ------ |
-| **Commun** | 28 % | 60 |
-| **Éclipse** | 25 % | 100 |
-| **Rare** | 16 % | 100 |
-| **Rare Méga** | 9 % | 100 |
-| **Dynamax** | 7 % | 100 |
-| **Téracristal** | 6 % | 100 |
-| **Motisma** | 4 % | 100 |
-| **Légendaire** | 3 % | 100 |
-| **Légendaire Méga** | 2 % | 100 |
+| **Commun** | 22,5 % | 60 |
+| **Éclipse** | 19,9 % | 100 |
+| **Halloween** | 19,9 % | 100 |
+| **Rare** | 12,9 % | 100 |
+| **Rare Méga** | 7,1 % | 100 |
+| **Dynamax** | 5,8 % | 100 |
+| **Téracristal** | 4,8 % | 100 |
+| **Motisma** | 3,2 % | 100 |
+| **Légendaire** | 2,6 % | 100 |
+| **Légendaire Méga** | 1,3 % | 100 |
 
-Les boss **Éclipse** sont les 20 [Pokémon Éclipse](../../cobblemon/pokemon/eclipse-2026.md) de la saison, d'Arcanin à Giratina.
+Les boss **Éclipse** sont les 20 [Pokémon Éclipse](../../cobblemon/pokemon/eclipse-2026.md) de la saison, d'Arcanin à Giratina. Les boss **Halloween** sont les 16 [Pokémon d'Halloween](../../cobblemon/pokemon/halloween-2026.md), de l'[événement Halloween](../evenements/halloween.md).
 
 Les boss Méga, Dynamax et Téracristal utilisent réellement leur mécanique en combat : attends-toi à voir la barre de vie remonter d'un coup.
 
@@ -69,9 +70,10 @@ Après ta victoire, ta chance d'attraper le boss dépend de sa rareté. Voici le
 | Légendaire Méga | 3 % | 6 % |
 | **Téracristal** | **4 %** | **8 %** |
 | Éclipse | — | — |
+| Halloween | — | — |
 
 {% hint style="danger" %}
-Les boss **Éclipse ne se capturent pas** : tu les combats pour leurs récompenses uniquement.
+Les boss **Éclipse** et **Halloween** ne se capturent pas : tu les combats pour leurs récompenses uniquement.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -107,10 +109,11 @@ Chaque victoire donne **systématiquement** de l'XP Dresseur et des PokéCoins :
 | Motisma | 330 | 5 000 |
 | Dynamax | 360 | 5 000 |
 | **Éclipse** | 260 | 7 500 |
+| **Halloween** | 260 | 7 500 |
 | Légendaire | 500 | 20 000 |
 | **Légendaire Méga** | **650** | **20 000** |
 
-Un boss **Éclipse** vaincu rapporte en plus **1 Monnaie Éclipse**.
+Un boss **Éclipse** vaincu rapporte en plus **1 Monnaie Éclipse**, un boss **Halloween** **1 Monnaie Halloween**.
 
 ### Butin aléatoire
 
@@ -151,7 +154,7 @@ Chaque ligne est tirée indépendamment : tu peux repartir avec plusieurs objets
 
 <details>
 
-<summary>Boss Éclipse</summary>
+<summary>Boss Éclipse et Halloween</summary>
 
 | Chance | Récompense |
 | ------ | --------------------------- |

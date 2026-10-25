@@ -35,9 +35,9 @@ La file est **partagée sur tout le réseau**. Tu peux faire la queue depuis n'i
 | Attente | Écart d'ELO toléré |
 | --------- | ------------------ |
 | 0 s | ± 100 |
-| 30 s | ± 200 |
-| 60 s | ± 350 |
-| 120 s | n'importe qui |
+| 60 s | ± 200 |
+| 120 s | ± 350 |
+| 240 s | n'importe qui |
 
 3. Adversaire trouvé : **5 secondes** de compte à rebours, puis téléportation en arène.
 4. **Team Preview** : tu vois l'équipe adverse et ses talents avant de jouer.
@@ -172,7 +172,7 @@ Entre deux saisons, la file **Ranked est fermée**. Unranked et Libre restent ou
 * **Déconnexion en match = défaite**, plus **5 ELO de pénalité supplémentaire**.
 * Un joueur **AFK plus de 2 minutes** est sorti de la file.
 * En Ranked, tu ne peux pas retomber sur **le même adversaire avant 10 minutes**.
-* Maximum **50 matchs classés par jour contre le même joueur**.
+* Maximum **10 matchs classés par jour contre le même joueur**.
 
 ***
 

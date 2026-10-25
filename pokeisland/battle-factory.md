@@ -68,7 +68,7 @@ Ce que tu peux décrocher, du plus commun au plus rare :
 | ------------------ | ---------- |
 | 3 (fin de manche 1) | 5 000 |
 | 6 (fin de manche 2) | 15 000 |
-| 9 (fin de manche 3) | 40 000 + 1 Monnaie Éclipse |
+| 9 (fin de manche 3) | 40 000 + 1 Monnaie Éclipse (+ 1 Monnaie Halloween pendant [Halloween](evenements/halloween.md)) |
 
 Tu gagnes aussi de l'**XP Dresseur** : 20 par victoire, +100 par palier.
 
