@@ -1,4 +1,5 @@
 ---
+hidden: true
 description: >-
   Cache-cache en blocs, Pacman, Dé à Coudre, défilé de tenues… Le serveur
   Event accueille les mini-jeux des animations PokeIsland.

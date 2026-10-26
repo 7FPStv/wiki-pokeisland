@@ -80,9 +80,9 @@
 * [Mega Showdown](cobblemon/mega-showdown.md)
 * [Reproduction](cobblemon/reproduction.md)
 
-## Serveur Event
+## Événement
 
-* [Serveur Event](serveur-event/README.md)
+* [Événement](serveur-event/README.md)
   * [Mini-jeux](serveur-event/mini-jeux.md)
 
 ## Aide
