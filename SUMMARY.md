@@ -32,6 +32,7 @@
 * [Île joueurs](pokeisland/ile-joueurs.md)
 * [Economie](pokeisland/economie/README.md)
   * [GTS](pokeisland/economie/gts.md)
+  * [Shops joueurs](pokeisland/economie/shops-joueurs.md)
   * [Marchand Shop](pokeisland/economie/marchand-shop.md)
   * [Œuf de Marchand](pokeisland/economie/oeuf-de-marchand.md)
   * [Rewards](pokeisland/economie/rewards.md)

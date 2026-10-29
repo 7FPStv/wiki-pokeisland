@@ -4,7 +4,7 @@ icon: coins
 
 # Economie
 
-L’économie de PokeIsland repose sur plusieurs systèmes complémentaires : **Marchand Shop**, **Œuf de Marchand**, **GTS**, **Rewards** et **Enchères**.
+L’économie de PokeIsland repose sur plusieurs systèmes complémentaires : **Marchand Shop**, **Œuf de Marchand**, **GTS**, **Shops joueurs**, **Rewards** et **Enchères**.
 
 Le but est simple :
 
@@ -14,7 +14,7 @@ Le but est simple :
 
 ***
 
-## Les 5 piliers de l’économie
+## Les 6 piliers de l’économie
 
 ### Marchand Shop
 
@@ -54,6 +54,14 @@ Le marché joueur-joueur pour vendre/acheter Pokémon et objets.
 
 {% content-ref url="gts.md" %}
 [gts.md](gts.md)
+{% endcontent-ref %}
+
+### Shops joueurs
+
+Transforme un coffre de ton île en boutique pour vendre tes objets aux autres joueurs, ou les leur racheter.
+
+{% content-ref url="shops-joueurs.md" %}
+[shops-joueurs.md](shops-joueurs.md)
 {% endcontent-ref %}
 
 ***
