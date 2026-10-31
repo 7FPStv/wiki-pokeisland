@@ -14,8 +14,10 @@ PokeIsland tient plusieurs classements, consultables **en commande**.
 | **Duels — Argent** | Tes gains cumulés en duel |
 | **Champion** | Tes combats/victoires face à chaque champion d'arène |
 | **Ranked** | Ton ELO ([`/toprank`](ranked.md)) |
+| **Random** | Ton ELO Random ([`/toprank random`](ranked.md#le-mode-random)) |
 | **Battle Factory** | Ta meilleure série ([`/bf top`](battle-factory.md)) |
 | **Tour de combat** | Tes ascensions ([`/tour top`](tour-de-combat.md)) |
+| **Tour Infinie** | Ton meilleur étage du mois ([`/tour top infinie`](tour-de-combat.md#la-tour-infinie)) |
 | **Boss** | Tes dégâts sur le boss ([`/raid top`](evenements/boss.md)) |
 | **Piñata** | Tes coups portés ([`/pinata top`](evenements/pinata.md)) |
 | **Livraison** | Tes livraisons ([`/livraison top`](economie/livraison.md)) |

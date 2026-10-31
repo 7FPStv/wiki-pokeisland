@@ -29,12 +29,16 @@ icon: terminal
 | ---------------- | -------------------------------------- |
 | `/duel <pseudo>` | Défier un joueur en [duel](duel.md)    |
 | `/ranked`        | File classée [Ranked](ranked.md)   |
-| `/unranked`      | File non classée                       |
+| `/unranked`      | File [Random](ranked.md#le-mode-random) (équipe tirée au sort) |
 | `/free` `/libre` | File libre, sans restrictions          |
 | `/rank [joueur]` | Rang et ELO                            |
-| `/toprank`       | Classement Ranked                      |
+| `/toprank`       | Classement Ranked (`/toprank random` pour le Random) |
 | `/tour`          | La [Tour de combat](tour-de-combat.md) |
 | `/bf`            | La [Battle Factory](battle-factory.md) |
+| `/tour shop` `/bf shop` | La [Boutique Combat](tour-de-combat.md#la-boutique-combat) (Points Combat) |
+| `/donjon groupe` | Ton groupe pour les [Donjons](donjons.md) |
+| `/donjon shop`   | La [Boutique Donjon](donjons.md#la-boutique-donjon) (Points Donjon) |
+| `/donjon leave`  | Quitter le donjon en cours |
 
 ***
 

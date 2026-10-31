@@ -43,6 +43,7 @@
 * [Ranked](pokeisland/ranked.md)
 * [Tour de combat](pokeisland/tour-de-combat.md)
 * [Battle Factory](pokeisland/battle-factory.md)
+* [Donjons](pokeisland/donjons.md)
 * [Événements](pokeisland/evenements/README.md)
   * [Boss](pokeisland/evenements/boss.md)
   * [Piñata](pokeisland/evenements/pinata.md)

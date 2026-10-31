@@ -53,14 +53,16 @@ En revanche, **aucun gimmick n'est actif** en Battle Factory : pas de Méga, pas
 
 ## Récompenses
 
-**Butin** : chaque victoire donne **au moins 1 objet**, et jusqu'à 3.
+**Points Combat** : la Battle Factory ne donne plus d'objet au hasard. Chaque victoire rapporte des **Points Combat**, à dépenser dans la [Boutique Combat](tour-de-combat.md#la-boutique-combat) (`/bf shop`), qui reprend tout l'ancien butin : objets Choix, Cristaux EV, Œufs, Énergie Booster, Pierres Scintillantes…
 
-Ce que tu peux décrocher, du plus commun au plus rare :
+| | Points Combat |
+| --- | :---: |
+| Par victoire | **4** |
+| 3 victoires (fin de manche 1) | **+10** |
+| 6 victoires (fin de manche 2) | **+20** |
+| 9 victoires (fin de manche 3) | **+40** |
 
-* **Commun** — sucreries (Fraise, Cœur, Baie, Trèfle, Fleur, Étoile, Ruban en Sucre), herbes (Mental, Pouvoir, Blanche), pommes, objets d'évolution (Peau Métal, Améliorator, CD Douteux, Griffe/Croc Rasoir, Roche Royale, Dent/Écaille Océan…)
-* **Peu commun** — objets tenus compétitifs : Bandeau/Mouchoir/Lunettes Choix, Veste de Combat, Orbe Vie, Carton Rouge, Sac Fuite, Assurance Échec, Vulné Assurance, Lumargile, Spray Gorge…
-* **Rare** — Cristaux EV (PV, Attaque, Défense, Att. Spé, Déf. Spé, Vitesse) ; l'**Œuf Pokémon** tombe à peu près aussi souvent qu'un objet commun
-* **Très rare** — Énergie Booster, **Œuf Shiny**, Pierre Scintillante Claire / Sombre
+Les Points Combat sont **communs** avec la [Tour de combat](tour-de-combat.md).
 
 **Paliers de manche** (en PokéCoins) :
 
@@ -114,3 +116,4 @@ Le classement Battle Factory est **partagé entre tous les serveurs** du réseau
 | `/bf status` | État de ta série en cours |
 | `/bf quit` | Abandonne (le cooldown est armé) |
 | `/bf top` | Classement |
+| `/bf shop` | La Boutique Combat |

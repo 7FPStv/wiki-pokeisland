@@ -1,7 +1,7 @@
 ---
 description: >-
-  Quatre difficultés, des dresseurs PNJ à la chaîne, et ton équipe réelle pour
-  seule arme. Une défaite et c'est fini.
+  Quatre difficultés, une Tour Infinie, des dresseurs PNJ à la chaîne et ton
+  équipe réelle pour seule arme. Une défaite et c'est fini.
 icon: gopuram
 ---
 
@@ -17,6 +17,8 @@ Contrairement à la [Battle Factory](battle-factory.md), tu combats avec ta **vr
 
 {% hint style="danger" %}
 **Une seule ascension toutes les 24 heures**, toutes difficultés confondues : faire la Facile bloque aussi l'Extrême. Le délai démarre quelle que soit l'issue — victoire, défaite, abandon ou déconnexion. Choisis bien ta difficulté.
+
+La [Tour Infinie](#la-tour-infinie) n'est **pas** concernée : elle se joue quand tu veux.
 {% endhint %}
 
 ***
@@ -67,25 +69,61 @@ Chaque tour terminée rapporte aussi **1 Monnaie Éclipse**, quelle que soit la 
 
 ***
 
-## Butin
+## Points Combat
 
-Chaque combat gagné donne **1 objet garanti**, puis **35 %** de chance d'en obtenir un deuxième et **10 %** un troisième. La table dépend de la difficulté :
+La Tour ne donne plus d'objet au hasard : chaque combat gagné rapporte des **Points Combat**, à dépenser dans la [Boutique Combat](#la-boutique-combat). Terminer la tour ajoute un bonus.
 
-* **Facile** — germes de Noigrume (les 7 couleurs), **Aromates** pour changer la nature d'un Pokémon, soins (Potion Max, Total Soin, Rappel Max…), Mochis et Petite Recharge d'énergie
-* **Moyen** — **Joyaux** des 18 types, vitamines (PV Plus, Protéine, Fer, Calcium, Zinc, Carbone), PP Max, DT aléatoire, Recharge d'énergie et livres enchantés (Efficacité IV, Solidité II, Tranchant IV)
-* **Difficile** et **Extrême** — la **même table** pour les deux :
+| Difficulté | Par combat gagné | Bonus de fin | **Tour complète** |
+| ------------- | :---: | :---: | :---: |
+| **Facile** | 3 | 8 | **20** |
+| **Moyen** | 5 | 15 | **40** |
+| **Difficile** | 8 | 32 | **80** |
+| **Extrême** | 15 | 60 | **150** |
 
-| Famille | Part des tirages | Objets |
-| ------- | :--------------: | ------ |
-| **Fossiles** | 40 % | les 15 fossiles (Nautile, Dôme, Vieil Ambre, Racine, Griffe, Crâne, Armure, Plaque, Plume, Mâchoire, Nageoire, Oiseau, Poisson, Dragon, Aileron) |
-| **Objets d'évolution** | 27 % | Bel'Écaille, Tissu Fauche, Écaille Draco, Protecteur, Sachet Senteur, Chantibonbon, Métal Composite, Bloc de Tourbe, Théière Ébréchée, Bol Exceptionnel |
-| **Objets utiles** | 21 % | Pilule Talent, Rouleau des Ténèbres, Rouleau de l'Eau, Grande Recharge d'énergie, livres (Raccommodage, Toucher de soie, Fortune II, Butin II) |
-| **Objets rares** | 11 % | Patch Talent, Œuf Pokémon, Œuf Céleste, Méga Gemme aléatoire |
-| **Œuf Shiny** | 1,5 % | — |
+Les Points Combat sont **communs** avec la [Battle Factory](battle-factory.md), et ils te sont versés même si tu es déconnecté.
+
+### Les butins rares de l'Extrême
+
+L'Extrême garde deux butins à part, en plus des points :
+
+* **Cristal Z** : 5,77 % de chance par combat gagné, **un seul** par ascension (environ **30 %** en allant au bout) ;
+* **Perle d'Arcvoir** : **6 %** de chance au **dernier combat**.
+
+***
+
+## La Boutique Combat
+
+`/tour shop` (ou `/bf shop`) : tout l'ancien butin de la Tour et de la Battle Factory, à acheter en Points Combat.
+
+| Page | Contenu | Prix |
+| --- | --- | :---: |
+| **Soins et entraînement** | Potion Max, Total Soin, Rappel Max, Mochis, vitamines, PP Max, Recharges d'énergie, Cristaux EV, Pilule Talent, Patch Talent | 6 à 800 |
+| **Aromates et graines** | Germes de Noigrume (7 couleurs), les 21 Aromates de nature | 8 à 80 |
+| **Joyaux et objets tenus** | Joyaux des 18 types, herbes, objets Choix, Veste de Combat, Orbe Vie, Carton Rouge, Assurances, Lumargile, Spray Gorge… | 12 à 150 |
+| **Objets d'évolution** | Sucreries, pommes, Peau Métal, Améliorator, Écaille Draco, Protecteur, Théière Ébréchée… | 12 à 60 |
+| **Fossiles, œufs et raretés** | Les 15 fossiles, livres enchantés, DT aléatoire, Œuf Pokémon, Rouleaux, Méga Gemme aléatoire, Énergie Booster, Pierres Scintillantes, **Œuf Shiny** (1 800), **Œuf Céleste** (2 000) | 20 à 2 000 |
+| **Cristaux Z** | Les 35 Cristaux Z | 1 000 à 2 000 |
+| **Perles d'Arcvoir** | Les 17 Perles d'Arcvoir | 4 000 |
+
+***
+
+## La Tour Infinie
+
+Une 5ᵉ difficulté **sans fin** : chaque étage t'oppose un dresseur tiré parmi **120 équipes**, et ça monte jusqu'à ce que tu tombes.
+
+* Tu combats avec **ta vraie équipe à son vrai niveau** : pas de niveau maximum imposé. Équipe de **3 à 6** Pokémon.
+* Les adversaires commencent **niveau 40** et prennent **1 niveau par étage**.
+* Leur équipe grossit : **3 Pokémon** au départ, **+1 tous les 10 étages** (6 au maximum). Leur IA s'améliore tous les 15 étages.
+* À partir de l'étage **20**, tous leurs IV sont parfaits. À partir de l'étage **28**, ils peuvent méga-évoluer et téracristalliser.
+* Un **boss tous les 10 étages** : 6 Pokémon, IA maximale, 5 niveaux de plus.
+
+**Points Combat** : 1 par étage, et de plus en plus en montant (7 à l'étage 10, 13 à l'étage 20…). Atteindre l'étage 30 rapporte environ **93 points**, **sans plafond** par jour. Chaque étage gagné donne aussi **20 XP de Dresseur**.
 
 {% hint style="info" %}
-En Difficile comme en Extrême, attends-toi donc à repartir avec **un fossile environ deux fois sur cinq**. Ce qui distingue l'Extrême, ce sont les PokéCoins et l'XP, pas le butin.
+**Paliers du mois** : ton ascension reprend juste après la **dernière dizaine franchie** dans le mois (28 étages gagnés → reprise à l'étage 21). La tour change le **1ᵉʳ de chaque mois**, et le classement (`/tour top infinie`) repart à zéro.
 {% endhint %}
+
+La Tour Infinie n'a **pas** le délai de 24 heures : seulement **1 minute** entre deux tentatives. `/tour infinie info` affiche les règles, ton record et ton étage de reprise.
 
 ***
 
@@ -141,4 +179,7 @@ Une ascension inactive pendant 5 minutes est coupée automatiquement — mais un
 | `/tour status` | État de ton ascension |
 | `/tour quit` | Abandonne (ta tentative est consommée) |
 | `/tour top` | Classement |
+| `/tour top infinie` | Classement du mois de la Tour Infinie |
+| `/tour infinie info` | Règles et ta situation à la Tour Infinie |
+| `/tour shop` | La Boutique Combat |
 | `/tour stats` | Tes statistiques |
