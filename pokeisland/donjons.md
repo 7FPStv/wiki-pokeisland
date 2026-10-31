@@ -28,7 +28,7 @@ Chaque donjon est **bâti pour ta run** : salles tirées au sort, adversaires et
 
 ## Entrer dans un donjon
 
-1. Trouve un **portail de donjon** dans le monde : une colonne de particules le signale de loin.
+1. Rends-toi dans le monde [Ressource](ressources/README.md) et trouve un **portail de donjon** : une colonne de particules le signale de loin.
 2. Fais **clic droit** dessus.
 3. Un menu affiche le donjon, son **tier**, les PV des ennemis et les récompenses. Clique pour entrer.
 
