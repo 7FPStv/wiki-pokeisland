@@ -37,7 +37,7 @@ Quand ça mord, réussis **3 étapes en 15 secondes**. Le jeu choisit une varian
 Un clic raté, **Échap**, la mort, une déconnexion ou les 15 secondes écoulées font **fuir la prise**.
 {% endhint %}
 
-**Zones de pêche :** sur les **îles du Spawn**, l'**eau teintée en bleu** marque une zone de pêche (`/peche zones`). Ailleurs, tu pêches à taux réduits : un poisson de collection sur trois environ, XP ×0,5 et trésors ×0,35.
+**Zones de pêche :** sur les **îles du Spawn**, l'**eau teintée en bleu** marque une zone de pêche (`/peche zones`). Ailleurs, tu pêches à taux réduits : un poisson de collection sur trois environ, XP ×0,75 et trésors ×0,85.
 
 ***
 
@@ -165,6 +165,10 @@ Les **Écailles** se gagnent en vendant tes doublons, en montant de niveau et su
 
 Chaque canne se fabrique à l'**établi** : la **canne précédente** au centre, **deux améliorations** de son palier de chaque côté et quelques matériaux (perles marines, fragments des abysses…). Le détail est dans ton livre de recettes.
 
+{% hint style="success" %}
+Améliorer une canne **garde ses enchantements** (Chance de la mer, Appât, Solidité, Raccommodage) et l'appât posé dessus. Toutes les cannes acceptent **Solidité** et **Raccommodage**.
+{% endhint %}
+
 ```
 Poké Canne
 └─ Canne vive ─┬─ Canne exploratrice ─┬─ Canne des marées ─ Canne du grand large
@@ -176,17 +180,17 @@ Poké Canne
 | | Canne | Niveau | XP | Meilleurs poissons | Trésors | Shiny |
 | :-: | ----- | :----: | :-: | :----------------: | :-----: | :---: |
 | <img src="../.gitbook/assets/peche-canne-vive.png" alt="" width="40"> | Canne vive | 1 | ×1,25 | ×1,0 | ×1,0 | +3 % |
-| <img src="../.gitbook/assets/peche-canne-exploratrice.png" alt="" width="40"> | Canne exploratrice | 5 | ×1,0 | ×1,2 | ×1,0 | +5 % |
-| <img src="../.gitbook/assets/peche-canne-corallienne.png" alt="" width="40"> | Canne corallienne | 8 | ×1,5 | ×1,1 | ×1,0 | +5 % |
-| <img src="../.gitbook/assets/peche-canne-aux-tresors.png" alt="" width="40"> | Canne aux trésors | 10 | ×1,0 | ×1,0 | ×2,0 | +6 % |
-| <img src="../.gitbook/assets/peche-canne-des-marees.png" alt="" width="40"> | Canne des marées | 15 | ×1,2 | ×1,4 | ×1,2 | +6 % |
-| <img src="../.gitbook/assets/peche-canne-abyssale.png" alt="" width="40"> | Canne abyssale | 20 | ×1,1 | ×1,1 | ×1,5 | +8 % |
-| <img src="../.gitbook/assets/peche-canne-du-savant.png" alt="" width="40"> | Canne du savant | 22 | ×2,0 | ×1,0 | ×1,2 | +8 % |
-| <img src="../.gitbook/assets/peche-canne-du-grand-large.png" alt="" width="40"> | Canne du grand large | 25 | ×1,1 | ×1,7 | ×1,0 | +9 % |
-| <img src="../.gitbook/assets/peche-canne-des-tempetes.png" alt="" width="40"> | Canne des tempêtes | 28 | ×1,2 | ×1,2 | ×3,0 | +11 % |
-| <img src="../.gitbook/assets/peche-canne-lunaire.png" alt="" width="40"> | Canne lunaire | 32 | ×1,6 | ×1,3 | ×2,0 | +12 % |
-| <img src="../.gitbook/assets/peche-canne-astrale.png" alt="" width="40"> | Canne astrale | 40 | ×2,3 | ×1,3 | ×2,5 | +15 % |
-| <img src="../.gitbook/assets/peche-canne-du-leviathan.png" alt="" width="40"> | **Canne du Léviathan** | 45 | ×2,0 | ×1,8 | ×3,5 | +18 % |
+| <img src="../.gitbook/assets/peche-canne-exploratrice.png" alt="" width="40"> | Canne exploratrice | 5 | ×1,0 | ×1,05 | ×1,0 | +5 % |
+| <img src="../.gitbook/assets/peche-canne-corallienne.png" alt="" width="40"> | Canne corallienne | 8 | ×1,5 | ×1,05 | ×1,0 | +5 % |
+| <img src="../.gitbook/assets/peche-canne-aux-tresors.png" alt="" width="40"> | Canne aux trésors | 10 | ×1,0 | ×1,0 | ×1,3 | +6 % |
+| <img src="../.gitbook/assets/peche-canne-des-marees.png" alt="" width="40"> | Canne des marées | 15 | ×1,2 | ×1,1 | ×1,05 | +6 % |
+| <img src="../.gitbook/assets/peche-canne-abyssale.png" alt="" width="40"> | Canne abyssale | 20 | ×1,1 | ×1,05 | ×1,15 | +8 % |
+| <img src="../.gitbook/assets/peche-canne-du-savant.png" alt="" width="40"> | Canne du savant | 22 | ×2,0 | ×1,0 | ×1,05 | +8 % |
+| <img src="../.gitbook/assets/peche-canne-du-grand-large.png" alt="" width="40"> | Canne du grand large | 25 | ×1,1 | ×1,2 | ×1,0 | +9 % |
+| <img src="../.gitbook/assets/peche-canne-des-tempetes.png" alt="" width="40"> | Canne des tempêtes | 28 | ×1,2 | ×1,05 | ×1,55 | +11 % |
+| <img src="../.gitbook/assets/peche-canne-lunaire.png" alt="" width="40"> | Canne lunaire | 32 | ×1,6 | ×1,1 | ×1,3 | +12 % |
+| <img src="../.gitbook/assets/peche-canne-astrale.png" alt="" width="40"> | Canne astrale | 40 | ×2,3 | ×1,1 | ×1,4 | +15 % |
+| <img src="../.gitbook/assets/peche-canne-du-leviathan.png" alt="" width="40"> | **Canne du Léviathan** | 45 | ×2,0 | ×1,25 | ×1,7 | +18 % |
 
 Le **niveau** est celui requis pour **utiliser** la canne. « Meilleurs poissons » multiplie les chances des raretés Rare et au-dessus, « Shiny » la chance que le Pokémon pêché soit shiny. Chaque branche a sa spécialité : l'**XP** (corallienne → astrale), les **trésors** (aux trésors → Léviathan) ou les **meilleurs poissons** (exploratrice → grand large).
 
@@ -195,22 +199,22 @@ Le **niveau** est celui requis pour **utiliser** la canne. « Meilleurs poissons
 | | Appât (×4) | Recette sans forme | Effet |
 | :-: | ---------- | ------------------ | ----- |
 | <img src="../.gitbook/assets/peche-appat-des-marees.png" alt="" width="32"> | Appât des marées | Blé + Algue | Touche plus rapide |
-| <img src="../.gitbook/assets/peche-appat-raffine.png" alt="" width="32"> | **Appât raffiné** | Blé + Carotte dorée | Pokémon rares, et meilleurs poissons ×1,5 |
+| <img src="../.gitbook/assets/peche-appat-raffine.png" alt="" width="32"> | **Appât raffiné** | Blé + Carotte dorée | Pokémon rares, et meilleurs poissons ×1,15 |
 | <img src="../.gitbook/assets/peche-appat-des-profondeurs.png" alt="" width="32"> | Appât des profondeurs | Blé + Poche d'encre | Pokémon aquatiques des profondeurs |
 
 ***
 
 ## Les bonus et leur cumul
 
-Les bonus se **multiplient** entre eux (meilleurs poissons plafonnés à ×10) :
+Les bonus se **multiplient** entre eux. Les meilleurs poissons sont plafonnés à ×10, et le bonus de **trésors** de la canne et de la zone à **×2** :
 
 | Bonus | Canne | Appât raffiné | Zone bonus | Banc | Hors zone |
 | ----- | :---: | :-----------: | :--------: | :--: | :-------: |
-| XP | ✔ | | ×1,5 | ×2 | ×0,5 |
-| Meilleurs poissons | ✔ | ×1,5 | ×2 | | |
-| Trésors | ✔ | | ×1,5 | | ×0,35 |
+| XP | ✔ | | ×1,5 | ×2 | ×0,75 |
+| Meilleurs poissons | ✔ | ×1,15 | ×1,15 | | |
+| Trésors | ✔ | | ×1,15 | | ×0,85 |
 
-* **Zone bonus** : une zone de pêche est renforcée, et le bonus change de zone **toutes les 15 minutes**. Son eau devient **dorée** (`/peche bonus`).
+* **Zone bonus** : chaque heure pile, une zone de pêche est renforcée pendant **15 minutes** (de 00:00 à 00:15, de 01:00 à 01:15…), puis plus rien jusqu'à l'heure suivante. Chaque heure, c'est une autre zone. Son eau devient **dorée** (`/peche bonus`).
 * **Banc de poissons** : toutes les 15 minutes, des remous apparaissent dans une zone (coordonnées dans le chat). L'XP y est doublée pendant 5 minutes, dans un rayon de 8 blocs.
 
 ***
@@ -233,7 +237,7 @@ Chaque prise donne **10 XP** (avant bonus). Il faut 100 XP de plus à chaque niv
 
 * **Contrat du jour** : 15 prises, puis `/peche contrats valider` pour **75 XP** et une **perle marine**. Renouvelé à minuit.
 * **Tournois** : classement au poids, au nombre de prises ou au nombre d'espèces (3 prises minimum). Podium : **1 500 / 800 / 400 Écailles**. Un tournoi se lance **chaque soir à 21h** (`/peche tournoi`).
-* **Trésors** : à chaque prise, une chance de **fragment des abysses** <img src="../.gitbook/assets/peche-fragment-des-abysses.png" alt="" width="24"> (3 %), de **perle marine** <img src="../.gitbook/assets/peche-perle-marine.png" alt="" width="24"> (0,5 %) ou d'un autre trésor (2,5 %) : bonbons, CT, cristaux, améliorations de canne, œufs… et très rarement une **Master Ball**.
+* **Trésors** : à chaque prise, une chance de **fragment des abysses** <img src="../.gitbook/assets/peche-fragment-des-abysses.png" alt="" width="24"> (4 %), de **perle marine** <img src="../.gitbook/assets/peche-perle-marine.png" alt="" width="24"> (0,75 %) ou d'un autre trésor (3,5 %) : bonbons, CT, cristaux, améliorations de canne, œufs… et très rarement une **Master Ball**.
 * **Le Léviathan des Abysses** : lors d'un événement, pêcher en zone donne des **lots d'écailles de Léviator** <img src="../.gitbook/assets/peche-lot-ecailles-leviator.png" alt="" width="24">, à offrir à l'autel commun (`/peche communaute`). Une fois l'objectif atteint, le boss apparaît : tu le frappes en esquivant ses attaques. Il ne se capture pas.
 
 ***

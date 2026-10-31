@@ -40,7 +40,7 @@ Plus il y a de monde connecté, plus les légendaires sortent souvent.
 | **41 et plus**    |         **30 %** |
 
 {% hint style="warning" %}
-Le serveur est plafonné à **8 apparitions automatiques par jour**, remises à zéro à minuit. Une fois le quota atteint, plus aucun légendaire ne sort naturellement avant le lendemain.
+Le serveur est plafonné à **8 apparitions automatiques par jour**, remises à zéro chaque jour à **6 h du matin**. Une fois le quota atteint, plus aucun légendaire ne sort naturellement avant le lendemain.
 {% endhint %}
 
 ***
@@ -77,7 +77,7 @@ Les Pokémon dits **« restreints »** (Rayquaza, Palkia, Dialga, Zygarde, Etern
 Ça veut dire une chose simple : **le biome où tu joues détermine les légendaires que tu peux croiser**. Si tu cherches un légendaire précis, va t'installer dans son biome. Un biome sans pool dédié est automatiquement rattaché au pool thématique le plus proche.
 {% endhint %}
 
-Utilise `/legendaire` en jeu pour consulter les chances d'apparition là où tu te trouves.
+Utilise `/legendaire` (ou `/leg`) en jeu pour consulter les chances d'apparition là où tu te trouves. La commande est utilisable une fois toutes les **30 secondes**.
 
 ***
 

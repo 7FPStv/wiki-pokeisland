@@ -16,10 +16,25 @@ Le **Ranked** est le mode compétitif du serveur. Tu rejoins une file d'attente,
 | File | Commande | Classé ? | Restrictions d'équipe |
 | ------------- | ------------ | -------- | --------------------- |
 | **Ranked** | `/ranked` | Oui (ELO) | Oui |
-| **Unranked** | `/unranked` | Non (stats gardées) | Oui |
+| **Random** | `/unranked` | ELO Random à part | Équipe tirée au sort |
 | **Libre** | `/free` ou `/libre` | Non | **Non** |
 
-Les trois existent aussi en **2v2** (combats Doubles), avec un ELO séparé du 1v1.
+Ranked, Unranked et Libre existent aussi en **2v2** (combats Doubles), avec un ELO séparé du 1v1. En **1v1**, l'Unranked est remplacé par le **Random**.
+
+***
+
+## Le mode Random
+
+Depuis le 30 octobre 2026, le **Random** remplace l'Unranked 1v1. Tu ne combats **pas** avec tes Pokémon : chacun reçoit une offre tirée au sort et compose son équipe.
+
+* **Draft** : choisis **6 Pokémon parmi 12** en **90 secondes**. Le premier choisi mène. Si le temps est écoulé, l'équipe est complétée au hasard.
+* Les Pokémon sont des **locations** équilibrées : sets *Random Battle* de Showdown sur les **1 025 espèces**, avec des niveaux ajustés pour que tout se vaille.
+* **Variantes à thème** : chaque draft contient au moins un Pokémon aux couleurs d'un événement (Éclipse, Halloween, Pêche, Summer, Pâques). C'est purement visuel.
+* Très rarement (**0,5 %** par place), une **fusion** custom apparaît dans l'offre…
+* Les joueurs sont **figés** pendant le match.
+* Classement à part : `/toprank random`. Revois ton équipe avec `/ranked equipe`.
+
+Le Random rapporte la même monnaie que l'ancien Unranked : **3 unranked** par victoire, **1** par défaite.
 
 {% hint style="info" %}
 La file est **partagée sur tout le réseau**. Tu peux faire la queue depuis n'importe quel serveur : tu seras transféré vers le serveur des arènes, puis renvoyé chez toi à la fin du match.
@@ -183,7 +198,7 @@ Les combats te rapportent deux monnaies : **ranked** et **unranked**. Elles s'é
 | File | Victoire | Défaite |
 | ---- | -------- | ------- |
 | **Ranked** (1v1 et 2v2) | 3 ranked + 25 XP Dresseur | 1 ranked + 10 XP Dresseur (1v1) |
-| **Unranked** et **Libre** | 3 unranked | 1 unranked |
+| **Random** et **Libre** | 3 unranked | 1 unranked |
 
 Certains articles sont **verrouillés par rang** et **limités en quantité** :
 
@@ -217,10 +232,12 @@ Les limites sont **cumulatives** : monter de rang débloque des achats suppléme
 | Commande | Effet |
 | --------------- | ------------------------------------- |
 | `/ranked` | Menu et file classée |
-| `/unranked` | File non classée |
+| `/unranked` | File Random (équipe tirée au sort) |
+| `/ranked equipe` | Ton équipe Random en cours |
 | `/free` | File libre (sans restrictions) |
 | `/rank [joueur]` | Ton rang ou celui d'un autre |
 | `/toprank` | Classement des meilleurs joueurs |
+| `/toprank random` | Classement du mode Random |
 
 {% hint style="danger" %}
 Taper `/endbattle` ou `/forfeit` pendant un match compte comme un **abandon** : tu es déclaré perdant.
