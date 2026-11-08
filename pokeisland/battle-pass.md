@@ -19,7 +19,7 @@ Le **Pass de combat** te donne des objectifs quotidiens et te récompense au fil
 4. Chaque niveau débloque une récompense **gratuite** et une récompense **premium**.
 
 {% hint style="info" %}
-Le pass est **remis à zéro chaque mois**. Les quêtes, elles, se renouvellent **tous les jours**.
+Le pass est **remis à zéro chaque mois** : le 1er, tout le monde repart du niveau 1 avec les récompenses du nouveau mois. Les quêtes, elles, se renouvellent **tous les jours**.
 {% endhint %}
 
 ***
@@ -73,9 +73,13 @@ Ces quêtes se recoupent avec ce que tu fais déjà : combattre et capturer des 
 
 Chaque niveau a **deux récompenses** : celle de la voie gratuite, accessible à tous, et celle de la voie **premium**, réservée aux joueurs qui possèdent le pass premium.
 
-Chaque niveau rapporte aussi de la **Monnaie Éclipse** : **1** sur la voie gratuite, **2** sur la voie premium (50 et 100 sur l'ensemble du pass). Les PokéCoins ne se trouvent que sur la voie gratuite.
+Les PokéCoins ne se trouvent que sur la voie gratuite.
 
-Au programme : peluches Éclipse (en version Shiny côté premium), Tickets Box Pokémon, clés, cristaux EV, IV et de niveau, DT, œufs, Master Balls… et, au niveau 50, l'**armure Kyogre Primo** complète.
+Au programme : six [Pokémon Novembre](../cobblemon/pokemon/novembre-2026.md) côté premium (Tortank, Torterra, Ronflex, Gardevoir, Pingoléon et Diancie), Tickets Box Pokémon, clés Vote, Expert et Champion, cristaux EV, IV et de niveau, DT, œufs, Master Balls… et, au niveau 50, l'**armure Xerneas** complète (en version Shiny côté premium).
+
+{% hint style="info" %}
+L'armure Xerneas augmente tes chances de croiser un Pokémon sauvage shiny : **+5 %** par pièce portée (**+7,5 %** pour l'armure Shiny), et un bonus supplémentaire si tu portes les quatre pièces, soit **+25 %** pour l'armure complète (**+37,5 %** en Shiny).
+{% endhint %}
 
 <details>
 
@@ -83,44 +87,44 @@ Au programme : peluches Éclipse (en version Shiny côté premium), Tickets Box 
 
 | Niveau | Gratuit | Premium |
 | :----: | ------- | ------- |
-| 1 | 1 Cristal de Niveau | **Dracolosse Éclipse** |
+| 1 | 1 Cristal de Niveau | **Tortank Novembre** |
 | 2 | 2 000 PokéCoins | 1 Ticket Box Pokémon |
-| 3 | Peluche Psykokwak Éclipse | Peluche Psykokwak Éclipse Shiny |
+| 3 | 3 Super Bonbons | 1 Ticket Box Pokémon |
 | 4 | 1 Ticket Box Pokémon | 5 Super Bonbons |
-| 5 | Peluche Héricendre Éclipse | Peluche Héricendre Éclipse Shiny |
-| 6 | 1 DT aléatoire | 1 Clé Éclipse |
+| 5 | 1 Clé Vote | **Torterra Novembre** |
+| 6 | 1 DT aléatoire | 1 Clé Expert |
 | 7 | 1 Cristal EV PV | 2 Cristaux de Niveau |
 | 8 | 1 Clé Vote | 1 Clé Cosmétique |
-| 9 | 1 Recharge d'énergie | 1 Restes |
-| 10 | Peluche Branette Éclipse | Peluche Branette Éclipse Shiny |
+| 9 | 1 Recharge d'énergie | 1 Casque Brut |
+| 10 | 1 DT aléatoire | 2 Cristaux de Niveau |
 | 11 | 5 Super Bonbons | 1 Clé Expert |
 | 12 | 1 DT aléatoire | 6 Cristaux EV (un de chaque) |
-| 13 | Peluche Scorvol Éclipse | Peluche Scorvol Éclipse Shiny |
+| 13 | 5 Super Bonbons | **Ronflex Novembre** |
 | 14 | 1 Ticket Box Pokémon | 1 Patch Talent |
 | 15 | 4 000 PokéCoins | 1 Parchemin de quête légendaire |
-| 16 | 1 Clé Vote | 1 Orbe Vie |
+| 16 | 1 Clé Vote | 1 Ceinture Force |
 | 17 | 1 Ticket de Safari | 1 Œuf Pokémon Shiny |
-| 18 | Peluche Jungko Éclipse | Peluche Jungko Éclipse Shiny |
+| 18 | 1 Ticket Box Pokémon | 2 Tickets Box Pokémon |
 | 19 | 1 objet aléatoire | 1 Œuf Pokémon Shiny |
-| 20 | Peluche Mentali Éclipse | Peluche Mentali Éclipse Shiny |
+| 20 | 1 Clé Vote | **Gardevoir Novembre** |
 | 21 | 2 Cristaux de Niveau | 2 Tickets Box Pokémon |
 | 22 | 1 Cristal EV Attaque, 1 Cristal EV Défense | 6 Cristaux EV (un de chaque) |
 | 23 | 1 Recharge d'énergie | 1 Clé Expert |
-| 24 | 1 Ticket de Safari | 1 Mouchoir Choix |
+| 24 | 1 Ticket de Safari | 1 Veste de Combat |
 | 25 | 1 Œuf du marchand | 1 Cristal IV Parfait |
-| 26 | 1 Clé Éclipse | 1 Parchemin de quête épique |
-| 27 | Peluche Lugulabre Éclipse | Peluche Lugulabre Éclipse Shiny |
+| 26 | 1 Clé Expert | 1 Parchemin de quête épique |
+| 27 | 2 Cristaux de Niveau | **Pingoléon Novembre** |
 | 28 | 2 DT aléatoires | 1 Item Légendaire aléatoire |
 | 29 | 1 Œuf Pokémon aléatoire | 1 Clé Expert |
-| 30 | Peluche Mimiqui Éclipse | Peluche Mimiqui Éclipse Shiny |
-| 31 | 1 Ticket Box Pokémon | 1 Lunettes Choix |
+| 30 | 2 Tickets Box Pokémon | 1 Cristal IV Parfait |
+| 31 | 1 Ticket Box Pokémon | 1 Bandeau Choix |
 | 32 | 1 Cristal de Niveau | 1 Méga Gemme aléatoire |
-| 33 | Peluche Arcanin Éclipse | Peluche Arcanin Éclipse Shiny |
-| 34 | 1 Cristal IV Parfait | 1 Clé Éclipse |
+| 33 | 2 DT aléatoires | 1 Œuf Pokémon Shiny |
+| 34 | 1 Cristal IV Parfait | 1 Clé Champion |
 | 35 | 1 Cristal EV Att. Spé., 1 Déf. Spé., 1 Vitesse | 3 Grandes Recharges d'énergie |
-| 36 | 10 Super Bonbons | 1 Ceinture Pro |
-| 37 | Peluche Ectoplasma Éclipse | Peluche Ectoplasma Éclipse Shiny |
-| 38 | 1 Clé Éclipse + 8 000 PokéCoins | 1 Clé Éclipse |
+| 36 | 10 Super Bonbons | 1 Évoluroc |
+| 37 | 2 Clés Vote | **Diancie Novembre** |
+| 38 | 1 Clé Expert + 8 000 PokéCoins | 1 Clé Champion |
 | 39 | 1 Parchemin de quête rare | 3 Tickets Box Pokémon |
 | 40 | 1 Parchemin de quête commun | 2 Cristaux IV Parfaits |
 | 41 | 2 DT aléatoires | 1 Item Légendaire aléatoire |
@@ -128,16 +132,16 @@ Au programme : peluches Éclipse (en version Shiny côté premium), Tickets Box 
 | 43 | **Master Ball** | Grade Shiny temporaire (1 semaine) |
 | 44 | 2 Tickets Box Pokémon | 1 Clé Champion |
 | 45 | 2 Clés Vote | 1 Clé Champion |
-| 46 | 1 Clé Éclipse | 1 Méga Gemme aléatoire |
+| 46 | 1 Clé Expert | 1 Méga Gemme aléatoire |
 | 47 | 1 Clé Dresseur | **Œuf Pokémon Légendaire** |
 | 48 | 1 Œuf Pokémon aléatoire | 1 Pierre Shiny |
 | 49 | **Master Ball** | 2 Clés Champion |
-| 50 | **Armure Kyogre Primo complète** | **Armure Kyogre Primo Shiny complète** |
+| 50 | **Armure Xerneas complète** | **Armure Xerneas Shiny complète** |
 
 </details>
 
 {% hint style="info" %}
-Le pass premium s'obtient via la [Boutique](boutique.md). Il débloque **toute la colonne premium**, y compris les niveaux que tu as déjà passés.
+Le pass premium s'obtient via la [Boutique](boutique.md). Il débloque **toute la colonne premium**, y compris les niveaux que tu as déjà passés. Il vaut pour le **mois en cours** : à la remise à zéro du 1er, l'accès premium est retiré.
 {% endhint %}
 
 ***

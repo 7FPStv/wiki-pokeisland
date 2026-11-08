@@ -103,7 +103,7 @@ Les peluches sont des **blocs décoratifs** : pose-les sur ton île, elles se to
 | **Éclipse** | Arcanin, Branette, Bulbizarre (♂ et ♀), Carchacrok (♂ et ♀), Desséliande, Dracolosse, Ectoplasma, Giratina, Hélédelle, Héricendre, Jungko, Lugulabre, Magirêve, Malvalame, Mentali, Mewtwo, Mimiqui, Pingoléon, Psykokwak, Scorvol |
 | **Halloween** | Absol, Bruyverne, Corboss, Darkrai, Démolosse, Feunard, Goupelin, Lunala, Malamandre, Miascarade, Momartik, Noctunoir, Nostenfer, Spiritomb, Ténéfix, Zoroark |
 
-Les peluches Éclipse s'obtiennent dans le [Pass de combat](battle-pass.md), les peluches d'Halloween dans la [Box d'Halloween](evenements/halloween.md#la-box-dhalloween).
+Les peluches Éclipse s'obtenaient dans le [Pass de combat](battle-pass.md) d'octobre 2026, les peluches d'Halloween dans la [Box d'Halloween](evenements/halloween.md#la-box-dhalloween).
 
 ***
 

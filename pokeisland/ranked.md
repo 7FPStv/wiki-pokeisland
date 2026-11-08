@@ -32,6 +32,7 @@ Depuis le 30 octobre 2026, le **Random** remplace l'Unranked 1v1. Tu ne combats 
 * **Variantes à thème** : chaque draft contient au moins un Pokémon aux couleurs d'un événement (Éclipse, Halloween, Pêche, Summer, Pâques). C'est purement visuel.
 * Très rarement (**0,5 %** par place), une **fusion** custom apparaît dans l'offre…
 * Les joueurs sont **figés** pendant le match.
+* Aucun de tes Pokémon n'est utilisé ni donné : l'équipe n'existe que le temps du combat. Les **objets du sac** sont bloqués, comme en Ranked.
 * Classement à part : `/toprank random`. Revois ton équipe avec `/ranked equipe`.
 
 Le Random rapporte la même monnaie que l'ancien Unranked : **3 unranked** par victoire, **1** par défaite.
@@ -56,7 +57,7 @@ La file est **partagée sur tout le réseau**. Tu peux faire la queue depuis n'i
 
 3. Adversaire trouvé : **5 secondes** de compte à rebours, puis téléportation en arène.
 4. **Team Preview** : tu vois l'équipe adverse et ses talents avant de jouer.
-5. Le combat se joue en **GEN 9 Singles** (Doubles en 2v2), tous les Pokémon ramenés au **niveau 100**.
+5. Le combat se joue en **GEN 9 Singles** (Doubles en 2v2), tous les Pokémon ramenés au **niveau 100**, sauf en Random, où chaque espèce garde son niveau d'équilibrage.
 6. À la fin, tu es renvoyé là où tu étais.
 
 Les équipes sont **soignées avant le combat**, et les **objets du sac sont bloqués** pendant le match en Ranked et Unranked : Potions, Rappels, Huiles, Baies, objets X… Si tu essaies, l'objet n'est pas consommé.

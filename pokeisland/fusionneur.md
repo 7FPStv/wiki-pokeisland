@@ -18,6 +18,10 @@ Le **Fusionneur** te permet de créer des Pokémon fusionnés — des Fakemon ex
 3. Tu valides la fusion : les Pokémon sont consommés.
 4. Tu reviens récupérer ton résultat quand la fusion est prête.
 
+{% hint style="danger" %}
+**Attention aux Pokémon précieux.** Si tu sélectionnes un Pokémon **shiny** ou d'une **édition limitée** (Éclipse, Halloween, Pêche, Été, Pâques), un avertissement rouge s'affiche dans le menu et dans le tchat. Ce n'est qu'un avertissement : si tu valides, il est **définitivement sacrifié**.
+{% endhint %}
+
 Le Pokémon obtenu arrive **niveau 50**, avec **5 % de chance d'être shiny**.
 
 {% hint style="warning" %}

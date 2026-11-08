@@ -200,6 +200,14 @@ Pense à ton énergie **avant** de partir chasser un légendaire : une apparitio
 
 <details>
 
+<summary><strong>Est-ce que je perds mon inventaire si je meurs ?</strong></summary>
+
+Non. Le **keep inventory** est activé : à ta mort, tu gardes **tout ton inventaire et ton expérience**.
+
+</details>
+
+<details>
+
 <summary><strong>Pourquoi le mode grotte de ma minicarte ne marche pas ?</strong></summary>
 
 La minicarte **Xaero's Minimap** est autorisée, radar des entités compris. Seul son **mode grotte** (Cave mode) est désactivé dans l'Overworld : il permettait de repérer les galeries et les minerais à travers le sol. Il fonctionne toujours dans le Nether.

@@ -109,7 +109,7 @@ L'Extrême garde deux butins à part, en plus des points :
 
 ## La Tour Infinie
 
-Une 5ᵉ difficulté **sans fin** : chaque étage t'oppose un dresseur tiré parmi **120 équipes**, et ça monte jusqu'à ce que tu tombes.
+Une 5ᵉ difficulté **sans fin** : chaque étage t'oppose un dresseur dont l'équipe est tirée parmi **120 Pokémon** aux sets travaillés, et ça monte jusqu'à ce que tu tombes.
 
 * Tu combats avec **ta vraie équipe à son vrai niveau** : pas de niveau maximum imposé. Équipe de **3 à 6** Pokémon.
 * Les adversaires commencent **niveau 40** et prennent **1 niveau par étage**.
@@ -117,7 +117,11 @@ Une 5ᵉ difficulté **sans fin** : chaque étage t'oppose un dresseur tiré par
 * À partir de l'étage **20**, tous leurs IV sont parfaits. À partir de l'étage **28**, ils peuvent méga-évoluer et téracristalliser.
 * Un **boss tous les 10 étages** : 6 Pokémon, IA maximale, 5 niveaux de plus.
 
-**Points Combat** : 1 par étage, et de plus en plus en montant (7 à l'étage 10, 13 à l'étage 20…). Atteindre l'étage 30 rapporte environ **93 points**, **sans plafond** par jour. Chaque étage gagné donne aussi **20 XP de Dresseur**.
+**Points Combat** : 1 par étage, et de plus en plus en montant (7 à l'étage 10, 13 à l'étage 20…). Atteindre l'étage 30 rapporte environ **93 points**, **sans plafond** par jour. La Tour Infinie ne donne **pas d'XP de Dresseur**.
+
+{% hint style="warning" %}
+**Un étage ne paie qu'une fois par mois.** Seuls les étages **au-dessus de ton record du mois** rapportent des Points Combat. Avec un record de 28, si tu reprends à l'étage 21, les étages 21 à 28 ne rapportent plus rien : les points reprennent à l'étage 29.
+{% endhint %}
 
 {% hint style="info" %}
 **Paliers du mois** : ton ascension reprend juste après la **dernière dizaine franchie** dans le mois (28 étages gagnés → reprise à l'étage 21). La tour change le **1ᵉʳ de chaque mois**, et le classement (`/tour top infinie`) repart à zéro.
@@ -162,7 +166,7 @@ Sans ça, la tour serait ingagnable dès le 3ᵉ combat. Tu ne peux pas entrer a
 * Tu es **invulnérable** et tu ne perds pas de faim.
 
 {% hint style="danger" %}
-**Se déconnecter = défaite.** L'ascension est fermée, ta tentative des 24 heures est consommée, et rien n'est reprenable. Les récompenses déjà gagnées sont conservées et te sont rendues à la reconnexion.
+**Se déconnecter = défaite.** L'ascension est fermée, ta tentative est consommée (24 heures d'attente, ou 1 minute à la [Tour Infinie](#la-tour-infinie)), et rien n'est reprenable. Les récompenses déjà gagnées sont conservées et te sont rendues à la reconnexion.
 
 Seule exception : un redémarrage du serveur ne te coûte pas de tentative.
 {% endhint %}

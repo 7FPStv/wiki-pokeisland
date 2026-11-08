@@ -7,7 +7,7 @@ icon: ghost
 
 # Pokémon Halloween 2026
 
-Les Pokémon d'Halloween sont des **formes cosmétiques** : ils gardent les types, les statistiques et les talents de leur forme normale. Ils ne peuvent pas se reproduire.
+Les Pokémon d'Halloween sont des **formes cosmétiques** : ils gardent les types, les statistiques et les talents de leur forme normale.
 
 ## Comment les obtenir
 

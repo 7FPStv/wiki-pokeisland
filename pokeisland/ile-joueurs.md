@@ -28,3 +28,31 @@ Dans un premier temps, tu dois connaître quelques commandes qui t'aideront pour
 ### Divers
 
 <table><thead><tr><th width="223">Commande</th><th>Description</th></tr></thead><tbody><tr><td>/is chat | /is c</td><td><strong>Active/Désactive</strong> le tchat de l'île</td></tr><tr><td>/is border</td><td><strong>Personnaliser</strong> la couleur de la bordure de l'île</td></tr></tbody></table>
+
+***
+
+## Agrandir ton île
+
+`/is upgrade` agrandit la bordure de ton île. Chaque amélioration se paie avec la **banque de l'île**, pas avec l'argent que tu as sur toi : dépose d'abord tes PokéCoins avec `/is bank`.
+
+| Niveau | Taille | Prix |
+| :----: | :----: | ---: |
+| 1 | 10×10 | — |
+| 2 | 15×15 | 5 000 |
+| 3 | 22×22 | 10 000 |
+| 4 | 30×30 | 20 000 |
+| 5 | 40×40 | 30 000 |
+| 6 | 52×52 | 40 000 |
+| 7 | 67×67 | 60 000 |
+| 8 | 85×85 | 90 000 |
+| 9 | 105×105 | 150 000 |
+| 10 | 130×130 | 220 000 |
+| 11 | 160×160 | 300 000 |
+| 12 | 195×195 | 400 000 |
+| 13 | 235×235 | 600 000 |
+| 14 | 280×280 | 800 000 |
+| 15 | 325×325 | 1 000 000 |
+
+{% hint style="warning" %}
+Si la banque de l'île n'a pas assez de PokéCoins, l'amélioration est refusée, même si tu as la somme sur toi. Il faut **3 725 000 PokéCoins** au total pour atteindre le niveau maximum.
+{% endhint %}

@@ -36,7 +36,11 @@ Chaque donjon est **bâti pour ta run** : salles tirées au sort, adversaires et
 Chaque portail a **son tier** (1 à 5) et mène toujours **à la même team**. Pour changer de difficulté, trouve un autre portail.
 {% endhint %}
 
-Aucune clef ni ticket n'est nécessaire : les donjons de team sont en **accès libre**.
+Aucune clef ni ticket n'est nécessaire : les donjons de team sont en **accès libre**, sans délai entre deux runs.
+
+{% hint style="warning" %}
+Un portail utilisé est **occupé** pendant la run, puis se **recharge 3 heures** pour tout le monde. Les autres portails restent libres : cherches-en un autre.
+{% endhint %}
 
 ***
 
@@ -55,20 +59,20 @@ Jusqu'à **6 joueurs** par run. Forme ton groupe **avant** d'entrer : c'est le *
 | `/donjon groupe disband` | Dissout le groupe (chef seulement) |
 
 {% hint style="warning" %}
-Personne ne peut **rejoindre une run déjà commencée**. Tout le groupe entre ensemble.
+Tant que ton groupe est dans la **première salle**, un joueur peut cliquer sur le même portail pour demander à entrer : le chef accepte avec `/donjon accept <joueur>` (ou refuse avec `/donjon deny <joueur>`) dans les 60 secondes. Une fois la première salle quittée, plus personne n'entre.
 {% endhint %}
 
 ***
 
 ## Les tiers
 
-| Tier | Salles (boss compris) | Niveau des Pokémon |
-| :---: | :---: | :---: |
-| **1** | 3 | ~45 |
-| **2** | 3 à 4 | |
-| **3** | 4 | |
-| **4** | 4 à 5 | |
-| **5** | 5 à 6 | ~78 |
+| Tier | Salles (boss compris) | Niveau des Pokémon | Niveau du boss |
+| :---: | :---: | :---: | :---: |
+| **1** | 3 | ~45 | ~53 |
+| **2** | 3 à 4 | ~54 | ~63 |
+| **3** | 4 | ~60 | ~70 |
+| **4** | 4 à 5 | ~69 | ~81 |
+| **5** | 5 à 6 | ~78 | ~91 |
 
 Plus le tier monte, plus les ennemis sont résistants, plus les **élites** sont fréquents… et plus les récompenses sont grosses.
 
@@ -118,7 +122,7 @@ Une fois l'objectif rempli, avance jusqu'au **cercle lumineux** au sol, après l
 
 ## Récompenses
 
-Chaque salle terminée rapporte des **PokéDollars** et des **Points Donjon** à **chaque membre** du groupe. Terminer la run ajoute une prime en PokéDollars et un **bonus de Points Donjon**.
+Chaque salle terminée rapporte des **PokéCoins** et des **Points Donjon** à **chaque membre** du groupe. Terminer la run ajoute une prime en PokéCoins et un **bonus de Points Donjon**.
 
 | Tier | Bonus de fin | Total approximatif par joueur |
 | :---: | :---: | :---: |
@@ -128,7 +132,7 @@ Chaque salle terminée rapporte des **PokéDollars** et des **Points Donjon** à
 | **4** | 7 à 12 | ~32 |
 | **5** | 12 à 20 | ~55 |
 
-Le boss rapporte à lui seul **5 Points Donjon** (avant le multiplicateur du tier).
+Le boss rapporte à lui seul **4 Points Donjon** (avant le multiplicateur du tier).
 
 {% hint style="success" %}
 Si tu n'es pas connecté au moment du versement, tes récompenses t'attendent : elles te sont livrées à ta prochaine connexion (`/donjon rewards` pour les récupérer tout de suite).
@@ -154,7 +158,7 @@ Les Points Donjon se dépensent dans la **Boutique Donjon** : `/donjon shop`. **
 | | 🌌 **Œuf Céleste** | 3 000 |
 
 {% hint style="info" %}
-La Boutique Donjon ne vend **pas** ce que propose déjà la [Boutique Combat](tour-de-combat.md#la-boutique-combat) (menthes, vitamines, objets Choix, Orbe Vie, cristaux Z…) : les deux se complètent.
+La Boutique Donjon ne vend pas ce que propose la [Boutique Combat](tour-de-combat.md#la-boutique-combat) (menthes, vitamines, objets Choix, Orbe Vie, cristaux Z…) : les deux se complètent. Seuls les Œufs Shiny et Céleste sont dans les deux, plus chers ici.
 {% endhint %}
 
 ***
@@ -169,4 +173,5 @@ La Boutique Donjon ne vend **pas** ce que propose déjà la [Boutique Combat](to
 | `/donjon shop` | La Boutique Donjon |
 | `/donjon rewards` | Récupérer tes récompenses en attente |
 | `/donjon stats` | Tes statistiques |
-| `/donjon top` | Classement |
+| `/donjon accept <joueur>` / `deny <joueur>` | Accepter ou refuser un joueur qui demande à rejoindre ta run |
+| `/donjon top <team> [tier]` | Meilleurs temps (ex. `/donjon top aqua 3`) |
