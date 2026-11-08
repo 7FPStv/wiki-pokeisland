@@ -75,6 +75,7 @@
   * [Pokémon Été 2026](cobblemon/pokemon/ete-2026.md)
   * [Pokémon Éclipse 2026](cobblemon/pokemon/eclipse-2026.md)
   * [Pokémon Halloween 2026](cobblemon/pokemon/halloween-2026.md)
+  * [Pokémon Novembre 2026](cobblemon/pokemon/novembre-2026.md)
 * [Capacités : CT & DT](cobblemon/capacites-ct-dt.md)
 * [CobbleNav](cobblemon/cobblenav.md)
 * [Meubles (CobbleFurnies)](cobblemon/cobblefurnies.md)
